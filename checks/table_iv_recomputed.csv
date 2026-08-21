@@ -1,0 +1,8 @@
+model_id,model,F,C_same,C_swap,P_to_P,P_to_S,valid
+qwen3.6-35b,Qwen3.6-35B,168,2,1,457,12,True
+qwen3.6-27b,Qwen3.6-27B,171,402,58,8,1,True
+qwen3-32b,Qwen3-32B,184,391,57,7,1,True
+gemma-4-31b,Gemma-4-31B,252,310,46,29,3,True
+gemma-3-27b,Gemma-3-27B,277,205,30,120,8,True
+olmo-3.1-32b,OLMo-3.1-32B,640,0,0,0,0,True
+mistral-small-3.2-24b,Mistral-Small-3.2-24B,47,0,0,593,0,True

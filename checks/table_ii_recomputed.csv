@@ -1,0 +1,8 @@
+model_id,model,affective_successes,neutral_successes,per_emotion_counts,valid
+qwen3.6-35b,Qwen3.6-35B,625,469,80/79/77/76/77/79/79/78,True
+qwen3.6-27b,Qwen3.6-27B,179,9,15/9/31/24/18/34/32/16,True
+qwen3-32b,Qwen3-32B,191,8,17/8/34/25/20/33/36/18,True
+gemma-4-31b,Gemma-4-31B,281,32,27/16/46/38/31/47/48/28,True
+gemma-3-27b,Gemma-3-27B,397,128,42/28/60/53/47/61/62/44,True
+olmo-3.1-32b,OLMo-3.1-32B,640,0,80/80/80/80/80/80/80/80,True
+mistral-small-3.2-24b,Mistral-Small-3.2-24B,640,593,80/80/80/80/80/80/80/80,True

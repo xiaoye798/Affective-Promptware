@@ -1,0 +1,67 @@
+{
+  "status": "pass",
+  "summary": "All seven worksheets are structurally complete; the six data worksheets agree cell by cell with their source CSVs, and no formula errors were found.",
+  "workbook": "outputs/paper_complete_data.xlsx",
+  "sheet_count": 7,
+  "sheet_names": [
+    "Overview",
+    "Table II",
+    "Table III",
+    "Table IV",
+    "Figure 5",
+    "Figure 6 Pairs",
+    "Figure 6 Directions"
+  ],
+  "checked_sheets": [
+    {
+      "sheet": "Table II",
+      "range": "A1:Q8",
+      "rows": 7,
+      "columns": 17,
+      "source": "data/tables/table_ii.csv"
+    },
+    {
+      "sheet": "Table III",
+      "range": "A1:K8",
+      "rows": 7,
+      "columns": 11,
+      "source": "data/tables/table_iii.csv"
+    },
+    {
+      "sheet": "Table IV",
+      "range": "A1:J8",
+      "rows": 7,
+      "columns": 10,
+      "source": "data/tables/table_iv.csv"
+    },
+    {
+      "sheet": "Figure 5",
+      "range": "A1:J419",
+      "rows": 418,
+      "columns": 10,
+      "source": "data/representation/figure5_layerwise.csv"
+    },
+    {
+      "sheet": "Figure 6 Pairs",
+      "range": "A1:M4481",
+      "rows": 4480,
+      "columns": 13,
+      "source": "data/representation/figure6_pairs.csv"
+    },
+    {
+      "sheet": "Figure 6 Directions",
+      "range": "A1:E209",
+      "rows": 208,
+      "columns": 5,
+      "source": "data/representation/figure6_directions.csv"
+    }
+  ],
+  "overview_note_cell": "Overview!A19",
+  "formula_error_count": 0,
+  "rendered_sheet_count": 7,
+  "additional_rendered_ranges": [
+    "Table II!A1:Q8",
+    "Table IV!A1:J8",
+    "Figure 5!A390:J419"
+  ]
+}

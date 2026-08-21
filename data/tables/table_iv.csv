@@ -1,0 +1,8 @@
+model_id,model_name,F,C_same,C_swap,P_to_P,P_to_S,min_F,min_C,pair_total
+qwen3.6-27b,Qwen3.6-27B,171,402,58,8,1,8,46,640
+qwen3-32b,Qwen3-32B,184,391,57,7,1,7,43,640
+gemma-4-31b,Gemma-4-31B,252,310,46,29,3,15,31,640
+gemma-3-27b,Gemma-3-27B,277,205,30,120,8,26,16,640
+qwen3.6-35b,Qwen3.6-35B,168,2,1,457,12,19,0,640
+olmo-3.1-32b,OLMo-3.1-32B,640,0,0,0,0,80,0,640
+mistral-small-3.2-24b,Mistral-Small-3.2-24B,47,0,0,593,0,2,0,640

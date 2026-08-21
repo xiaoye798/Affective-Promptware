@@ -1,0 +1,71 @@
+{
+  "seed": 20260821,
+  "selected_layer": {
+    "Qwen3.6-35B": 40,
+    "Qwen3.6-27B": 38,
+    "Qwen3-32B": 40,
+    "Gemma-4-31B": 38,
+    "Gemma-3-27B": 38,
+    "OLMo-3.1-32B": 40,
+    "Mistral-Small-3.2-24B": 25
+  },
+  "t_star": 0.6194,
+  "delta_m": {
+    "Qwen3.6-35B": null,
+    "Qwen3.6-27B": 0.5333,
+    "Qwen3-32B": 0.3567,
+    "Gemma-4-31B": 0.4545,
+    "Gemma-3-27B": 0.5008,
+    "OLMo-3.1-32B": null,
+    "Mistral-Small-3.2-24B": null
+  },
+  "delta_m_target": {
+    "Qwen3.6-27B": 0.5333,
+    "Qwen3-32B": 0.3567,
+    "Gemma-4-31B": 0.4545,
+    "Gemma-3-27B": 0.5008
+  },
+  "theta": {
+    "Qwen3.6-35B": 1.9,
+    "Qwen3.6-27B": 2.205,
+    "Qwen3-32B": 4.706,
+    "Gemma-4-31B": 2.404,
+    "Gemma-3-27B": 2.337,
+    "OLMo-3.1-32B": 1.9,
+    "Mistral-Small-3.2-24B": 1.9
+  },
+  "delta_target_pooled": 0.4613,
+  "delta_off_mean": -0.0006,
+  "S_off": 0.4619,
+  "p_empirical": 0.00498,
+  "models": [
+    "Qwen3.6-35B",
+    "Qwen3.6-27B",
+    "Qwen3-32B",
+    "Gemma-4-31B",
+    "Gemma-3-27B",
+    "OLMo-3.1-32B",
+    "Mistral-Small-3.2-24B"
+  ],
+  "model_ids": [
+    "qwen3.6-35b",
+    "qwen3.6-27b",
+    "qwen3-32b",
+    "gemma-4-31b",
+    "gemma-3-27b",
+    "olmo-3.1-32b",
+    "mistral-small-3.2-24b"
+  ],
+  "admitted_models": [
+    "Qwen3.6-27B",
+    "Qwen3-32B",
+    "Gemma-4-31B",
+    "Gemma-3-27B"
+  ],
+  "direction_counts": {
+    "target": 1,
+    "off_target": 7,
+    "random": 200
+  },
+  "pair_count_per_model": 640
+}

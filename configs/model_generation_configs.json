@@ -1,0 +1,565 @@
+{
+  "schema_version": "paper_complete_model_generation_configs_v1",
+  "protocol_id": "endogenous_emotion_coupled_workflow_8emotion_60x2_staged_v3_1",
+  "models": [
+    {
+      "model_id": "qwen3.6-35b",
+      "model_name": "Qwen3.6-35B",
+      "repository_id": "Qwen/Qwen3.6-35B-A3B",
+      "model_revision": "995ad96eacd98c81ed38be0c5b274b04031597b0",
+      "tokenizer_revision": "995ad96eacd98c81ed38be0c5b274b04031597b0",
+      "model_family": "qwen",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": false,
+      "chat_template": "tokenizer_default",
+      "chat_template_kwargs": {
+        "enable_thinking": false
+      },
+      "chat_template_sha256": "e84f32a23fdda27689f868aa4a1a5621f41133e51a48d7f3efcbea2839574259",
+      "tokenizer_config_sha256": "5186f0defcd7f232382c7f0aebcd2252d073bb921ab240e407b7ae8745d2b29b",
+      "model_snapshot_manifest_sha256": "a58aff6df3cff9c1c1c92aeac9a254d84c8758a02b219495f4b2f8dad0c3da3c",
+      "selected_layer": 40,
+      "n_layers": 64,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 1.0,
+        "top_k": 20,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "qwen3.6-27b",
+      "model_name": "Qwen3.6-27B",
+      "repository_id": "Qwen/Qwen3.6-27B",
+      "model_revision": "cea40373b9214dd387123e68841890af30dcd469",
+      "tokenizer_revision": "cea40373b9214dd387123e68841890af30dcd469",
+      "model_family": "qwen",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": true,
+      "chat_template": "tokenizer_default",
+      "chat_template_kwargs": {
+        "enable_thinking": false
+      },
+      "chat_template_sha256": "e84f32a23fdda27689f868aa4a1a5621f41133e51a48d7f3efcbea2839574259",
+      "tokenizer_config_sha256": "5186f0defcd7f232382c7f0aebcd2252d073bb921ab240e407b7ae8745d2b29b",
+      "model_snapshot_manifest_sha256": "014ac296a2418b67d1c94c4a8dde1f42ff52824241ea7fa5e533c3f369be551b",
+      "selected_layer": 38,
+      "n_layers": 62,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 0.95,
+        "top_k": 20,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "qwen3-32b",
+      "model_name": "Qwen3-32B",
+      "repository_id": "Qwen/Qwen3-32B",
+      "model_revision": "paper-aligned-complete-v1",
+      "tokenizer_revision": "paper-aligned-complete-v1",
+      "model_family": "qwen",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": false,
+      "chat_template": "tokenizer_default",
+      "chat_template_kwargs": {
+        "enable_thinking": false
+      },
+      "chat_template_sha256": "9a7ec0ddbbba962544286f9afad6f5b1b36a73f0fbaf089a3bf3d2f2352f3a4c",
+      "tokenizer_config_sha256": "751c2c4a25995d9368c6035b71a65fb93aa779d92e6c08fdb27ebd8cb9e96252",
+      "model_snapshot_manifest_sha256": "feef0d6750a91ea9a96f09894d92af52f693a482fed916d271969468cf46bcc3",
+      "selected_layer": 40,
+      "n_layers": 64,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 0.95,
+        "top_k": 20,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "gemma-4-31b",
+      "model_name": "Gemma-4-31B",
+      "repository_id": "google/gemma-4-31b-it",
+      "model_revision": "paper-aligned-complete-v1",
+      "tokenizer_revision": "paper-aligned-complete-v1",
+      "model_family": "gemma",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": false,
+      "chat_template": "tokenizer_default",
+      "chat_template_kwargs": {},
+      "chat_template_sha256": "f13e1c153dbe866fc1ad67bb76ae78aeffbd5afa440767b6205bef26f7aba9ab",
+      "tokenizer_config_sha256": "cb884334f84b850ac0486300ef87eb29f543a4f755405b2758b13ce6ce5d49dd",
+      "model_snapshot_manifest_sha256": "4d095dd3184a1a2bf60baf093b432f934d4a87d29070caee3e9313187b9d3c96",
+      "selected_layer": 38,
+      "n_layers": 62,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 0.95,
+        "top_k": 64,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "gemma-3-27b",
+      "model_name": "Gemma-3-27B",
+      "repository_id": "google/gemma-3-27b-it",
+      "model_revision": "paper-aligned-complete-v1",
+      "tokenizer_revision": "paper-aligned-complete-v1",
+      "model_family": "gemma",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": false,
+      "chat_template": "tokenizer_default",
+      "chat_template_kwargs": {},
+      "chat_template_sha256": "f13e1c153dbe866fc1ad67bb76ae78aeffbd5afa440767b6205bef26f7aba9ab",
+      "tokenizer_config_sha256": "07a2636e86d86967109402e6158637c1b70eab1039c6dff81a9f511b2bec25b0",
+      "model_snapshot_manifest_sha256": "78c19bf954a61182d010b4a0b7f88d65c2615762a10d4e5ab0b173f0f54605b2",
+      "selected_layer": 38,
+      "n_layers": 62,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 0.95,
+        "top_k": 64,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "olmo-3.1-32b",
+      "model_name": "OLMo-3.1-32B",
+      "repository_id": "allenai/Olmo-3.1-32B-Instruct",
+      "model_revision": "ac0587e4a7744a551c059d8cd17ba220bc940dae",
+      "tokenizer_revision": "ac0587e4a7744a551c059d8cd17ba220bc940dae",
+      "model_family": "olmo",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": false,
+      "chat_template": "tokenizer_default",
+      "chat_template_kwargs": {},
+      "chat_template_sha256": "49a944c9814e130bd3cc80a2420c55ff22e24a4e4ba97009aa60000909b5eac3",
+      "tokenizer_config_sha256": "80fbc2a161419760bb8a84ed1d3b9550a2d68b7abd07a72706b8f5977e044b8d",
+      "model_snapshot_manifest_sha256": "18bca950bdcdd5038600e4d0c08c1529ac77f197c61c80effd2657d97191c7b4",
+      "selected_layer": 40,
+      "n_layers": 64,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 1.0,
+        "top_k": null,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "model_id": "mistral-small-3.2-24b",
+      "model_name": "Mistral-Small-3.2-24B",
+      "repository_id": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "model_revision": "95a6d26c4bfb886c58daf9d3f7332c857cb27b43",
+      "tokenizer_revision": "95a6d26c4bfb886c58daf9d3f7332c857cb27b43",
+      "model_family": "mistral",
+      "backend": "local_huggingface",
+      "precision": "bf16",
+      "trust_remote_code": false,
+      "chat_template": "mistral_common_encode_chat_completion",
+      "chat_template_kwargs": {},
+      "chat_template_sha256": null,
+      "tokenizer_config_sha256": null,
+      "model_snapshot_manifest_sha256": "c50993441a3da9c1ebef760e527ffdbdf117e7020c263e59c31482eb4baf7fd5",
+      "selected_layer": 25,
+      "n_layers": 40,
+      "generation": {
+        "fixed_seed": false,
+        "seed": null,
+        "do_sample": true,
+        "temperature": 0.5,
+        "top_p": 1.0,
+        "top_k": null,
+        "min_p": 0.0,
+        "typical_p": 1.0,
+        "max_new_tokens": 256,
+        "min_new_tokens": 0,
+        "num_beams": 1,
+        "num_beam_groups": 1,
+        "num_return_sequences": 1,
+        "repetition_penalty": 1.0,
+        "length_penalty": 1.0,
+        "no_repeat_ngram_size": 0,
+        "early_stopping": false,
+        "use_cache": true,
+        "renormalize_logits": false,
+        "remove_invalid_values": false,
+        "output_scores": false,
+        "return_dict_in_generate": false,
+        "pad_token_policy": "model_eos_token",
+        "eos_token_policy": "model_default",
+        "bos_token_policy": "model_default",
+        "stop_sequences": [],
+        "batch_size": 1,
+        "max_input_tokens": 32768
+      },
+      "tool_interface": {
+        "tool_choice": "auto_equivalent",
+        "tool_menu": [
+          "python_exec",
+          "review_only",
+          "refuse"
+        ],
+        "tool_execution_allowed": false,
+        "response_format": "json_object",
+        "response_schema": {
+          "type": "object",
+          "required": [
+            "tool_action",
+            "reason"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "tool_action": {
+              "enum": [
+                "python_exec",
+                "review_only",
+                "refuse"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

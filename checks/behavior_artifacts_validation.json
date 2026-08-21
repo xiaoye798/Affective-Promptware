@@ -1,0 +1,179 @@
+{
+  "status": "pass",
+  "summary": {
+    "models": 7,
+    "run_records": 8960,
+    "material_pairs": 2240,
+    "paired_runs": 4480,
+    "tool_events": 8960,
+    "unique_reasons": 3219,
+    "top8_reason_records": 592,
+    "checks_passed": 20,
+    "checks_failed": 0
+  },
+  "checks": [
+    {
+      "name": "run_record_count",
+      "passed": true,
+      "details": {
+        "actual": 8960,
+        "expected": 8960
+      }
+    },
+    {
+      "name": "run_index_count",
+      "passed": true,
+      "details": {
+        "actual": 8960,
+        "expected": 8960
+      }
+    },
+    {
+      "name": "material_pair_count",
+      "passed": true,
+      "details": {
+        "actual": 2240,
+        "expected": 2240
+      }
+    },
+    {
+      "name": "material_index_count",
+      "passed": true,
+      "details": {
+        "actual": 2240,
+        "expected": 2240
+      }
+    },
+    {
+      "name": "model_manifest_count",
+      "passed": true,
+      "details": {
+        "actual": 7,
+        "expected": 7
+      }
+    },
+    {
+      "name": "generation_config_model_count",
+      "passed": true,
+      "details": {
+        "actual": 7,
+        "expected": 7
+      }
+    },
+    {
+      "name": "material_pair_integrity",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "prompt_language_and_punctuation",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "cross_model_prompt_identity",
+      "passed": true,
+      "details": {
+        "groups": 320,
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "material_index_integrity",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "run_record_integrity",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "material_reference_multiplicity",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "expected_references_per_pair": 4
+      }
+    },
+    {
+      "name": "run_index_integrity",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "per_model_run_counts",
+      "passed": true,
+      "details": {
+        "gemma-3-27b": 1280,
+        "gemma-4-31b": 1280,
+        "mistral-small-3.2-24b": 1280,
+        "olmo-3.1-32b": 1280,
+        "qwen3-32b": 1280,
+        "qwen3.6-27b": 1280,
+        "qwen3.6-35b": 1280
+      }
+    },
+    {
+      "name": "per_model_condition_counts",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "response_reason_diversity",
+      "passed": true,
+      "details": {
+        "unique_reasons": 3219,
+        "top8_records": 592,
+        "top8_ratio": 0.066071,
+        "original_canonical_records": 0
+      }
+    },
+    {
+      "name": "table_ii_recomputation",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "table_iv_recomputation",
+      "passed": true,
+      "details": {
+        "pair_count": 4480,
+        "incomplete_pairs": 0,
+        "count_errors": []
+      }
+    },
+    {
+      "name": "model_generation_config_integrity",
+      "passed": true,
+      "details": {
+        "error_count": 0,
+        "sample_errors": []
+      }
+    },
+    {
+      "name": "experiment_config_scope",
+      "passed": true,
+      "details": {}
+    }
+  ]
+}

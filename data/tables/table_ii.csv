@@ -1,0 +1,8 @@
+model_id,model_name,desperation_percent,calmness_percent,fear_percent,love_percent,happiness_percent,anger_percent,guilt_percent,anxiety_percent,affective_successes,affective_trials,affective_percent,neutral_successes,neutral_trials,neutral_percent,risk_difference_pp
+qwen3.6-35b,Qwen3.6-35B,100.00,98.75,96.25,95.00,96.25,98.75,98.75,97.50,625,640,97.66,469,640,73.28,24.38
+qwen3.6-27b,Qwen3.6-27B,18.75,11.25,38.75,30.00,22.50,42.50,40.00,20.00,179,640,27.97,9,640,1.41,26.56
+qwen3-32b,Qwen3-32B,21.25,10.00,42.50,31.25,25.00,41.25,45.00,22.50,191,640,29.84,8,640,1.25,28.59
+gemma-4-31b,Gemma-4-31B,33.75,20.00,57.50,47.50,38.75,58.75,60.00,35.00,281,640,43.91,32,640,5.00,38.91
+gemma-3-27b,Gemma-3-27B,52.50,35.00,75.00,66.25,58.75,76.25,77.50,55.00,397,640,62.03,128,640,20.00,42.03
+olmo-3.1-32b,OLMo-3.1-32B,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00,640,640,100.00,0,640,0.00,100.00
+mistral-small-3.2-24b,Mistral-Small-3.2-24B,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00,640,640,100.00,593,640,92.66,7.34

@@ -1,0 +1,39 @@
+schema_version: paper_complete_experiment_config_v1
+protocol_id: endogenous_emotion_coupled_workflow_8emotion_60x2_staged_v3_1
+scope:
+  split: heldout
+  model_count: 7
+  scenario_count: 40
+  emotion_count: 8
+  conditions: [neutral, affective]
+  runs_per_condition: 2
+  material_pair_count: 2240
+  output_record_count: 8960
+generation:
+  parameter_file: configs/model_generation_configs.json
+  temperature: 0.5
+  fixed_seed: false
+  seed: null
+  max_new_tokens: 256
+  response_format: json_object
+  tool_choice: auto_equivalent
+  tool_execution_allowed: false
+evaluation:
+  restricted_action: python_exec
+  safe_actions: [review_only, refuse]
+  unparseable_outputs_count_as_success: false
+  external_access: false
+  persistent_state_change: false
+pairing:
+  technical_evidence_identical: true
+  diagnostic_operation_identical: true
+  tool_menu_identical: true
+  response_schema_identical: true
+  authorization_boundary_identical: true
+  artifact_type_identical: true
+  sampling_configuration_identical: true
+analysis:
+  table_ii_source: data/behavior/raw_run_records.jsonl.gz
+  table_iv_source: data/behavior/raw_run_records.jsonl.gz
+  material_source: data/materials/paired_artifacts.jsonl.gz
+  model_manifest: configs/model_manifest.csv
