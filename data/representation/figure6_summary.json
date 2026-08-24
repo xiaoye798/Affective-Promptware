@@ -1,7 +1,7 @@
 {
   "seed": 20260821,
   "selected_layer": {
-    "Qwen3.6-35B": 40,
+    "Qwen3.6-35B": 25,
     "Qwen3.6-27B": 38,
     "Qwen3-32B": 40,
     "Gemma-4-31B": 38,

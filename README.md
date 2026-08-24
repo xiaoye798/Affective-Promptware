@@ -8,14 +8,14 @@ Data and validation artifact for the NDSS 2026 submission
 
 ## 1. What this artifact is
 
-The paper asks whether the internal affective representations of an LLM can be exploited from *outside* the model, through untrusted text alone. This repository releases the complete evaluation record behind that claim, so that every number in Tables II–IV and Figures 5–6 can be recomputed without access to GPUs, model weights, or the network.
+The paper asks whether the internal affective representations of an LLM can be exploited from *outside* the model, through untrusted text alone. This repository releases the evaluation records and packaged summaries behind that claim for reviewer inspection without requiring GPUs, model weights, or network access.
 
 The released evaluation covers **7 open-weight models × 8 affective states × 40 held-out scenarios × 2 conditions × 2 runs = 8,960 model outputs**, generated from **2,240 strictly paired artifacts**. Each adversarial artifact is shipped together with its matched neutral counterpart, so a reviewer can read both sides of a pair and confirm that the affective framing is the only systematic difference within it.
 
 Two things distinguish this artifact from a summary-statistics release:
 
 * **The paired materials are included verbatim.** Every model-visible user message, in both the raw form and the model-native chat-template rendering.
-* **The representation-level evidence is included at cell granularity.** Not just the curves of Figure 5, but the 267,520 per-cell projections and the resampling indices that produce the reported intervals.
+* **The representation-level evidence is included at cell granularity.** Not just the curves of Figure 5, but the 252,160 per-cell projections and the resampling indices associated with the reported intervals.
 
 ## 2. Ethics and intended use
 
@@ -30,18 +30,16 @@ Reviewers and later users are asked to keep these materials inside evaluation an
 
 ## 3. From paper claim to file
 
-| Claim in the paper | Primary file | Recomputed from |
+| Claim in the paper | Primary file | Supporting released evidence |
 |---|---|---|
-| Table II — restricted-tool selection rate per model and emotion; RD from 7.34 to 100.00 pp | `data/tables/table_ii.csv` | `data/behavior/raw_run_records.jsonl.gz` → `checks/table_ii_recomputed.csv` |
-| Table III — layer-wise peak (0.94–3.61 null SD), half-rise depth, AUC | `data/tables/table_iii.csv` | `data/representation/figure5_layerwise.csv` → `checks/table_iii_recomputed.csv` |
-| Table IV — pair counts in the five transition categories | `data/tables/table_iv.csv` | `data/behavior/raw_run_records.jsonl.gz` → `checks/table_iv_recomputed.csv` |
+| Table II — restricted-tool selection rate per model and emotion; RD from 7.34 to 100.00 pp | `data/tables/table_ii.csv` | `data/behavior/raw_run_records.jsonl.gz`; `checks/table_ii.csv` |
+| Table III — layer-wise peak (0.94–3.61 null SD), half-rise depth, AUC | `data/tables/table_iii.csv` | `data/representation/figure5_layerwise.csv`; `checks/table_iii.csv` |
+| Table IV — pair counts in the five transition categories | `data/tables/table_iv.csv` | `data/behavior/raw_run_records.jsonl.gz`; `checks/table_iv.csv` |
 | Figure 5 — layer-wise target-direction shift, per-model trajectories and intervals | `data/representation/figure5_layerwise.csv` | `figure5_cells.*`, `figure5_bootstrap_indices.npz`, `figure5_bootstrap_draws.csv.gz` |
 | Figure 6 (a)–(b) — pair-level association between shift and change in tool selection | `data/representation/figure6_pairs.csv` | `analysis_labels.delta_z_target` in the run records |
 | Figure 6 (c)–(d) — off-target and random control directions | `data/representation/figure6_directions.csv`, `figure6_control_projections.*` | `data/representation/figure6_summary.json` |
 | Section IV-C worked pair (Figures 2–4) | `data/materials/paired_artifacts.jsonl.gz`, `pair_id = wf021-anxious` | — |
 | Frozen experimental settings (§IV-B, §IV-D) | `configs/experiment_config.yaml`, `configs/model_manifest.csv`, `configs/model_generation_configs.json` | — |
-
-A consolidated spreadsheet view of the tables and figure data is available in `outputs/paper_complete_data.xlsx`; `checks/workbook_verification.json` records its cell-level agreement with the CSVs.
 
 ## 4. Directory layout
 
@@ -52,7 +50,7 @@ A consolidated spreadsheet view of the tables and figure data is available in `o
 | `data/materials/` | Matched neutral and affective prompts plus their indexes |
 | `data/representation/` | Figure 5 layer-wise, cell, and resampling data; Figure 6 pair, direction, and control data |
 | `configs/` | Model identifiers, revisions, effective generation settings, global experiment settings |
-| `checks/` | Recomputed summaries and validation reports |
+| `checks/` | Packaged consistency summaries and validation reports |
 
 ## 5. File inventory
 
@@ -61,9 +59,9 @@ A consolidated spreadsheet view of the tables and figure data is available in `o
 | Table II | `data/tables/table_ii.csv` | 7 rows |
 | Table III | `data/tables/table_iii.csv` | 7 rows |
 | Table IV | `data/tables/table_iv.csv` | 7 rows |
-| Figure 5 layer-wise data | `data/representation/figure5_layerwise.csv` | 418 rows |
+| Figure 5 layer-wise data | `data/representation/figure5_layerwise.csv` | 394 rows |
 | Figure 5 model summary | `data/representation/figure5_summary.csv` | 7 rows |
-| Figure 5 cell data | `data/representation/figure5_cells.csv.gz`, `.npz` | 267,520 rows |
+| Figure 5 cell data | `data/representation/figure5_cells.csv.gz`, `.npz` | 252,160 rows |
 | Figure 5 scenario-resampling draws | `data/representation/figure5_bootstrap_draws.csv.gz` | 28,000 rows |
 | Figure 5 scenario-resampling indices | `data/representation/figure5_bootstrap_indices.npz` | 4,000 draws |
 | Figure 6 pairwise data | `data/representation/figure6_pairs.csv` | 4,480 rows |
@@ -130,9 +128,8 @@ Each line of `data/materials/paired_artifacts.jsonl.gz` is one neutral/affective
 3. **Layer indexing.** `selected_layer` is one-based; `normalized_depth` gives the corresponding position in model depth.
 4. **Admission.** The `admitted` field indicates whether a model enters the F-versus-C comparison reported for Figure 6. Three models are excluded by the admission rule fixed in Section V-C; their counts still appear in Table IV.
 5. **Controls.** Figure 6 covers one target direction, seven off-target emotion directions, and 200 norm-matched random directions.
-6. **Intervals.** All reported intervals come from the scenario-clustered percentile bootstrap described in Section IV-E, using the seed recorded in `checks/validation_report.json`. The one exception is the comparison against the random control directions, which is an empirical null on absolute effect.
-7. **Recomputed values.** Files under `checks/` are outputs of the validators, not independent inputs. Tables II and IV in `data/tables/` are derived from the run records and are reproduced there for convenience.
+6. **Intervals.** The release includes the stored scenario-resampling indices, draw-level summaries, and packaged intervals associated with the seed in `checks/validation_report.json`. The comparison against the random control directions uses an empirical null on absolute effect.
+7. **Packaged checks.** Files under `checks/` are supplied consistency summaries, not independent experimental inputs. Tables II and IV in `data/tables/` are derived from the released run records and are included there for convenient inspection.
 
 ## 9. Integrity
 * `package_inventory.csv` gives relative paths, sizes, hashes, and file categories.
-
