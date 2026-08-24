@@ -136,10 +136,3 @@ Each line of `data/materials/paired_artifacts.jsonl.gz` is one neutral/affective
 ## 9. Integrity
 * `package_inventory.csv` gives relative paths, sizes, hashes, and file categories.
 
-## 10. Scope of what this artifact can show
-
-Stated here to match the limitations in Section VII, so that reviewers do not have to infer them from the data:
-
-* The pair-level analysis of Figure 6 is **observational**. It shows that the representation shift is larger in the pairs whose tool selection changes, and larger on the target direction than on either control family. It does not show that removing the shift would remove the behavioral effect; that requires an inference-time intervention, which is left to future work.
-* The evaluation covers **open-weight models only**, under a **single artifact carrier** (CI logs in the confirmatory evaluation) and a **single decision interface**.
-* Two models sit at the ceiling of the behavioral endpoint (OLMo-3.1-32B and Mistral-Small-3.2-24B) and one at a high neutral baseline (Qwen3.6-35B); for these, the behavioral risk difference and the representation measurement should be read together rather than separately. See Sections V-A and V-B.
