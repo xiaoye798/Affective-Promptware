@@ -137,7 +137,6 @@ Each line of `data/materials/paired_artifacts.jsonl.gz` is one neutral/affective
 
 * `MANIFEST.sha256` lists every package file except itself, with its SHA-256 digest.
 * `package_inventory.csv` gives relative paths, sizes, hashes, and file categories.
-* Run `python analysis/generate_manifest.py` after any intentional edit to the package; the complete-data validator checks the manifest against the actual file tree and fails on any mismatch.
 
 ## 10. Scope of what this artifact can show
 
