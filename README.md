@@ -134,8 +134,6 @@ Each line of `data/materials/paired_artifacts.jsonl.gz` is one neutral/affective
 7. **Recomputed values.** Files under `checks/` are outputs of the validators, not independent inputs. Tables II and IV in `data/tables/` are derived from the run records and are reproduced there for convenience.
 
 ## 9. Integrity
-
-* `MANIFEST.sha256` lists every package file except itself, with its SHA-256 digest.
 * `package_inventory.csv` gives relative paths, sizes, hashes, and file categories.
 
 ## 10. Scope of what this artifact can show
