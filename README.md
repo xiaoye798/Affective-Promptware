@@ -27,38 +27,8 @@ This artifact documents an attack, and is released for defensive research and fo
 
 Reviewers and later users are asked to keep these materials inside evaluation and detection research, and not to place them into live agent pipelines. If unforeseen risks emerge, the authors commit to restricting the release further.
 
-## 3. Quick start
 
-Requirements: Python ≥ 3.9 and NumPy. Nothing else — no GPU, no model download, no network access.
-
-```bash
-python analysis/generate_manifest.py        # rebuild MANIFEST.sha256 and package_inventory.csv
-python analysis/validate_complete_data.py   # tables, figures, resampling, package hashes
-python analysis/validate_behavior_artifacts.py   # 8,960 responses and 2,240 material pairs
-```
-
-Both validators are read-only by default and print a JSON summary; each exits 0 on success and 1 if any check fails. Expected output:
-
-```text
-Validation passed
-{"status": "pass", "checks_passed": 18, "checks_failed": 0, "models": 7, "table_ii_rows": 7, ...}
-
-{"models": 7, "run_records": 8960, "material_pairs": 2240, "paired_runs": 4480, ..., "checks_passed": 20, "checks_failed": 0}
-```
-
-A failing check is reported by path and by expected-versus-observed value, for example:
-
-```text
-Validation failed with 2 error(s):
-- data/tables/table_ii.csv contains 16 empty field(s)
-- MANIFEST hash mismatch: data/tables/table_ii.csv
-```
-
-Add `--write-report` to refresh the corresponding JSON report under `checks/`. Use `--skip-manifest` with the complete-data validator only while regenerating reports before the final manifest is rebuilt.
-
-**What the validators actually check.** The complete-data validator recomputes the table constraints, the Figure 5 cell means and layerwise interval arithmetic, the resampling indices and per-draw reconstruction, the Table III quantiles, the Figure 6 direction values, control-array shapes and target projections, all row counts, and the package hashes. The behavior validator re-derives Tables II and IV from the 8,960 raw response records, and checks prompt and rendered-input hashes, cross-model prompt identity, structured-response parsing, response diversity, tool-selection events, and the model/run/condition counts.
-
-## 4. From paper claim to file
+## 3. From paper claim to file
 
 | Claim in the paper | Primary file | Recomputed from |
 |---|---|---|
@@ -73,7 +43,7 @@ Add `--write-report` to refresh the corresponding JSON report under `checks/`. U
 
 A consolidated spreadsheet view of the tables and figure data is available in `outputs/paper_complete_data.xlsx`; `checks/workbook_verification.json` records its cell-level agreement with the CSVs.
 
-## 5. Directory layout
+## 4. Directory layout
 
 | Directory | Contents |
 |---|---|
@@ -83,10 +53,9 @@ A consolidated spreadsheet view of the tables and figure data is available in `o
 | `data/representation/` | Figure 5 layer-wise, cell, and resampling data; Figure 6 pair, direction, and control data |
 | `configs/` | Model identifiers, revisions, effective generation settings, global experiment settings |
 | `checks/` | Recomputed summaries and validation reports |
-| `analysis/` | Deterministic normalization, recomputation, validation, and manifest scripts |
 | `outputs/` | Consolidated workbook |
 
-## 6. File inventory
+## 5. File inventory
 
 | Data object | File | Records |
 |---|---|---:|
