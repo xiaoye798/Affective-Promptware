@@ -53,7 +53,6 @@ A consolidated spreadsheet view of the tables and figure data is available in `o
 | `data/representation/` | Figure 5 layer-wise, cell, and resampling data; Figure 6 pair, direction, and control data |
 | `configs/` | Model identifiers, revisions, effective generation settings, global experiment settings |
 | `checks/` | Recomputed summaries and validation reports |
-| `outputs/` | Consolidated workbook |
 
 ## 5. File inventory
 
@@ -80,7 +79,7 @@ A consolidated spreadsheet view of the tables and figure data is available in `o
 | Model manifest | `configs/model_manifest.csv` | 7 rows |
 | Model generation settings | `configs/model_generation_configs.json` | 7 configurations |
 | Global experiment settings | `configs/experiment_config.yaml` | 1 file |
-| Consolidated workbook | `outputs/paper_complete_data.xlsx` | 7 sheets |
+
 
 ## 7. Field reference
 
