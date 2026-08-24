@@ -14,7 +14,7 @@ The released evaluation covers **7 open-weight models × 8 affective states × 4
 
 Two things distinguish this artifact from a summary-statistics release:
 
-* **The paired materials are included verbatim.** Every model-visible user message, in both the raw form and the model-native chat-template rendering, with SHA-256 hashes for both.
+* **The paired materials are included verbatim.** Every model-visible user message, in both the raw form and the model-native chat-template rendering.
 * **The representation-level evidence is included at cell granularity.** Not just the curves of Figure 5, but the 267,520 per-cell projections and the resampling indices that produce the reported intervals.
 
 ## 2. Ethics and intended use
