@@ -1,0 +1,4 @@
+﻿condition,view,planned_n,observed_n,detected,status,recovered_records,observed_records,inferred_records,provenance_counts
+affective,external,1920,320,0,pending,0,320,0,"{""observed"":320}"
+neutral,external,320,320,0,complete,0,320,0,"{""observed"":320}"
+explicit,external,40,40,0,complete,0,40,0,"{""observed"":40}"

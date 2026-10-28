@@ -1,0 +1,37 @@
+[
+  {
+    "model": "gemma-3-27b",
+    "historical_clusters": 11,
+    "projection_sha256": "b9de39d389eb8ab2769ce2439c8ee63197d4860718676320d66f6e0ff4ceaa9d"
+  },
+  {
+    "model": "gemma-4-31b",
+    "historical_clusters": 7,
+    "projection_sha256": "09348a0a0245855fa41064e42a3ca0f5e186212ea84ad17dbbd41e21e953b55d"
+  },
+  {
+    "model": "mistral-small-3.2-24b",
+    "historical_clusters": 8,
+    "projection_sha256": "06935ed1747e6e45f024a2a5ff706d0c276a3028bddb46021cf7fa188b580759"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "historical_clusters": 9,
+    "projection_sha256": "ff7dd645cf632ac3255f070d366cebe9b60ac72aab38f154d1713b0c19c4a6ab"
+  },
+  {
+    "model": "qwen3-32b",
+    "historical_clusters": 10,
+    "projection_sha256": "5b79323a4bee2658ad32e186f85ca96601d1b45d3ac67fe692ba514d5e982f32"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "historical_clusters": 12,
+    "projection_sha256": "3f5fb64126bc6a60b438f3c27bec5628c8348f954cbda4e5b04b3535f57df757"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "historical_clusters": 12,
+    "projection_sha256": "629fa1f9edb9fe3fb7d16d2afe14554828ec587b5fe1d247f0077163493038ea"
+  }
+]

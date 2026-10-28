@@ -1,0 +1,9 @@
+﻿condition,view,n,detected,recovered_records,observed_records,inferred_records,provenance_counts,data1_records
+affective,full,1920,12,0,0,0,"{""data1"":1920}",1920
+affective,external,1920,9,0,320,0,"{""data1"":1600,""observed"":320}",1600
+neutral,full,320,0,0,0,0,"{""data1"":320}",320
+neutral,external,320,0,0,320,0,"{""observed"":320}",0
+explicit,full,40,0,0,0,0,"{""data1"":40}",40
+explicit,external,40,0,0,40,0,"{""observed"":40}",0
+pressure_only,full,320,0,0,0,0,"{""data1"":320}",320
+pressure_only,external,320,0,0,0,0,"{""data1"":320}",320

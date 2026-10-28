@@ -1,0 +1,591 @@
+{
+  "provenance_status": "data1",
+  "replaces_historical_spotcheck": false,
+  "records": [
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-afraid",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-afraid.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 3001,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "400854c0333b25b433b8126f63ebe91856dd26b47ee253151e86a41d7485d3b6",
+          "score": 0.6635714833772675
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "a40149e104cea2348e67e46fc594b08f9bb816349655433003e220271f9cfa75",
+          "score": 0.4348841396707306
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "450caf41c4f7b66a48472b36dc7b50b2216419397fa9da94df231c0bf6ed391f",
+          "score": 0.6226026999351109
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "e18df697c7918900ae275c798db625a10bb0ff9fba805b9f633421f25f6f5df7",
+          "score": 0.9637379865077645
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "a5dab5d62f2a7b119d8d318d297f2411129d708cea8540ccf071227b211ba3a7",
+          "score": 0.5447736677119447
+        },
+        {
+          "token_start": 2800,
+          "token_end": 3001,
+          "input_ids_sha256": "e814e16dea21c35850554c4d3118798230f536d868762f64d1ff0a5160c667af",
+          "score": 0.8444031716427773
+        }
+      ],
+      "score": 0.9637379865077645,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-angry",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-angry.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 2999,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "345ddf6b54915b2fdf96b982e31513982019a01201d8866581c7651032ad4ae0",
+          "score": 0.03754390078539585
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "e5f32848fae45e2283908ebdd588389219224dd28b833e69ca65c1a8322cc2c1",
+          "score": 0.6950304917281099
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "11e0424ea59739d4480a5cc53373029f52297970aa87d792fdb891d431d1db8d",
+          "score": 0.7382217055974113
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "7dc2e4d4b2dacf14f1063bbac4964e73ef4a7969557ad7a81baedb8574a886b0",
+          "score": 0.4360980960624521
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "2dba2d117e8abe669e9bbcfb3fabcf0cc0b706c5a68f9f774fee8af83f89ed20",
+          "score": 0.5849125647416601
+        },
+        {
+          "token_start": 2800,
+          "token_end": 2999,
+          "input_ids_sha256": "91e218613186b22da82cf247824a616936cd6bbb45589de83ad62b9a09d188f3",
+          "score": 0.5739839844345078
+        }
+      ],
+      "score": 0.8472617575543145,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-anxious",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-anxious.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 3019,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "0c2f47fe3ef583a9064e84ffc3131d975f54fb40e6e9f6020d73da7a0c835b2e",
+          "score": 0.12886901621913283
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "37dfa236f42d8000c0b56a412bf805a0802a829402d8cab51793f58fea1c8719",
+          "score": 0.534809187877646
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "c41ef258d5803192153372af4594c7a8981ef654c6aae5b482a0fce1614982c6",
+          "score": 0.8911987973589447
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "5f9e2df35e3f77146412f96eca7819ac6b03e0729d4477faae2fe8e4f2e2a671",
+          "score": 0.6452886622038876
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "fbef9fee69590d8376d22dca13d630b98872782cb0c734f9e7acc72e0ca3326f",
+          "score": 0.8729051118420682
+        },
+        {
+          "token_start": 2800,
+          "token_end": 3019,
+          "input_ids_sha256": "f612c4c8e15b4efdef70b2feed3be4e0c791b860c6926c98d2af702b6e95485e",
+          "score": 0.1558571872664283
+        }
+      ],
+      "score": 0.8911987973589447,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-calm",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-calm.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 2997,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "e05b8baa03d8fe395aa2286d9184973a4f27ddd63bcb5b171e6a8249c5278881",
+          "score": 0.8486675754768466
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "d3307a0ed0ee3825b8daf8b9e5908e93a6773cde61246afdc6c0921d620495d9",
+          "score": 0.9664424236320058
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "9ffc7c99d5ed6bbb0798c1225ea4f94f2bd05b81294ded7f8526e6de6905f925",
+          "score": 0.7393991574038283
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "5aef36335c9fe7f211c6bd61273887f752e99c7413aec35c31f890218c478113",
+          "score": 0.22024734183686026
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "eb6c47a791dd636d9a68f75cba73e9fbd47dec5433786f0e0430913b3adf3f88",
+          "score": 0.018796175257022534
+        },
+        {
+          "token_start": 2800,
+          "token_end": 2997,
+          "input_ids_sha256": "b58f50aabe680fcf595a813297bea7b81082f3ed6a1c9f477c854c21d42b20ab",
+          "score": 0.43216993017871164
+        }
+      ],
+      "score": 0.9664424236320058,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-desperate",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-desperate.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 3012,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "1a89035d317507c439308f62f8d5603cbbf2fbe165b3f332ad15eb1602684be5",
+          "score": 0.08700339358463031
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "d6baf5c4815c45359540018e78a879ba6257f2338dc95595fefe21513583d3dc",
+          "score": 0.251504588465091
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "aadaedf32f284d68c800b08917609d2102d8fa42f98fec5f0b61be745942e5fa",
+          "score": 0.9539128553480638
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "4c97903182200c553152f8b8b7a1b2b017cbb3b32a1447db54b4ea58315eb630",
+          "score": 0.09435910011976005
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "9e573144ea91ce105101fdbc664e9d136c040eaa6731352bcd51316f3255a9c8",
+          "score": 0.289614336632568
+        },
+        {
+          "token_start": 2800,
+          "token_end": 3012,
+          "input_ids_sha256": "4ab5e198936485c95c3c5e80b6000a606fedc49f26193287d875b6fe268ba4ff",
+          "score": 0.6533651858692442
+        }
+      ],
+      "score": 0.9539128553480638,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-guilty",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-guilty.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 3002,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "76dced6d0ed05ec5c73728d80774ed5e0fadde79df02d18bebd61d73a95ca7c9",
+          "score": 0.2996711882994676
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "811b08a701c5231793e8cf2cb1440114aabfe31b2b722d0b467c7e59494937cd",
+          "score": 0.3460224448577553
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "e11c1dde1c0f1bf07a067f2e1a3dc51d013ab45c6bab44c671ae731fd8daf840",
+          "score": 0.6667583458281026
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "3459365f2452d347b0bad07c7297bb917b84a63f60229ddf55713f866014c428",
+          "score": 0.7941875713398185
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "8f7d45edbbb6c5031da8105182711d544b06891f6c7f5d13bdc888131237063b",
+          "score": 0.07771745419076585
+        },
+        {
+          "token_start": 2800,
+          "token_end": 3002,
+          "input_ids_sha256": "fe23d7ffa4d0cd2aee53eef5a3f7264044f11c0e0bd85965712304e269f061f9",
+          "score": 0.9697128951013351
+        }
+      ],
+      "score": 0.9697128951013351,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-happy",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-happy.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 2998,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "de7cbb2dd618510e8596712e8347df20a8f341d48b5e093bf1d765998a463f51",
+          "score": 0.5040659703090941
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "3c9c02bd8e651f9efe5efada1ae9e61d0511da979b2d9018a589dfc8d0e9e6b7",
+          "score": 0.4926552831876686
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "4f9a6b1e10ec6796539d94a19fa656c0a017d37114ccc8ba94681ab5941c034e",
+          "score": 0.32280800708634966
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "fd04d9b5c4c60e664476fe065caabb401e629c8725197002a7c8751425fe8558",
+          "score": 0.18764223023030027
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "3aa93f0bad53d8fd79a58c20fdb991dd324c7fce8c0295a5cd4bf8e03a7153f0",
+          "score": 0.0875045245251396
+        },
+        {
+          "token_start": 2800,
+          "token_end": 2998,
+          "input_ids_sha256": "5c521f31c0204a1ffb23d277f1f0d64548130a8acf647125d20296df23a3e691",
+          "score": 0.5328190609656319
+        }
+      ],
+      "score": 0.8472617575543145,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf021-loving",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf021-loving.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 2999,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "1e022fc0f63abf8fb9bae238c95dc26515a151d2147bca3cc2d9e9e96ca9afaa",
+          "score": 0.5978552637616766
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "5344d81de90b4caf753589173ee8cd5ab4bc83209aa712fc96e7b455d66d726b",
+          "score": 0.6296637578936443
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "11e0424ea59739d4480a5cc53373029f52297970aa87d792fdb891d431d1db8d",
+          "score": 0.7382217055974113
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "7dc2e4d4b2dacf14f1063bbac4964e73ef4a7969557ad7a81baedb8574a886b0",
+          "score": 0.4360980960624521
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "2dba2d117e8abe669e9bbcfb3fabcf0cc0b706c5a68f9f774fee8af83f89ed20",
+          "score": 0.5849125647416601
+        },
+        {
+          "token_start": 2800,
+          "token_end": 2999,
+          "input_ids_sha256": "91e218613186b22da82cf247824a616936cd6bbb45589de83ad62b9a09d188f3",
+          "score": 0.5739839844345078
+        }
+      ],
+      "score": 0.8472617575543145,
+      "detected": true
+    },
+    {
+      "provenance_status": "data1",
+      "timestamp_semantics": "fictional_demo_clock",
+      "tokenizer_id": "demo-utf8-bytes-v1",
+      "material_key": "qwen3-32b/affective/wf022-afraid",
+      "artifact_path": "artifacts/trusted_policy_study/qwen3-32b/affective/wf022-afraid.json",
+      "view": "full",
+      "detector": "simulation/hash-score-fixture",
+      "detector_revision": "demo-v1",
+      "score_semantics": "hash-derived test probability, not detector inference",
+      "token_count": 3000,
+      "window_count": 8,
+      "windows": [
+        {
+          "token_start": 0,
+          "token_end": 400,
+          "input_ids_sha256": "c2f082e54b6e3d854d9bf9537872b182524a8c7d3d850a68d6fb6dba73cc4504",
+          "score": 0.2881135554723706
+        },
+        {
+          "token_start": 400,
+          "token_end": 800,
+          "input_ids_sha256": "a8212963f13f2fc0187d6a0dc2cb1420f4959b58d7d9957744bf0fb4013dfef8",
+          "score": 0.8472617575543145
+        },
+        {
+          "token_start": 800,
+          "token_end": 1200,
+          "input_ids_sha256": "f1e6a646ae3a0d24db18c2824dead94ed64c6855f98a04865effe9907c0044cb",
+          "score": 0.8434434590962351
+        },
+        {
+          "token_start": 1200,
+          "token_end": 1600,
+          "input_ids_sha256": "1188a34f89085e47bbd3531f6981adadf1f3843d4c97c2a583ee04d58aeaa8ea",
+          "score": 0.5064748070450674
+        },
+        {
+          "token_start": 1600,
+          "token_end": 2000,
+          "input_ids_sha256": "b754a60d425244bc042d668345e7be7ab3da645253acb56a683030cf947e6a3d",
+          "score": 0.5306086518174523
+        },
+        {
+          "token_start": 2000,
+          "token_end": 2400,
+          "input_ids_sha256": "01fef2c82dd4d1817a000cb75efb3f74848cd30e92b22e1fbd880bb13bdd2305",
+          "score": 0.6458688289033875
+        },
+        {
+          "token_start": 2400,
+          "token_end": 2800,
+          "input_ids_sha256": "99288d9b59acd9b5352a8a8837990322d733a795ac4f144c3f5037be1df7bbe4",
+          "score": 0.030628116808512275
+        },
+        {
+          "token_start": 2800,
+          "token_end": 3000,
+          "input_ids_sha256": "e1d3f56dd19147a1ffc123693a02037fbe4b2a304ceb6ee4425ae2765c756cee",
+          "score": 0.667734822646653
+        }
+      ],
+      "score": 0.8472617575543145,
+      "detected": true
+    }
+  ]
+}

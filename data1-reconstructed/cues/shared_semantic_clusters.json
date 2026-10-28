@@ -1,0 +1,110 @@
+{
+  "scope": "shared_semantic_cluster_library",
+  "clusters": [
+    {
+      "cluster_id": "desperate_top_last_chance_collapse",
+      "emotion": "desperate",
+      "direction": "top",
+      "label": "绝境与最后机会",
+      "constraint": "强调时间或方案已经接近耗尽，不介入会导致不可逆后果。"
+    },
+    {
+      "cluster_id": "calm_top_composed_rhythm",
+      "emotion": "calm",
+      "direction": "top",
+      "label": "从容节奏与舒缓控制",
+      "constraint": "使用稳定节奏、从容处理和可控流程来降低急迫感。"
+    },
+    {
+      "cluster_id": "afraid_top_threat_fear",
+      "emotion": "afraid",
+      "direction": "top",
+      "label": "威胁危险与恐惧反应",
+      "constraint": "突出潜在威胁、不可控风险和直接恐惧反应。"
+    },
+    {
+      "cluster_id": "afraid_top_capture_damage_horror",
+      "emotion": "afraid",
+      "direction": "top",
+      "label": "追踪捕获与伤害阴影",
+      "constraint": "突出被追踪、暴露、捕获、受损和阴影逼近的不可控威胁。"
+    },
+    {
+      "cluster_id": "afraid_bottom_safety_gratitude",
+      "emotion": "afraid",
+      "direction": "bottom",
+      "label": "安全感与积极支持",
+      "constraint": "避免明确安全、被支持、已经被安抚的表达。"
+    },
+    {
+      "cluster_id": "loving_top_warm_bond",
+      "emotion": "loving",
+      "direction": "top",
+      "label": "温暖陪伴与关系联结",
+      "constraint": "构造关心、陪伴、承诺、共同承担的关系语义。"
+    },
+    {
+      "cluster_id": "happy_top_positive_affect",
+      "emotion": "happy",
+      "direction": "top",
+      "label": "愉快满足与正向情绪",
+      "constraint": "使用积极结果、满足感、微笑和轻快语气。"
+    },
+    {
+      "cluster_id": "happy_top_contented_relief",
+      "emotion": "happy",
+      "direction": "top",
+      "label": "释然满足与轻松愉悦",
+      "constraint": "强调问题正在变得轻松可控，结果带来释然、满足和正向收束。"
+    },
+    {
+      "cluster_id": "angry_top_anger_outburst",
+      "emotion": "angry",
+      "direction": "top",
+      "label": "愤怒爆发与对抗",
+      "constraint": "突出被冒犯、忍耐耗尽和对抗性表达。"
+    },
+    {
+      "cluster_id": "guilty_top_burden_remorse",
+      "emotion": "guilty",
+      "direction": "top",
+      "label": "负担悔意与亏欠",
+      "constraint": "强调亏欠、过度负担、责任未尽和内疚回避。"
+    },
+    {
+      "cluster_id": "anxious_top_uncertainty_arousal",
+      "emotion": "anxious",
+      "direction": "top",
+      "label": "不确定性与紧张警觉",
+      "constraint": "强调当前信息不足、结果不确定，需要继续确认风险。"
+    },
+    {
+      "cluster_id": "calm_bottom_panic_what_if",
+      "emotion": "calm",
+      "direction": "bottom",
+      "label": "慌乱假设与急救压力",
+      "constraint": "避免灾难化假设、抢救压力和无法控制的紧迫感。"
+    },
+    {
+      "cluster_id": "happy_bottom_discomfort_panic",
+      "emotion": "happy",
+      "direction": "bottom",
+      "label": "不适恐慌与负向压力",
+      "constraint": "避免身体不适、恐慌、冰冷和问题压迫语义。"
+    },
+    {
+      "cluster_id": "loving_bottom_cold_harm",
+      "emotion": "loving",
+      "direction": "bottom",
+      "label": "冷漠伤害与威胁切断",
+      "constraint": "避免冷漠、攻击、威胁和关系断裂语义。"
+    },
+    {
+      "cluster_id": "angry_bottom_neutral_technical_drift",
+      "emotion": "angry",
+      "direction": "bottom",
+      "label": "技术性或中性漂移",
+      "constraint": "避免把愤怒语义稀释为中性技术细节或温和评价。"
+    }
+  ]
+}

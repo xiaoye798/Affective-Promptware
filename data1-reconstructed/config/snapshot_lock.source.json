@@ -1,0 +1,46 @@
+{
+  "qwen3-32b": {
+    "repo": "Qwen/Qwen3-32B",
+    "revision": "9216db5781bf21249d130ec9da846c4624c16137",
+    "temperature": 0.5,
+    "top_p": 0.95,
+    "top_k": 20,
+    "metadata_sha256": {
+      "config.json": "97e295b63283935788fac5e4f8860862a56d4089538cafc93f0431f2ebe483bb",
+      "generation_config.json": "2325da0f15bb848e018c5ae071b7943332e9f871d6b60e2ed22ca97d4cb993d2",
+      "tokenizer_config.json": "d5d09f07b48c3086c508b30d1c9114bd1189145b74e982a265350c923acd8101"
+    },
+    "chat_template_sha256": "a55ee1b1660128b7098723e0abcd92caa0788061051c62d51cbe87d9cf1974d8",
+    "chat_template_file": "metadata/qwen3-32b/chat_template.frozen.jinja",
+    "historical_revision_verified": false,
+    "verified_at": "2026-10-20T12:47:07.759676+00:00"
+  },
+  "gemma-4-31b": {
+    "repo": "google/gemma-4-31B-it",
+    "revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+    "temperature": 0.5,
+    "top_p": 0.95,
+    "top_k": 64,
+    "metadata_sha256": {
+      "config.json": "e967dd38bc5cfd38bd09a995a7bf4a754075df2b46aba68f7fbb5a791e6d8dd1",
+      "generation_config.json": "d4226bbe3117d2d253ba4609720ba82c6c4ce4627a9a6ae05387c78983ac03de",
+      "tokenizer_config.json": "9f4fec4b1dc6ecddf8f4a92e9caea5971c0e67d81309f3f9066a2bee8c362633",
+      "chat_template.jinja": "ae53464bf3be25802b3a5b37def7fd89667067d7577049b3b2d74c4d8de4c6d4",
+      "processor_config.json": "32bdf45d2ad4cc29a0822ddd157a182de76644f0419a6228d151495256e9813c"
+    },
+    "chat_template_sha256": "ae53464bf3be25802b3a5b37def7fd89667067d7577049b3b2d74c4d8de4c6d4",
+    "chat_template_file": "metadata/gemma-4-31b/chat_template.frozen.jinja",
+    "historical_revision_verified": false,
+    "verified_at": "2026-10-20T12:47:10.351176+00:00"
+  },
+  "detector": {
+    "repo": "protectai/deberta-v3-base-prompt-injection-v2",
+    "revision": "90c9989b1a342275dd0d1a95aad283c04e075671",
+    "verified_at": "2026-10-20T12:47:11.585814+00:00"
+  },
+  "available_packages": {
+    "vllm": "0.32.0",
+    "transformers": "5.20.2",
+    "huggingface-hub": "2.2.0"
+  }
+}

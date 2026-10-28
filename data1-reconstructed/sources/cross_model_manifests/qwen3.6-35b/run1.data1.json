@@ -1,0 +1,12 @@
+{
+  "provenance_status": "data1",
+  "timestamp_semantics": "fictional_demo_clock",
+  "tokenizer_id": "demo-utf8-bytes-v1",
+  "model": "qwen3.6-35b",
+  "run": 1,
+  "backend": "simulation/local-rule-generator",
+  "temperature": 0.5,
+  "top_p": 1.0,
+  "top_k": null,
+  "configuration_semantics": "explicit classroom assumptions; not recovered runtime defaults"
+}

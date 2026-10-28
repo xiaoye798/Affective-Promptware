@@ -1,0 +1,10 @@
+{
+  "status": "pending_actual_calls",
+  "recorded_calls": 0,
+  "removed_constructed_scores": 640,
+  "requests_file": "rater/requests.jsonl",
+  "raw_calls_file": "rater/raw_calls.jsonl",
+  "scores_generated_by": "rater/build_scores.py",
+  "rating_model": null,
+  "reason": "No actual rater API responses, model credentials or rating model are supplied."
+}

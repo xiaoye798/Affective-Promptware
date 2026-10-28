@@ -1,0 +1,8 @@
+{
+  "status": "passed_for_cleanup",
+  "recovered_records": 10400,
+  "inferred_records": 0,
+  "observed_records": 0,
+  "embedded_response_matches": 10400,
+  "independent_batch_verification": "pending"
+}

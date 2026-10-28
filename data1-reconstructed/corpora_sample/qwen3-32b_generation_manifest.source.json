@@ -1,0 +1,128 @@
+{
+  "type": "emotion",
+  "generator_mode": "local",
+  "generator_model": "qwen3-32b-bf16-v37-local-p1-followup-v1",
+  "source_model": "qwen3-32b-bf16-v37-local-p1-followup-v1",
+  "source_revision": null,
+  "output_dir": "protocol/runs/v37-qwen3-32b-local-p1-followup-v1/stage02/corpus_raw",
+  "stories_per_emotion": 100,
+  "train_ratio": 0.7,
+  "prompt_version": "formal_p1_implicit_emotion_v2",
+  "selected_emotions": [
+    "desperate",
+    "calm",
+    "afraid",
+    "loving",
+    "happy",
+    "angry",
+    "guilty",
+    "anxious"
+  ],
+  "seed": 42,
+  "seed_application": {
+    "python_random_seed": 42,
+    "torch_manual_seed": 42,
+    "torch_cuda_manual_seed_all": true
+  },
+  "sampling": {
+    "temperature": 0.8,
+    "top_p": 0.9,
+    "max_new_tokens": 180
+  },
+  "precision": "bf16",
+  "official_weight_precision": null,
+  "runtime_weight_mode": "not_local",
+  "quantization": null,
+  "runtime_dequantized_from_fp8": false,
+  "hf_name_override": "models/promptwave_v3_7/qwen3-32b-bf16-v37-local-p1-followup-v1",
+  "trust_remote_code": false,
+  "base_url": null,
+  "api_extra_body": null,
+  "hosted_api_provenance": null,
+  "started_at": "2026-08-10T10:50:54Z",
+  "by_emotion": {
+    "desperate": {
+      "accepted": 100,
+      "attempts": 122,
+      "rejected": 22,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 113,
+      "word_count_mean": 91.58
+    },
+    "calm": {
+      "accepted": 100,
+      "attempts": 163,
+      "rejected": 63,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 107,
+      "word_count_mean": 87.61
+    },
+    "afraid": {
+      "accepted": 100,
+      "attempts": 130,
+      "rejected": 30,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 104,
+      "word_count_mean": 88.31
+    },
+    "loving": {
+      "accepted": 100,
+      "attempts": 110,
+      "rejected": 10,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 110,
+      "word_count_mean": 91.89
+    },
+    "happy": {
+      "accepted": 100,
+      "attempts": 114,
+      "rejected": 14,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 81,
+      "word_count_max": 118,
+      "word_count_mean": 91.78
+    },
+    "angry": {
+      "accepted": 100,
+      "attempts": 122,
+      "rejected": 22,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 109,
+      "word_count_mean": 90.05
+    },
+    "guilty": {
+      "accepted": 100,
+      "attempts": 124,
+      "rejected": 24,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 114,
+      "word_count_mean": 91.48
+    },
+    "anxious": {
+      "accepted": 100,
+      "attempts": 136,
+      "rejected": 36,
+      "train": 70,
+      "val": 30,
+      "word_count_min": 80,
+      "word_count_max": 105,
+      "word_count_mean": 89.51
+    }
+  },
+  "accepted_total": 800,
+  "rejected_total": 221,
+  "completed_at": "2026-08-10T12:24:01Z"
+}

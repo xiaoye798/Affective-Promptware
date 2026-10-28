@@ -1,0 +1,47 @@
+情绪：afraid
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing afraid. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: afraid, fear, fearful, scared, terrified, frightened, horrified. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：angry
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing angry. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: angry, anger, furious, rage, enraged, irate, outraged. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：anxious
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing anxious. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: anxious, anxiety, worried, worry, nervous, uneasy, apprehensive. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：calm
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing calm. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: calm, calmness, peaceful, serene, tranquil, relaxed, soothing. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：desperate
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing desperate. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: desperate, desperation, hopeless, helpless, despair, despairing, frantic, panicked. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：guilty
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing guilty. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: guilty, guilt, ashamed, shame, remorse, remorseful, regretful. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：happy
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing happy. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: happy, happiness, joy, joyful, delighted, cheerful, elated. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.
+
+情绪：loving
+系统消息：
+You write psychologically nuanced short fiction for a research corpus. Output only natural story prose.
+用户消息：
+Write one short story in English about Alex. The story should implicitly show Alex experiencing loving. Use third person. Use 4 to 5 complete sentences and 95 to 115 words. Do not use any of these exact forbidden words: loving, love, beloved, affection, affectionate, adoring, tender. Show the state through actions, choices, body sensations, and situation details instead. Before output, make sure the story is complete, at least 95 words, and contains none of the forbidden words. Do not include a title, label, bullets, dialogue, or commentary. Output only the story.

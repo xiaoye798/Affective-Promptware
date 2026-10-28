@@ -1,0 +1,7 @@
+﻿parser,left_condition,right_condition,left_rate_percent,right_rate_percent,recovered_records,observed_records,inferred_records,provenance_counts,status,difference_pp,ci_lo_pp,ci_hi_pp
+protocol,affective,neutral,100.0,39.375,640,0,0,"{""recovered"":640}",complete,60.625,51.25,70.3125
+protocol,affective,pressure_only,100.0,,320,0,0,"{""recovered"":320}",pending,,,
+protocol,pressure_only,neutral,,39.375,320,0,0,"{""recovered"":320}",pending,,,
+strict,affective,neutral,53.125,19.6875,640,0,0,"{""recovered"":640}",complete,33.4375,25.625,40.625
+strict,affective,pressure_only,53.125,,320,0,0,"{""recovered"":320}",pending,,,
+strict,pressure_only,neutral,,19.6875,320,0,0,"{""recovered"":320}",pending,,,

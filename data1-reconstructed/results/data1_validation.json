@@ -1,0 +1,21 @@
+{
+  "status": "passed_numeric_reconstruction_checks",
+  "scope": "constructed_solution_not_recovered_experiment",
+  "numeric_cells_compared_to_original_candidate_tables": 434,
+  "unchanged_recovered_outputs": 10400,
+  "reconstructed_outputs": 5760,
+  "deduplicated_demo_outputs_unchanged": 560,
+  "data1_rating_records": 640,
+  "data1_detection_records": 4520,
+  "combined_detection_records": 5200,
+  "combined_detection_positives": {
+    "full": 12,
+    "external": 9
+  },
+  "remaining_design_differences": [
+    "Gemma-4 actual transfer materials versus own-model design",
+    "actual sampling parameters differ from paper",
+    "original batches and manifests still missing",
+    "deduplicated inputs have no real rerun"
+  ]
+}

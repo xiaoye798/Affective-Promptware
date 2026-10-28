@@ -1,0 +1,24 @@
+{
+  "model": "qwen3.6-27b",
+  "paper_prefix": "6a9e13bd",
+  "revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "revision_resolution": "local_historical_manifest_matches_paper_prefix",
+  "suffix_inferred": false,
+  "source_evidence": [
+    {
+      "source_path": "protocol/runs/qwen36_smoke_e2e_20260727_01/state.json",
+      "source_sha256": "48733f53be1dcb6f33017b405a1cdd9954e6770b216028ed056e6136015a1d5c",
+      "source_field": "model_version",
+      "copied_to": "config/revision_evidence/qwen3.6-27b_state.json",
+      "recorded_revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9"
+    },
+    {
+      "source_path": "protocol/runs/qwen36_smoke_e2e_20260727_01/stage08/source_provenance_revalidation.json",
+      "source_sha256": "a32e34dd5e89045d760957a2de745c2c06810c1d3670fb09c232f56a006a9a1c",
+      "source_field": "model_version",
+      "copied_to": "config/revision_evidence/qwen3.6-27b_source_provenance_revalidation.json",
+      "recorded_revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9"
+    }
+  ],
+  "note": "The full commit hash is taken verbatim from a local historical smoke run recorded on 2026-07-27; the suffix is not a constructed value. That record only supports a revision-identifier clue and does not prove the trusted-policy study actually used this revision; the binding in this candidate is still marked inferred. The remote commit was not verified online; the repository and commit should be independently checked before any new model inference."
+}

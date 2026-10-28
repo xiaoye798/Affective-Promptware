@@ -1,0 +1,12 @@
+{
+  "artifact_count": 14,
+  "comparison_manifest_count": 0,
+  "errors": [],
+  "ignored_invalid_comparison_manifest_count": 0,
+  "model_id": "Qwen/Qwen3.6-27B",
+  "model_version": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "run_id": "qwen36_smoke_e2e_20260727_01",
+  "stage": "02_emotion_vectors",
+  "upstream_bound": true,
+  "valid": true
+}

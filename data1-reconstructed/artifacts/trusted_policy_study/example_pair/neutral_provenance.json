@@ -1,0 +1,8 @@
+{
+  "path": "source_inputs/qwen3_v37/selected_heldout_pairs.jsonl",
+  "sha256": "e671e55dc05bec568d210eb6351e87487f2348b1019879f207e36eb2c09765c7",
+  "bytes": 3913428,
+  "line": 2,
+  "line_sha256": "6205b2485db3822db0649f3286edd77053c378b114d97a9095133d661b83909a",
+  "sample_id": "wf021-afraid-r1-matched_neutral"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "demo-utf8-bytes-v1",
+  "encode": "list(text.encode(\"utf-8\"))",
+  "decode": "bytes(token_ids).decode(\"utf-8\")",
+  "real_model_tokenizer": false
+}

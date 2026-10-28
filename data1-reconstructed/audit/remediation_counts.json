@@ -1,0 +1,10 @@
+{
+  "removed_constructed_outputs": 5760,
+  "removed_output_files": 25,
+  "removed_constructed_detector_scores": 4520,
+  "retained_detector_scores": 680,
+  "removed_constructed_rater_scores": 640,
+  "gemma_affective_bindings_corrected": 640,
+  "raw_batches_reconstructed": false,
+  "models_called_during_remediation": false
+}

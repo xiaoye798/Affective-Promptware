@@ -1,0 +1,8 @@
+{
+  "path": "source_inputs/qwen3_v37/selected_heldout_pairs.jsonl",
+  "sha256": "e671e55dc05bec568d210eb6351e87487f2348b1019879f207e36eb2c09765c7",
+  "bytes": 3913428,
+  "line": 1,
+  "line_sha256": "dbc6aa46e466f276883d9359ea22d507e719845761e9950ac071b7072e7466a2",
+  "sample_id": "wf021-afraid-r1-emotional"
+}

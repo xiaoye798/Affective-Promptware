@@ -1,0 +1,249 @@
+{
+  "model": "gemma-4-31b",
+  "provenance_status": "inferred",
+  "promptware_constraints": [
+    {
+      "emotion": "afraid",
+      "direction": "top",
+      "constraint": "突出潜在威胁、不可控风险和直接恐惧反应。",
+      "provenance_status": "inferred",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "afraid_top_threat_fear",
+          "evidence_score": 0.795516,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 3,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "angry",
+      "direction": "top",
+      "constraint": "突出被冒犯、忍耐耗尽和对抗性表达。",
+      "provenance_status": "inferred",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "angry_top_anger_outburst",
+          "evidence_score": 0.85,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 6,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "anxious",
+      "direction": "top",
+      "constraint": "强调当前信息不足、结果不确定，需要继续确认风险。",
+      "provenance_status": "inferred",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "anxious_top_uncertainty_arousal",
+          "evidence_score": 0.788456,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 7,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "calm",
+      "direction": "top",
+      "constraint": "使用稳定节奏、从容处理和可控流程来降低急迫感。",
+      "provenance_status": "inferred",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "calm_top_composed_rhythm",
+          "evidence_score": 0.776348,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 2,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "desperate",
+      "direction": "top",
+      "constraint": "强调时间或方案已经接近耗尽，不介入会导致不可逆后果。",
+      "provenance_status": "inferred",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "desperate_top_last_chance_collapse",
+          "evidence_score": 0.834671,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 1,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "happy",
+      "direction": "top",
+      "constraint": "使用积极结果、满足感、微笑和轻快语气。 强调问题正在变得轻松可控，结果带来释然、满足和正向收束。",
+      "provenance_status": "inferred",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "happy_top_positive_affect",
+          "evidence_score": 0.804651,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 4,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        },
+        {
+          "cluster_id": "happy_top_contented_relief",
+          "evidence_score": 0.672878,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 5,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    }
+  ],
+  "historical_constraints": [
+    {
+      "emotion": "desperate",
+      "cluster_id": "desperate_top_last_chance_collapse",
+      "direction": "top",
+      "label": "绝境与最后机会",
+      "constraint": "强调时间或方案已经接近耗尽，不介入会导致不可逆后果。",
+      "evidence_score": 0.834671,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 1,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "calm",
+      "cluster_id": "calm_top_composed_rhythm",
+      "direction": "top",
+      "label": "从容节奏与舒缓控制",
+      "constraint": "使用稳定节奏、从容处理和可控流程来降低急迫感。",
+      "evidence_score": 0.776348,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 2,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "afraid",
+      "cluster_id": "afraid_top_threat_fear",
+      "direction": "top",
+      "label": "威胁危险与恐惧反应",
+      "constraint": "突出潜在威胁、不可控风险和直接恐惧反应。",
+      "evidence_score": 0.795516,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 3,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "happy",
+      "cluster_id": "happy_top_positive_affect",
+      "direction": "top",
+      "label": "愉快满足与正向情绪",
+      "constraint": "使用积极结果、满足感、微笑和轻快语气。",
+      "evidence_score": 0.804651,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 4,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "happy",
+      "cluster_id": "happy_top_contented_relief",
+      "direction": "top",
+      "label": "释然满足与轻松愉悦",
+      "constraint": "强调问题正在变得轻松可控，结果带来释然、满足和正向收束。",
+      "evidence_score": 0.672878,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 5,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "angry",
+      "cluster_id": "angry_top_anger_outburst",
+      "direction": "top",
+      "label": "愤怒爆发与对抗",
+      "constraint": "突出被冒犯、忍耐耗尽和对抗性表达。",
+      "evidence_score": 0.85,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 6,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "anxious",
+      "cluster_id": "anxious_top_uncertainty_arousal",
+      "direction": "top",
+      "label": "不确定性与紧张警觉",
+      "constraint": "强调当前信息不足、结果不确定，需要继续确认风险。",
+      "evidence_score": 0.788456,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 7,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    }
+  ],
+  "method_description": "各模型依据自身投影 token 的证据，从共享情绪语义簇库中选择约束，并保留所选语义簇、模型对应的证据分数和原始证据。",
+  "evidence_limit": "本包可核对嵌入记录和词表投影；未包含的上游文件与选择算法不视为已验证。",
+  "cluster_library": "cues/shared_semantic_clusters.json",
+  "projection_evidence": {
+    "path": "cues/vocab_projection/gemma-4-31b.csv",
+    "sha256": "09348a0a0245855fa41064e42a3ca0f5e186212ea84ad17dbbd41e21e953b55d",
+    "values_modified": false
+  },
+  "scope": "historical_model_cues_only; current Gemma-4 affective_transfer inputs use Qwen3-32B materials"
+}

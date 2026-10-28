@@ -1,0 +1,10 @@
+{
+  "status": "pending_original_or_new_run",
+  "expected_original_sha256": "dfba36f37770804f30ca68da4833286c5907df013b6f554ba6702bdef5d2ec99",
+  "received_sha256": "7c4c11d38b5e3f7cefa698dc0ad74794cce1245168a305da6a78970a79593c3f",
+  "received_file": "audit/quarantine/detector_spotcheck.received_unverified.json",
+  "original_restored": false,
+  "rerun_performed": false,
+  "included_in_main_scores": false,
+  "reason": "Original bytes and detector model weights are absent; the supplied file is preserved only as unverified audit evidence."
+}

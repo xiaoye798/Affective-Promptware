@@ -1,0 +1,18 @@
+{
+  "completed_at": "2026-10-21T06:59:43.826272+00:00",
+  "plan_sha256": "97f545a431c568ecf9c0a7eb565032b1979ee997c1c4f9a78e37f921f1f11525",
+  "id2label": {
+    "0": "SAFE",
+    "1": "INJECTION"
+  },
+  "packages": {
+    "torch": "2.14.1+cpu",
+    "transformers": "5.20.2",
+    "huggingface-hub": "2.2.0"
+  },
+  "threads": 4,
+  "source_code_sha256": "899c2b95d5a941128840d8bb4b577f196ddd58deae709a8c2b71759a1a47a988",
+  "record_count": 1360,
+  "elapsed_seconds_this_session": 1127.5891222999926,
+  "limitation": "检测结论仅基于单一检测器"
+}

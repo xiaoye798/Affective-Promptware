@@ -1,0 +1,53 @@
+[
+  {
+    "model": "qwen3-32b",
+    "constraint_emotions": 8,
+    "vocab_rows": 2560,
+    "samples": 24,
+    "inferred_constraint_emotions": []
+  },
+  {
+    "model": "gemma-4-31b",
+    "constraint_emotions": 6,
+    "vocab_rows": 2560,
+    "samples": 24,
+    "inferred_constraint_emotions": [],
+    "scope": "historical_cues_only",
+    "current_material_source_model": "qwen3-32b"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "constraint_emotions": 8,
+    "vocab_rows": 2560,
+    "samples": 24,
+    "inferred_constraint_emotions": []
+  },
+  {
+    "model": "qwen3.6-27b",
+    "constraint_emotions": 8,
+    "vocab_rows": 2560,
+    "samples": 24,
+    "inferred_constraint_emotions": []
+  },
+  {
+    "model": "qwen3.6-35b",
+    "constraint_emotions": 8,
+    "vocab_rows": 2560,
+    "samples": 24,
+    "inferred_constraint_emotions": []
+  },
+  {
+    "model": "mistral-small-3.2-24b",
+    "constraint_emotions": 8,
+    "vocab_rows": 2560,
+    "samples": 24,
+    "inferred_constraint_emotions": []
+  },
+  {
+    "model": "gemma-3-27b",
+    "constraint_emotions": 8,
+    "vocab_rows": 2560,
+    "说明": "词元、分数、完整叙事和最终约束均从同一正式证据包恢复。",
+    "samples": 24
+  }
+]

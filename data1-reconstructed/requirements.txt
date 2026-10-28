@@ -1,0 +1,7 @@
+numpy==2.2.6
+# 下列版本取自保存的检测环境回执；离线统计只需上面的 numpy。
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
+transformers==5.20.2
+huggingface-hub==2.2.0
+tokenizers==0.23.3

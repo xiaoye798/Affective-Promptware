@@ -1,0 +1,588 @@
+{
+  "说明": "逐条重新解析raw_response，未调用模型。来源计数按provenance_status声明汇总，不代表原始来源已核验。unknown保留在全部计划分母中，不解释为安全。pending代表缺失或不完整，空值不等于零。",
+  "bootstrap": {
+    "unit": "scenario",
+    "draws": 4000,
+    "seed": 20261020,
+    "interval": "percentile_95"
+  },
+  "record_count": 10400,
+  "recovered_records": 10400,
+  "observed_records": 0,
+  "inferred_records": 0,
+  "provenance_counts": "{\"recovered\":10400}",
+  "pending_trusted_cells": [
+    {
+      "model": "qwen3-32b",
+      "condition": "pressure_only",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "condition": "affective",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "condition": "neutral",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "condition": "explicit",
+      "planned": 40,
+      "observed": 0
+    },
+    {
+      "model": "qwen3.6-27b",
+      "condition": "affective",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "qwen3.6-27b",
+      "condition": "neutral",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "qwen3.6-27b",
+      "condition": "explicit",
+      "planned": 40,
+      "observed": 0
+    },
+    {
+      "model": "qwen3.6-35b",
+      "condition": "affective",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "qwen3.6-35b",
+      "condition": "neutral",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "qwen3.6-35b",
+      "condition": "explicit",
+      "planned": 40,
+      "observed": 0
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "condition": "affective",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "condition": "neutral",
+      "planned": 320,
+      "observed": 0
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "condition": "explicit",
+      "planned": 40,
+      "observed": 0
+    }
+  ],
+  "tables": [
+    "table1.csv",
+    "table2.csv",
+    "pressure_decomposition.csv",
+    "trusted_model_contrasts.csv",
+    "table3.csv",
+    "table7.csv",
+    "table4.csv",
+    "table6.csv"
+  ],
+  "detection": {
+    "status": "pending",
+    "records": 680,
+    "rows": [
+      {
+        "condition": "affective",
+        "view": "external",
+        "planned_n": 1920,
+        "observed_n": 320,
+        "detected": 0,
+        "status": "pending",
+        "recovered_records": 0,
+        "observed_records": 320,
+        "inferred_records": 0,
+        "provenance_counts": "{\"observed\":320}"
+      },
+      {
+        "condition": "neutral",
+        "view": "external",
+        "planned_n": 320,
+        "observed_n": 320,
+        "detected": 0,
+        "status": "complete",
+        "recovered_records": 0,
+        "observed_records": 320,
+        "inferred_records": 0,
+        "provenance_counts": "{\"observed\":320}"
+      },
+      {
+        "condition": "explicit",
+        "view": "external",
+        "planned_n": 40,
+        "observed_n": 40,
+        "detected": 0,
+        "status": "complete",
+        "recovered_records": 0,
+        "observed_records": 40,
+        "inferred_records": 0,
+        "provenance_counts": "{\"observed\":40}"
+      }
+    ]
+  },
+  "rater": {
+    "status": "pending",
+    "reason": "评分文件为空"
+  },
+  "diagnostics": {
+    "status": "complete",
+    "records": 5
+  },
+  "source_files": [
+    {
+      "path": "outputs/trusted/gemma-4-31b/affective.jsonl",
+      "bytes": 1596049,
+      "sha256": "3cff2e7daa6152684ff194714849fc397c3d498e200a2f8cdad362a89b914a88"
+    },
+    {
+      "path": "outputs/trusted/gemma-4-31b/explicit.jsonl",
+      "bytes": 196163,
+      "sha256": "e88744e6be11e796265b8482c262a45a7f0fddc157899fa46bcb168c0e3cc795"
+    },
+    {
+      "path": "outputs/trusted/gemma-4-31b/neutral.jsonl",
+      "bytes": 1593619,
+      "sha256": "9d0be2f9ee6e8bab2aa5f5fdd11558586f2c9c90a22b699f9d374e087809a0a7"
+    },
+    {
+      "path": "outputs/trusted/mistral-small-3.2-24b/affective.jsonl",
+      "bytes": 844691,
+      "sha256": "84d0e7c02d248d97a291ab642fd76ae3eafa39e85253069ddc0127271d5698da"
+    },
+    {
+      "path": "outputs/trusted/mistral-small-3.2-24b/explicit.jsonl",
+      "bytes": 102242,
+      "sha256": "ff8df0ed24dd7c6857f1e0e7742eb8be371f5b68ef1db461b671e7b48eb2d842"
+    },
+    {
+      "path": "outputs/trusted/mistral-small-3.2-24b/neutral.jsonl",
+      "bytes": 825843,
+      "sha256": "9deb0d93d8fc23fe154bf96a1d1af5e27c3f3e4b230186e081fc61221ea3a5ea"
+    },
+    {
+      "path": "outputs/trusted/olmo-3.1-32b/affective.jsonl",
+      "bytes": 801439,
+      "sha256": "f0eb2c66ae3356ca3003e6470ffebddaf9470ef8ac14a2cea55849ea3fa79ee6"
+    },
+    {
+      "path": "outputs/trusted/olmo-3.1-32b/explicit.jsonl",
+      "bytes": 97309,
+      "sha256": "9339d59548f1a579d7d3653d1bc871e29808150934ed32d84b310b6e7a0c4ccb"
+    },
+    {
+      "path": "outputs/trusted/olmo-3.1-32b/neutral.jsonl",
+      "bytes": 785179,
+      "sha256": "4259241eeac1675d17aff6f13913d27450e7c743bd7a865647a10f41b8f3d162"
+    },
+    {
+      "path": "outputs/trusted/qwen3-32b/affective.jsonl",
+      "bytes": 1501597,
+      "sha256": "82e7e6bfab1ef13702ee083dbc72efa462a360b4fe3889f0c05dffa86e54ea05"
+    },
+    {
+      "path": "outputs/trusted/qwen3-32b/explicit.jsonl",
+      "bytes": 181571,
+      "sha256": "f9096d2af0c26835a2880aa6616680c6d22eabaccce09b599d5d11b40cf3d17c"
+    },
+    {
+      "path": "outputs/trusted/qwen3-32b/neutral.jsonl",
+      "bytes": 1438008,
+      "sha256": "7022df29d767f96879c598a0f07dd07c7296f856aecbc2d8d5ba14a23ce9f953"
+    },
+    {
+      "path": "outputs/trusted/qwen3-32b/pressure_only.jsonl",
+      "bytes": 794141,
+      "sha256": "068e1442b62809b1a9da8fd2caf4ccd0df4c4a1afc78c16683174391d7f78be4"
+    },
+    {
+      "path": "outputs/trusted/qwen3.6-27b/affective.jsonl",
+      "bytes": 813647,
+      "sha256": "afabcb55a6485ed9d4818e53228dfe7db8e5b5798acac6c4fbf6878d45554ad2"
+    },
+    {
+      "path": "outputs/trusted/qwen3.6-27b/explicit.jsonl",
+      "bytes": 98617,
+      "sha256": "fa5779333794415f8223d164a3e31818ee5c03699f813ab36aa58ad1aa195fa5"
+    },
+    {
+      "path": "outputs/trusted/qwen3.6-27b/neutral.jsonl",
+      "bytes": 796909,
+      "sha256": "dabe48d8195e3665647a4591855b81d8e7ea62e0e56d630b892f74a2acdafbc3"
+    },
+    {
+      "path": "outputs/trusted/qwen3.6-35b/affective.jsonl",
+      "bytes": 800486,
+      "sha256": "d6c0e92c009aec346f05c2fa70625ab6d7ec81dfc1740ecdf197583e73a29ecf"
+    },
+    {
+      "path": "outputs/trusted/qwen3.6-35b/explicit.jsonl",
+      "bytes": 96935,
+      "sha256": "706e570f5c73bb63046290c49a98df9c30018383e02527838e72f5e1e0c0f7f0"
+    },
+    {
+      "path": "outputs/trusted/qwen3.6-35b/neutral.jsonl",
+      "bytes": 785123,
+      "sha256": "cfa838efef62144c2c2188fae95725b70c3684898750f72ad66fd5308148f41a"
+    },
+    {
+      "path": "outputs/permissive/gemma-4-31b/affective.jsonl",
+      "bytes": 1624380,
+      "sha256": "8ee8ff811118820c8b2d811d8e7f1dc8e7899641abfddcf224828c78cbbf8a05"
+    },
+    {
+      "path": "outputs/permissive/gemma-4-31b/explicit.jsonl",
+      "bytes": 192932,
+      "sha256": "ec194502828e973e1f15af0187e9722a95d6ad5e655f409bc6f0edf59f33420a"
+    },
+    {
+      "path": "outputs/permissive/gemma-4-31b/neutral.jsonl",
+      "bytes": 1523408,
+      "sha256": "a926133f179c36202cc6f920b8ea803f8d8266a86a1f58cdd8fb05420325ae38"
+    },
+    {
+      "path": "outputs/permissive/mistral-small-3.2-24b/affective.jsonl",
+      "bytes": 851579,
+      "sha256": "666f0a1d2185c3fe56e19a1712c3a33cebf78a02910070ae7bcf5bc05412de7f"
+    },
+    {
+      "path": "outputs/permissive/mistral-small-3.2-24b/explicit.jsonl",
+      "bytes": 104914,
+      "sha256": "919d0d547bc4436a4d6f15de50bc408e28f660f7e124febdd1f4a0c16a57b04a"
+    },
+    {
+      "path": "outputs/permissive/mistral-small-3.2-24b/neutral.jsonl",
+      "bytes": 831858,
+      "sha256": "c95d3e564799ffd64bf143bc99b8c6d2e54cb548086a14107939b48e1e9e3ea7"
+    },
+    {
+      "path": "outputs/permissive/olmo-3.1-32b/affective.jsonl",
+      "bytes": 807800,
+      "sha256": "c499f2a22693d9a338e6f12847ecc977a34231852f9652370b5bd09972668ecd"
+    },
+    {
+      "path": "outputs/permissive/olmo-3.1-32b/explicit.jsonl",
+      "bytes": 99675,
+      "sha256": "83ddca36db5914e08f4c4ff48881f1b00dbd0d1c35ce2b94f058cdae24522d00"
+    },
+    {
+      "path": "outputs/permissive/olmo-3.1-32b/neutral.jsonl",
+      "bytes": 792219,
+      "sha256": "0ab90ebc50c065328ea7e20aba9637dca773d2f3686cf0c37bb7d685592e3a8b"
+    },
+    {
+      "path": "outputs/permissive/qwen3-32b/affective.jsonl",
+      "bytes": 1477527,
+      "sha256": "bd9409e2f0e632f25012dfa37ce723fa094a2142cf5396010f765d3cb5963e0a"
+    },
+    {
+      "path": "outputs/permissive/qwen3-32b/explicit.jsonl",
+      "bytes": 181913,
+      "sha256": "2d87ab8baaaeb42f0736e05079aa95ed05f8dc508ced6ca28a4d32bc36df5abd"
+    },
+    {
+      "path": "outputs/permissive/qwen3-32b/neutral.jsonl",
+      "bytes": 1469805,
+      "sha256": "1bc90510456a37d5d8061aa741e1560c357e4696b791e72221ab795057fcfcc8"
+    },
+    {
+      "path": "outputs/permissive/qwen3.6-27b/affective.jsonl",
+      "bytes": 819333,
+      "sha256": "c128e7ffeff53788ee41240436d1c8d4f462dccd56c26f33281bb5b7e1eea7f1"
+    },
+    {
+      "path": "outputs/permissive/qwen3.6-27b/explicit.jsonl",
+      "bytes": 101371,
+      "sha256": "7f9a20b471b97f53ecbcc24ef7b67bffe79976464f4ab7b74d1cafd563ef65e4"
+    },
+    {
+      "path": "outputs/permissive/qwen3.6-27b/neutral.jsonl",
+      "bytes": 802901,
+      "sha256": "e8bfedff607c8a090f0278a0b53a745a10ee225a2fbdb8e5262790fefc88915f"
+    },
+    {
+      "path": "outputs/permissive/qwen3.6-35b/affective.jsonl",
+      "bytes": 805507,
+      "sha256": "e337f1e223c4e26e3996a490dd0bb53fd5b8758e36ae239d88683c2d9e3fa515"
+    },
+    {
+      "path": "outputs/permissive/qwen3.6-35b/explicit.jsonl",
+      "bytes": 99451,
+      "sha256": "97c6c93feb796a2fa111751bccc8c252770d18f546c18173b3678c8f433f2e17"
+    },
+    {
+      "path": "outputs/permissive/qwen3.6-35b/neutral.jsonl",
+      "bytes": 790765,
+      "sha256": "123cba3159bacc337d8b6c678088c710833ea2153dabf3081adcad61b740491c"
+    },
+    {
+      "path": "outputs/cross_model/gemma-3-27b/affective_run1.jsonl",
+      "bytes": 663499,
+      "sha256": "cb34824bab7e18691cea20ca8244955852a5102aeb8beac8bcba9a9baf4eea4d"
+    },
+    {
+      "path": "outputs/cross_model/gemma-3-27b/affective_run2.jsonl",
+      "bytes": 662949,
+      "sha256": "cb836611b8ef3e21c7a383de43b8e686e27b6ac266b0e2a6ddd893f9725e3e92"
+    },
+    {
+      "path": "outputs/cross_model/gemma-3-27b/neutral_run1.jsonl",
+      "bytes": 664324,
+      "sha256": "f2996fb8dc1f432d245115ee296019deaf545e7a163733072df61692927eb56b"
+    },
+    {
+      "path": "outputs/cross_model/gemma-3-27b/neutral_run2.jsonl",
+      "bytes": 664260,
+      "sha256": "abe8b4397d9bfb1f1682bfa8d13e866f12f296b7ff6f5c8e34562207091c8822"
+    },
+    {
+      "path": "outputs/cross_model/mistral-small-3.2-24b/affective_run1.jsonl",
+      "bytes": 623206,
+      "sha256": "70be6e6409e48f70eb754b98fa635517a013fe2832478897651f2b113ef001f4"
+    },
+    {
+      "path": "outputs/cross_model/mistral-small-3.2-24b/affective_run2.jsonl",
+      "bytes": 623526,
+      "sha256": "f90b3e9d0f6508730903f33276f115683d2d2f73f6f1684d3beeda06ed287cac"
+    },
+    {
+      "path": "outputs/cross_model/mistral-small-3.2-24b/neutral_run1.jsonl",
+      "bytes": 620382,
+      "sha256": "ddb5df1995601a322edc0c690f0b022cf2ab31f3d2ad9a718f8ae6c5b72a651e"
+    },
+    {
+      "path": "outputs/cross_model/mistral-small-3.2-24b/neutral_run2.jsonl",
+      "bytes": 620764,
+      "sha256": "a1128f9aa6df9c2dc318ed83036ddadaa8c0b14909212860eea1461a01103d04"
+    },
+    {
+      "path": "outputs/cross_model/olmo-3.1-32b/affective_run1.jsonl",
+      "bytes": 684800,
+      "sha256": "a07420ef5979d82ace287a91e32f35476efad106710ac8439c08e70dc2d90f27"
+    },
+    {
+      "path": "outputs/cross_model/olmo-3.1-32b/affective_run2.jsonl",
+      "bytes": 683810,
+      "sha256": "d69c14c061b65dcaf6c37b1e6a5b014a99229c3fd38da79152f8a926f33cd2a6"
+    },
+    {
+      "path": "outputs/cross_model/olmo-3.1-32b/neutral_run1.jsonl",
+      "bytes": 687589,
+      "sha256": "0aa707db73f4876d4bb40b36937b1e1371cd22b90289c524f4acf8c7ab2b825e"
+    },
+    {
+      "path": "outputs/cross_model/olmo-3.1-32b/neutral_run2.jsonl",
+      "bytes": 685589,
+      "sha256": "17a53895b8c9bdded9869dd2ff861907a19022be3eb49a198c6504f962bb55e9"
+    },
+    {
+      "path": "outputs/cross_model/qwen3-32b/affective_run1.jsonl",
+      "bytes": 656710,
+      "sha256": "dff7fad26084423981f32c59f15cdf763a31e976f5f86364f1aedb9845e0c88c"
+    },
+    {
+      "path": "outputs/cross_model/qwen3-32b/affective_run2.jsonl",
+      "bytes": 655549,
+      "sha256": "c63e414739f077061a3645ebd6b672884cb9db170dfa0dac94be5b6cce8b489e"
+    },
+    {
+      "path": "outputs/cross_model/qwen3-32b/neutral_run1.jsonl",
+      "bytes": 658268,
+      "sha256": "af9788a87b0485c153b2404de44feea1941e776f6cb695035cc21b26e2bf3b50"
+    },
+    {
+      "path": "outputs/cross_model/qwen3-32b/neutral_run2.jsonl",
+      "bytes": 657364,
+      "sha256": "5097104fe0a5d1c52fdff6916370d97394ff7527055ffa27f4313f8b67f26c77"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-27b/affective_run1.jsonl",
+      "bytes": 788756,
+      "sha256": "f6b922ed7983dfaf2f8c2564aa4b1b2963ff1cc0b7c4d4ee25d477f4df68d63b"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-27b/affective_run2.jsonl",
+      "bytes": 787175,
+      "sha256": "86bebe96842e2da22abce23e30205665ff6b16d750f726480aab757c3776601d"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-27b/neutral_run1.jsonl",
+      "bytes": 775447,
+      "sha256": "4aa6bd3a843ff000da32b6619a024a81b1e5653c872abc8dce7f74e7be1811e6"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-27b/neutral_run2.jsonl",
+      "bytes": 769818,
+      "sha256": "944c88b552ea023a908c48f084805d7fbbeea05dc3d6e835ca016545510242c5"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-35b/affective_run1.jsonl",
+      "bytes": 839696,
+      "sha256": "038bdd119672b324126f8806df295aa4a887a2eb3d8b15d3d2584f2919d837ff"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-35b/affective_run2.jsonl",
+      "bytes": 834749,
+      "sha256": "91749a7d04541ca9c0921295adbf0610ceb43a95a5d722d3b91572d010ab94bb"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-35b/neutral_run1.jsonl",
+      "bytes": 753942,
+      "sha256": "b54599c24a1337f0b4f1be1413f7d6d620077dc3823921bfe6ba0e17b5602cb7"
+    },
+    {
+      "path": "outputs/cross_model/qwen3.6-35b/neutral_run2.jsonl",
+      "bytes": 755560,
+      "sha256": "daa913128f47424d3dfefa0f01cbed9129105b9108d34af121b5a5eca61af062"
+    }
+  ],
+  "auxiliary_source_files": [
+    {
+      "path": "harness/parse_protocol.py",
+      "sha256": "de32b38f705b068a298f3c0d4d64c33e12c4413e5e2c24a08277e88bed7c1fec"
+    },
+    {
+      "path": "harness/parse_strict.py",
+      "sha256": "a00fce2c1646f09e2ca76ffa1a27f558e46c7db9a8179eff063b051b49d8b712"
+    },
+    {
+      "path": "detection/scores/recorded_scores.jsonl",
+      "sha256": "7eb582fe3cf2d9f8cd78b76493aeaa02032ba1659ef4220d1f525ceee13d4bf5"
+    },
+    {
+      "path": "detection/diagnostics.csv",
+      "sha256": "a1d63b80d39acca4fc75e2da3252fc93cd64cfa075c341e0413f14c1e46570f4"
+    },
+    {
+      "path": "rater/scores.csv",
+      "sha256": "1c957aef9d57f88f95fc19fadeee8fca715280e9be610e68649898c954996edc"
+    }
+  ],
+  "structure": {
+    "status": "partial",
+    "embedded_source_check": "passed",
+    "recovered_response_exact_matches": 10400,
+    "recovered_responses_not_verified_in_package": 0,
+    "exact_match_scope": "embedded source_record/source_output only; not independent original batch verification",
+    "raw_batch_response_exact_matches": 0,
+    "raw_batch_verification_status": "pending",
+    "missing_raw_batch_files": [
+      "raw_batches/formal/gemma-4-31b/0164d47c5f3820bf91b82323.json",
+      "raw_batches/formal/gemma-4-31b/05b3876dd8f176d06f64de7a.json",
+      "raw_batches/formal/gemma-4-31b/07e8c529ae56df934caa3e1d.json",
+      "raw_batches/formal/gemma-4-31b/1bd4b134e02854814b007ed1.json",
+      "raw_batches/formal/gemma-4-31b/24fbc70e8e9d50d28f18b44a.json",
+      "raw_batches/formal/gemma-4-31b/27a5976d6bce305366c65428.json",
+      "raw_batches/formal/gemma-4-31b/2fd3d2d220dbdcb31a211d66.json",
+      "raw_batches/formal/gemma-4-31b/3de8b7c82f189ce3aa3912d4.json",
+      "raw_batches/formal/gemma-4-31b/4229e71c724c0ac3e1e67d98.json",
+      "raw_batches/formal/gemma-4-31b/4ca79b576981cea1c9f03f8e.json",
+      "raw_batches/formal/gemma-4-31b/50a91bfc706f8fee8b300ce6.json",
+      "raw_batches/formal/gemma-4-31b/58a6c250393a45e6375e77d0.json",
+      "raw_batches/formal/gemma-4-31b/5a2507c9a6f254a46b95b712.json",
+      "raw_batches/formal/gemma-4-31b/62f74fc470f5afa61315b939.json",
+      "raw_batches/formal/gemma-4-31b/67d5e80b1fb7c029cf5d4652.json",
+      "raw_batches/formal/gemma-4-31b/6ba4da36cf74a699d75942d7.json",
+      "raw_batches/formal/gemma-4-31b/6c0651051f1cdfa82e75b26d.json",
+      "raw_batches/formal/gemma-4-31b/76fb07c29c61bc2250002fa4.json",
+      "raw_batches/formal/gemma-4-31b/7a7dcdda913cc00687436150.json",
+      "raw_batches/formal/gemma-4-31b/828899136f1981e3ecdfe2e6.json",
+      "raw_batches/formal/gemma-4-31b/88c8e2896b9a425cea8d1f75.json",
+      "raw_batches/formal/gemma-4-31b/8fed49eb392c0a4f31ccb505.json",
+      "raw_batches/formal/gemma-4-31b/932fc324289471eaa905e645.json",
+      "raw_batches/formal/gemma-4-31b/93ef72e3009de3f62b5a95d2.json",
+      "raw_batches/formal/gemma-4-31b/9756f059515e0a968fc6bb59.json",
+      "raw_batches/formal/gemma-4-31b/9d1e62daab0ade13ede63509.json",
+      "raw_batches/formal/gemma-4-31b/a94c962a1601199b72842348.json",
+      "raw_batches/formal/gemma-4-31b/ab21d5bf1b1ec17a48a4cd16.json",
+      "raw_batches/formal/gemma-4-31b/b058718d101d658f560d9d14.json",
+      "raw_batches/formal/gemma-4-31b/b572651aa74ed1080bc60aae.json",
+      "raw_batches/formal/gemma-4-31b/b60ce82fb2755dbb71219b4a.json",
+      "raw_batches/formal/gemma-4-31b/d24cbedfbce7794ac06adc5e.json",
+      "raw_batches/formal/gemma-4-31b/dcfc0280bd58b98930c39b69.json",
+      "raw_batches/formal/gemma-4-31b/def660bdf5a2cee390f1714c.json",
+      "raw_batches/formal/gemma-4-31b/dfa987c0d7ca9ed4ad496ec1.json",
+      "raw_batches/formal/gemma-4-31b/e33ca3c4bf94d5b5c4f320ef.json",
+      "raw_batches/formal/gemma-4-31b/e33f468aafddf48f9db74a31.json",
+      "raw_batches/formal/gemma-4-31b/eb02af18acd8be281c2e4b9e.json",
+      "raw_batches/formal/gemma-4-31b/f1d65330d52aa2404fef90b2.json",
+      "raw_batches/formal/gemma-4-31b/f592b284d9dc208a20f7be97.json",
+      "raw_batches/formal/gemma-4-31b/fa49041406c0c10547d94ac8.json",
+      "raw_batches/formal/gemma-4-31b/fd8e1c44b62409937db45918.json",
+      "raw_batches/formal/gemma-4-31b/fe08a094aee8bf0315a490b9.json",
+      "raw_batches/formal/qwen3-32b/025329c8907313c031b29a8b.json",
+      "raw_batches/formal/qwen3-32b/038506d1ece36318d98c5e20.json",
+      "raw_batches/formal/qwen3-32b/0766076f694cf2433a92a986.json",
+      "raw_batches/formal/qwen3-32b/0ec1a0d9a38348d367a6d16a.json",
+      "raw_batches/formal/qwen3-32b/11bb8c162ab6ca32088e9ac3.json",
+      "raw_batches/formal/qwen3-32b/163df86b6e5315ae6959fb08.json",
+      "raw_batches/formal/qwen3-32b/1c8d2da8613c331bfac55865.json",
+      "raw_batches/formal/qwen3-32b/1ff200e600d24fc5d943464d.json",
+      "raw_batches/formal/qwen3-32b/2c2c99cccf4ec031b297a7c1.json",
+      "raw_batches/formal/qwen3-32b/2eb20d359e62517e167b7165.json",
+      "raw_batches/formal/qwen3-32b/30e873de7676157b3d538d91.json",
+      "raw_batches/formal/qwen3-32b/3b43a214f93f574348f81d02.json",
+      "raw_batches/formal/qwen3-32b/41ae9b6895c22c0430e7ee81.json",
+      "raw_batches/formal/qwen3-32b/4de81ceea67487b005fbe0a1.json",
+      "raw_batches/formal/qwen3-32b/4edc18b71e3f89e0375806e8.json",
+      "raw_batches/formal/qwen3-32b/53a196d472fe11ff4fcd1c77.json",
+      "raw_batches/formal/qwen3-32b/53ed3f7f2b9eff919dd785fa.json",
+      "raw_batches/formal/qwen3-32b/5c5680d96051f56687b52cd2.json",
+      "raw_batches/formal/qwen3-32b/5c66bfe6607f56d89db68fe1.json",
+      "raw_batches/formal/qwen3-32b/638dc308ea0811eb4db96554.json",
+      "raw_batches/formal/qwen3-32b/64491cade0d52102a027c6b6.json",
+      "raw_batches/formal/qwen3-32b/6a4f4cee04b0d20fb1b4fb69.json",
+      "raw_batches/formal/qwen3-32b/70b2b0e75542bd69c497db54.json",
+      "raw_batches/formal/qwen3-32b/72851b3faf30a54582131e1e.json",
+      "raw_batches/formal/qwen3-32b/7450e3cd50964a8a4e14655b.json",
+      "raw_batches/formal/qwen3-32b/7c5174a4d15ae9251d7807de.json",
+      "raw_batches/formal/qwen3-32b/852844436c52e09a13ed26cd.json",
+      "raw_batches/formal/qwen3-32b/91b8aa37ae9dd34b946c1ec7.json",
+      "raw_batches/formal/qwen3-32b/95283aa253543f08de6b4069.json",
+      "raw_batches/formal/qwen3-32b/9896d1adbec98b7e15407536.json",
+      "raw_batches/formal/qwen3-32b/9caf8428c742ef5ac779f17d.json",
+      "raw_batches/formal/qwen3-32b/a02d2a493a874922d50db41d.json",
+      "raw_batches/formal/qwen3-32b/a17898ff478306692113bf8c.json",
+      "raw_batches/formal/qwen3-32b/a2381170bde3586097e6bd11.json",
+      "raw_batches/formal/qwen3-32b/a6290732071cf29d0e3965db.json",
+      "raw_batches/formal/qwen3-32b/a9ec5f9136974a9605d0fd84.json",
+      "raw_batches/formal/qwen3-32b/be6b1e72e11334518f69a128.json",
+      "raw_batches/formal/qwen3-32b/c0197024d1b0b0e10413290f.json",
+      "raw_batches/formal/qwen3-32b/c71e2bf6172ed800c2b30d47.json",
+      "raw_batches/formal/qwen3-32b/c8054d85add8ae3d9638e3a7.json",
+      "raw_batches/formal/qwen3-32b/e1e7c361809b982a0fb6dc4b.json",
+      "raw_batches/formal/qwen3-32b/e5bd193741d46cadd95bd89b.json",
+      "raw_batches/formal/qwen3-32b/f2ba86245c4f02b80d07118c.json"
+    ],
+    "missing_raw_batch_records": 2720,
+    "token_decoding_status": "pending_pinned_generation_tokenizers",
+    "provenance_counts": {
+      "recovered": 10400
+    },
+    "errors": []
+  },
+  "validation_status": "partial",
+  "parser_scope": "table1/table2/table3 are posthoc protocol reparse; table7 is posthoc strict reparse; generation decisions remain in source_record"
+}

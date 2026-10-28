@@ -1,0 +1,13 @@
+{
+  "model": "gemma-3-27b",
+  "study": "cross_model_only",
+  "repository": "google/gemma-3-27b-it",
+  "revision": "005ad3404e59d6023443cb575daa05336842228a",
+  "actual_temperature": 0.5,
+  "actual_top_p": 1.0,
+  "actual_top_k": 64,
+  "actual_backend": "local_huggingface",
+  "provenance_status": "observed",
+  "paper_table5_contains_this_model": false,
+  "note": "Gemma-3 belongs only to the cross-model Table 3. Table 5 lists Gemma-4; its parameters are not carried over as the measured config of Gemma-3. The actual six-model cross-model config is in actual_cross_model_revisions.csv."
+}

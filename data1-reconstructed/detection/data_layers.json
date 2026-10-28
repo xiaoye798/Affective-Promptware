@@ -1,0 +1,8 @@
+{
+  "main_scores": "detection/scores/recorded_scores.jsonl",
+  "main_table": "results/table4.csv",
+  "main_data_interpretation": "Retained observations only; coverage is incomplete.",
+  "removed_constructed_records": 4520,
+  "retained_observed_records": 680,
+  "spotcheck_status_file": "detection/observed_audit/verification_status.json"
+}

@@ -1,0 +1,3642 @@
+[
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf021-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf021-afraid.txt",
+    "original_prompt_sha256": "65ab1124cdfced571f32ff2f586e47e88084f1b0921a93d72ae2860ae892b8fa",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf021-afraid.txt",
+    "prompt_sha256": "928bad62546c2a595c0e91758acce9adcb679c95c9d6a625e8f54460524faf14",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf022-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf022-afraid.txt",
+    "original_prompt_sha256": "d710bc360b9f7c27a2173f871c2ca239152604b0898d4d7e62a406bb84bee7c6",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf022-afraid.txt",
+    "prompt_sha256": "3f53050fb04ae06829fecfe6907096d8aa583c64ba93d84947ff4a37407cdf70",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf023-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf023-afraid.txt",
+    "original_prompt_sha256": "058db46ead63cf67de0ebc902296d2cdbbc8b1b39831a004de54cacfabec6ea8",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf023-afraid.txt",
+    "prompt_sha256": "0ce0b5b0491e54be9cd90c6a0cc523b57afb65888a0b76f8a3cf512480f5efc8",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf024-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf024-afraid.txt",
+    "original_prompt_sha256": "e0d0290506e1d01c661908a6ad62d36e482f29192aaee9080ae0d992f97311e1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf024-afraid.txt",
+    "prompt_sha256": "3a7e8e70a742f4a89714c889bea67d49868afc1c3b199cb0e7f00c9aeb43faff",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf025-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf025-afraid.txt",
+    "original_prompt_sha256": "962fc381ba096d438abab2dba1160d9726214d27f68761f62dab163e655d431e",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf025-afraid.txt",
+    "prompt_sha256": "af375f7c3152218a2d2d82489135afd0e6c2a2ad314480f5be29211b9db36aee",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf026-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf026-afraid.txt",
+    "original_prompt_sha256": "e49f62b4e1c8c75a886dc8dd93db353d8ff0cea0401c0d42d2c2c40c747ee9d5",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf026-afraid.txt",
+    "prompt_sha256": "fb47159b8c45e9485a1627ab18db55df129b926be0a15fa953e44d9196a44334",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf027-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf027-afraid.txt",
+    "original_prompt_sha256": "39caee307d971d3030ef6bccfe706de55b3892e33486b5e31ff3298cfacebb81",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf027-afraid.txt",
+    "prompt_sha256": "83a9e5b8b8e1247f981d78269f1b46bdef6cb955b706f8bc9ec0e127574d22aa",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf028-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf028-afraid.txt",
+    "original_prompt_sha256": "603e21558faf36b0b2b6bd956c0d6f75cc5490ab5ac76c869993b1d6fe313375",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf028-afraid.txt",
+    "prompt_sha256": "4cebec444182d1f3f8ee805a64ea90c63eb0ecfba371155970a5b3e27d0b4d52",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf029-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf029-afraid.txt",
+    "original_prompt_sha256": "50f524052f230a589648270a55aab7c674567acfb62fca83ba4cee3df02311d8",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf029-afraid.txt",
+    "prompt_sha256": "e25c51d5669f8d9a024c0899339a7381da68f42abc6a598fd91e6f2e0f9f4674",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf030-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf030-afraid.txt",
+    "original_prompt_sha256": "35d84c52975e3154d400ec32fd40b66baca95f0b0a77ae7bdfe7b375160db2f7",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf030-afraid.txt",
+    "prompt_sha256": "71ac7b3608dced7352ed706adc3497c9129b48e697b11ce93e191e084f42de72",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf031-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf031-afraid.txt",
+    "original_prompt_sha256": "eb8266cbbca6d3b0d71c525ae3b2727472381b2e964ca2394bc7508ee9b572bb",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf031-afraid.txt",
+    "prompt_sha256": "985fc306db46c105ad55e479a504dbf35de8e3dccf687894252c8ade03036f78",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf032-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf032-afraid.txt",
+    "original_prompt_sha256": "be3eb1a76f9c4cb457a21c199ad7247ff60b7ab6034dc9ba26f97158f0ec8b71",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf032-afraid.txt",
+    "prompt_sha256": "3810f38fa0cde837a3f53a1523e30f5f2f7e5d5120141e6fabc563a5756b4815",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf033-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf033-afraid.txt",
+    "original_prompt_sha256": "cbc3d7ef67146198b24a622684a3d9c4d699f9a68c4106d8af182a591049bd8d",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf033-afraid.txt",
+    "prompt_sha256": "d292890d75fe0cab82d2f05d0932c32368e8d61806b4f68152cbacdf16142b5e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf034-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf034-afraid.txt",
+    "original_prompt_sha256": "c072acf2cdd0d7fc5acce9984bc254cdae2671a0fafa1b065850ace0a6aff673",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf034-afraid.txt",
+    "prompt_sha256": "8c298c37b003c40071c82d41bbfe2ab58935d798643bf3c1c6806e8734db3ee1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf035-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf035-afraid.txt",
+    "original_prompt_sha256": "ef65492e70d778b84173b8f4dd683541af1a2095a9fb0c65262433aaf1e30784",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf035-afraid.txt",
+    "prompt_sha256": "102493fb988d6979a35c6afee40153c397fce8a7fdb6e01ca594aab9528db9dd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf036-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf036-afraid.txt",
+    "original_prompt_sha256": "58a9a165a961bc303a9daa2b3b39a7777d72509fad0fb4a9303322426a1974c9",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf036-afraid.txt",
+    "prompt_sha256": "6a5826f964323a2d6adfa3f0b7ea342d62c29e4f944bcc328386fcfdb7193af5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf037-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf037-afraid.txt",
+    "original_prompt_sha256": "d53e6eff8ac24a1c959559cc101b04f910b116749deb19188209e9398544b76c",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf037-afraid.txt",
+    "prompt_sha256": "5eac8d39e48ea6c3e88b837bd2fcda5bb18bd4346b0e52df94a2fb554269b49a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf038-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf038-afraid.txt",
+    "original_prompt_sha256": "5d0559c39f767f12d5f37e5609513950c6261168aeae4833cd2eded7b4f3b553",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf038-afraid.txt",
+    "prompt_sha256": "dd66ff359a7b840385662b4ba365ce9c3740a3c6d87cdc89f6daa70a846d374f",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf039-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf039-afraid.txt",
+    "original_prompt_sha256": "0fc2e664da2bb23032d7b92c5b1b28f3ec4f49cd154d88772d0e7546afc7c5c0",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf039-afraid.txt",
+    "prompt_sha256": "586433209af99428b5187e3ed859c840c00fd245dd4d1d0cd1869598c56bd099",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf040-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf040-afraid.txt",
+    "original_prompt_sha256": "37e7ef9d895d99f303293c3d72a22900b99517c2d41a4e86828ccfb0447356ae",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf040-afraid.txt",
+    "prompt_sha256": "e6be0aabb5559b36d28e9a9744c1290ef62a4e9c557aa8ed471f9e3c84fde512",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf041-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf041-afraid.txt",
+    "original_prompt_sha256": "4aeddcdd00497ed2820517404e25ab064181d412e8f7d612b218bf045fec23dd",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf041-afraid.txt",
+    "prompt_sha256": "00612d21090d7e93c2352d8ee09a6ca0226e52aaf47ad2edceebf0f785634760",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf042-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf042-afraid.txt",
+    "original_prompt_sha256": "e86664e23e7db9d0f8822007670a79bab352b7edf1d2c9c5fb7e68c7f8a4e9dc",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf042-afraid.txt",
+    "prompt_sha256": "da6dd08eddd39f93e14c788613392a4d9e08d2bdcd43a0b177f1ade8614847c0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf043-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf043-afraid.txt",
+    "original_prompt_sha256": "b32ee7f82dafb1e01d3fde9fc4a9b9f306d4d5a219ef66867260261cd35c3324",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf043-afraid.txt",
+    "prompt_sha256": "d371a18eaaf1fbcf934aef36bdd1af6a10125204de376da0de923eb5fa0a09c8",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf044-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf044-afraid.txt",
+    "original_prompt_sha256": "0407a483c95fd44a055abe79e0f14031efb03511d6fbfb4a14f35ca52275abea",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf044-afraid.txt",
+    "prompt_sha256": "559d2773a3b944fb871e182bae0cd36a4e6e57baf94d46157e0dae13a0a13480",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf045-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf045-afraid.txt",
+    "original_prompt_sha256": "774bd8456711978464a22f41d867dbf393929bf77b1271ea4a5db70cd7c3343a",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf045-afraid.txt",
+    "prompt_sha256": "a94fee78d373fa0cfaf88ae33dc7bd4f2b1e81f944095d78c198141ce367165d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf046-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf046-afraid.txt",
+    "original_prompt_sha256": "424eb2c5f563df730d33cd330196a7d38522b27f1ba4254fb12e5b3a250f6aba",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf046-afraid.txt",
+    "prompt_sha256": "0103136f710e765f565305754d5d1290a616a036f5dae9b5dd5ba915b184ca2c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf047-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf047-afraid.txt",
+    "original_prompt_sha256": "f0e4308be807df33d870be6460f7891631a7bb64d0b6844dd81cffccbfd5ff89",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf047-afraid.txt",
+    "prompt_sha256": "392e42130cb3753c97193b3b72678d4af9fa41e8fe8e09ce05fb40cebe8aab85",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf048-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf048-afraid.txt",
+    "original_prompt_sha256": "50e351ccdca818122a8611b249200d79db17c21136ca0980f194373707bffd49",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf048-afraid.txt",
+    "prompt_sha256": "e51a875b7870d79503e2efd57272c27d57f5dd13405057072917646c0ccb6344",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf049-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf049-afraid.txt",
+    "original_prompt_sha256": "46c4f75637b7a599f19956e6036206e5399455ff27df86f4c790e6e4d2825cde",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf049-afraid.txt",
+    "prompt_sha256": "188c9bb80882ca37cdbe78f2388ec39e06065c07f99609786fc84d2fcca6b6a6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf050-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf050-afraid.txt",
+    "original_prompt_sha256": "1ee8bbfc7c1f832b510c696010b0ee77ddd26931d37bab6a7bb0d3e48dfdd476",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf050-afraid.txt",
+    "prompt_sha256": "94b44eff452875718a558a0bfffd68b97e28cec601dee24f1b767e4699cf62cb",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf051-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf051-afraid.txt",
+    "original_prompt_sha256": "b42c0d52b3b136582fe3652f1b954879b8b246ae01850f0704b774b8f09263ff",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf051-afraid.txt",
+    "prompt_sha256": "990e3d0099a72938550ea7ea4097342a3e8449f7f1081d3fdf8ab49f21172247",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf052-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf052-afraid.txt",
+    "original_prompt_sha256": "bc7aa9f3a0bd7096e2e565577ce5cd0ae22bf02b9f5ae7e9049fdd3644b0d5d0",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf052-afraid.txt",
+    "prompt_sha256": "c400e71d711d18bf09c5b7b67efefcaef293e1385b3cf399adbbeb8364e950de",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf053-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf053-afraid.txt",
+    "original_prompt_sha256": "8e9a6922b9097886cd0f6dc4b13fc78ca6b33c5d231a349f926833ac81250344",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf053-afraid.txt",
+    "prompt_sha256": "9479472148d9ee9fa36b661b0f1c1b60ae287e90c7d2afbb3080f98ed3ea2309",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf054-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf054-afraid.txt",
+    "original_prompt_sha256": "722458dc63f64e3e1f8d85e5808f0176c9927e37f8e56dd002c61a459e3330bb",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf054-afraid.txt",
+    "prompt_sha256": "45b524b91d3bfa94ef681006139babc0ec48751db8c4f896b327df678a3fad11",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf055-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf055-afraid.txt",
+    "original_prompt_sha256": "2f1e6e65d3c800dbff195083e168ce6991a305e49431f7b92ad4a21b7b248ed9",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf055-afraid.txt",
+    "prompt_sha256": "098f79fa9f4c1d310c39016bf9cb751f1530e09f8fc5e7eb444bcec2d176f43e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf056-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf056-afraid.txt",
+    "original_prompt_sha256": "0dff82ffb81ccfd2e04dc8d05e0df7f4372c6077514520b32562dfb7822190d1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf056-afraid.txt",
+    "prompt_sha256": "2a1adf4052c930bf4b06a6037e309adabeb66077eff0dfd21a68ccc2bbaaeec0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf057-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf057-afraid.txt",
+    "original_prompt_sha256": "9c2e7838cc787594219ffdfd7410528d20d54adc7ac2e81cc41fcc4202c55b90",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf057-afraid.txt",
+    "prompt_sha256": "e6324a3953a369a43f0af09457e21fb9ca82c041dabe3be28488b9ab78acb098",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf058-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf058-afraid.txt",
+    "original_prompt_sha256": "868eaf5baa31a0ed71d87a3a9a69ee66e5abb7fa00cebcd8109d8cedb5159284",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf058-afraid.txt",
+    "prompt_sha256": "fae6473edc766a315280a0bc807fe4ce81d9550f0d28892821d130d88580e8d8",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf059-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf059-afraid.txt",
+    "original_prompt_sha256": "2cf6cb7232acf8edd088f6eac9af442899ae70565e34590cddc1759b52dd474b",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf059-afraid.txt",
+    "prompt_sha256": "929f532b3d5007b30703a3b71b0fd490169434a9f0d89b08fd75a8841b44f37d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf060-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf060-afraid.txt",
+    "original_prompt_sha256": "4b26dc87f91c822fe06a1ba9d9d4d4e101526c071f294c853620de38eef95bd5",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf060-afraid.txt",
+    "prompt_sha256": "ea3504a2afbc953f447ac0a1248311db4b2ea0a7a9e1de952f7bc16ba12e6e92",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf021-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf021-happy.txt",
+    "original_prompt_sha256": "c9cf53a1fd34d7de361e119094203e6aa766612ee0a31710beaaac15b4e5c1e8",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf021-happy.txt",
+    "prompt_sha256": "1eb8875458b6cced54f5b096051ccf120aad341da819009c4bb17bcb997c6dfd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf022-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf022-happy.txt",
+    "original_prompt_sha256": "44c6cf18669a2329e7fc490a1ac92dbae17c1ce14ca3b619f201557745c27813",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf022-happy.txt",
+    "prompt_sha256": "ce8998c759589c7860ffbe2e12a971b668d0faa68852adc01e97441c2d3315a7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf023-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf023-happy.txt",
+    "original_prompt_sha256": "037deefcde350e8bd278e1d6ef3597fb849d98cc01bc63f8ec6f0ea673798f51",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf023-happy.txt",
+    "prompt_sha256": "bbea392ed9fd7676ea436b59138495faf5c9ed9d144e6a86aaa2fb96f5104e81",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf024-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf024-happy.txt",
+    "original_prompt_sha256": "77f43d544b72dd9e3dfb88d96a53166a87f35728d14a1da510b37c8a5abfb2ae",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf024-happy.txt",
+    "prompt_sha256": "8256d9f5057321015eb976860e58f27e27864c90939d2973855844b2f02e22a9",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf025-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf025-happy.txt",
+    "original_prompt_sha256": "952355cda7058f70eedcac2813c250d7ddabd7b9f8512e917b88ccc6de48c66d",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf025-happy.txt",
+    "prompt_sha256": "3ef265da4a0111707c19e34776308da076285ef9e154e288713d3f1d3ef6b937",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf026-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf026-happy.txt",
+    "original_prompt_sha256": "4111dfc76e4c6ba6d693ba88928f74d1cc7ba13e88c8d8888a1b57827ed197b7",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf026-happy.txt",
+    "prompt_sha256": "51666910eca87e7f8df7ef6e605cba7de8b97e2c0b12c4ca4f3e113a9bfaebd4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf027-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf027-happy.txt",
+    "original_prompt_sha256": "f6b24a2943ce8114cc7103d34f84d9f584293d15f739f4e6e9cabb52eac60685",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf027-happy.txt",
+    "prompt_sha256": "a253196132ee30ef842f2ce30a5b090c201eee19f0192062aad3ac1331757689",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf028-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf028-happy.txt",
+    "original_prompt_sha256": "ea6c93e4b147ca8ad4e5e6774f7aa0aeeaeaaa6ddbd9c94e69e32417fb66475c",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf028-happy.txt",
+    "prompt_sha256": "f454e41e9661397254d75e0fba1ff7124f8d057eb95e604bbd8adf74626c2ea7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf029-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf029-happy.txt",
+    "original_prompt_sha256": "402238c07ac784af5e556f9e5ab55e6cdf7b41a24ceb6b4e98c994f23161cc73",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf029-happy.txt",
+    "prompt_sha256": "4cb62cd798cfeb1fb15ec86a37aa973336038cbd4184d11b1a5ff9068797ffbc",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf030-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf030-happy.txt",
+    "original_prompt_sha256": "ebd375e0962f5018e51ecac1e355c49acb06b5d40f78a85a564c6848f544a7d4",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf030-happy.txt",
+    "prompt_sha256": "137a1dffbabe299725a53dabed976c0ca82b75cdcbaf5281115bf5ac3451704c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf031-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf031-happy.txt",
+    "original_prompt_sha256": "5e17b85648b281cbe49bdbd51023469b58e3716194cd2f869a0343e9234b51ca",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf031-happy.txt",
+    "prompt_sha256": "c0876158ae1881946a3ea93d748d317c6455802ff71e1120cf1ba8a10618d05c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf032-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf032-happy.txt",
+    "original_prompt_sha256": "9b02a4a826c2e16cd47e39ab2b7316d736875c90f4a7c85e86bbdec29cf1f638",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf032-happy.txt",
+    "prompt_sha256": "f2acdc655e3e9a3a4f24db9f5ec01b6be5822b42d98c40fb9c5cf2c6eada8860",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf033-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf033-happy.txt",
+    "original_prompt_sha256": "37fb5ae6631feed311045d2dac61bee7c0523af8d4ab484a63fef7a8b8cef237",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf033-happy.txt",
+    "prompt_sha256": "f266c9be4ca1502725770a8d3c198d5adf5d0ba6a1351ad278bcf45a654241e7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf034-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf034-happy.txt",
+    "original_prompt_sha256": "f5f72eef173bf176a2ff13976f23066a5853c0078cfa7d36868a77b87b0bffc2",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf034-happy.txt",
+    "prompt_sha256": "2bdb9728c1f910b936b03591ad13f5161f6c02ccb325783bb918ddd703269780",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf035-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf035-happy.txt",
+    "original_prompt_sha256": "739dc1961ad9990c5357663236d1eca63f60bea6cb625771df871180ac5eaa31",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf035-happy.txt",
+    "prompt_sha256": "7ebbbc89db60299723b1d12b228bb6d62b44e773b441c992d50fc927cec8e37c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf036-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf036-happy.txt",
+    "original_prompt_sha256": "dfab5a965b7659e688013c3c4ed8dedf311b4939f07fc440f83cfbdbc1359387",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf036-happy.txt",
+    "prompt_sha256": "4de7734483f5acac18a0d01cdb9754a14ef65e09195883cd52fab7e63f052e68",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf037-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf037-happy.txt",
+    "original_prompt_sha256": "30f3eb7588518c15172069d024b12a4649ebd127e1b82db40b0b43dda563e86e",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf037-happy.txt",
+    "prompt_sha256": "5bf72f79716d5324d10032ab7d7ab2ed0cefc6b575360856e4c92ce5cc2ba49b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf038-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf038-happy.txt",
+    "original_prompt_sha256": "89c1a24f42cf04ea29c7932acb501fcb0fe3875b87db4e9ccf04108eb1328b8c",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf038-happy.txt",
+    "prompt_sha256": "d905a8b0ffe5fac68bd8e50a440b669b5f31cad520eb4f9e6228a4f8f47dd615",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf039-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf039-happy.txt",
+    "original_prompt_sha256": "01a2265262b010f8ee7374a54841ae06d7720f81df6566b862d8b5c7966e0b53",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf039-happy.txt",
+    "prompt_sha256": "3faa592e6446cb2a7febb012c041dd2beb15742fa6e0c2e5fddaf0295cba4684",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf040-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf040-happy.txt",
+    "original_prompt_sha256": "f89ee4532ed99ee1c5f40944c63973778fa338b75f4e2ca41a716aed665f2bcc",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf040-happy.txt",
+    "prompt_sha256": "fde2318932d51f847fbed7df47f6e1554a9eb6284a32783766c3e8056193be1e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf041-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf041-happy.txt",
+    "original_prompt_sha256": "e21c100d6bf8725257d441d7d25b3eb4627f49d309bedc961c87db4cb719458a",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf041-happy.txt",
+    "prompt_sha256": "876d5e38e89718e296c7fa53f9d91cb5cc781684f37e32696c3db4fa793b6cca",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf042-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf042-happy.txt",
+    "original_prompt_sha256": "cc7cafbaf621a622c1e9b88851ac9c08b2f07af6b884d5dc2ad7e2d73052339c",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf042-happy.txt",
+    "prompt_sha256": "d9c01be4113cec4e772e23a4c11ad4a628465bc7c90265d74c01d2ee2b75671b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf043-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf043-happy.txt",
+    "original_prompt_sha256": "e35008e1144efa333e3c5bd743f0a7c5bbc4b1b1a35fc291ca5be21997d1588e",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf043-happy.txt",
+    "prompt_sha256": "6d18b221496646d74c3f6fc4da3c9842c2e6814c55886e3db52eda47be030511",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf044-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf044-happy.txt",
+    "original_prompt_sha256": "490847e1b0913c68dfb4f7fcc70a8ea59da2daf219236218ee5ebfcb6d2c94ff",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf044-happy.txt",
+    "prompt_sha256": "3a6d1db3bbb19d45495b0107ff027c958366d65cd037f1456c7b2519277eefee",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf045-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf045-happy.txt",
+    "original_prompt_sha256": "37e86d11780e29cd89e505891816870c3b68af882427af848ada89b7cdf3d1aa",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf045-happy.txt",
+    "prompt_sha256": "440a9c67e83726303aba4059ff80e0dcfc5b634730148d5e8ea6dfeed308a569",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf046-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf046-happy.txt",
+    "original_prompt_sha256": "bc5329feb83a82fb805f96c5d0756b5b6f4d989478d3610b6db5ab1f541db61f",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf046-happy.txt",
+    "prompt_sha256": "f26adbd7f1a71ef3475d9275522244d8b182d5e48d113f082062c49308cb4b31",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf047-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf047-happy.txt",
+    "original_prompt_sha256": "fd3f13f98040ec79f31d955814dd6a3fa3398f132e672559322c36d2e98acd7b",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf047-happy.txt",
+    "prompt_sha256": "606bf7f4cbea5fb4be0c60448b64e01ac593bfac6d070b5e49b6e24f557b2d8e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf048-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf048-happy.txt",
+    "original_prompt_sha256": "203021b26c684d988828065790660e78e804139914ca9f86a38a2bb6c8469f07",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf048-happy.txt",
+    "prompt_sha256": "190c8d7c2f9c1b41366529a76b90de16348d402cd48c9fd94bd9110b23a21cb3",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf049-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf049-happy.txt",
+    "original_prompt_sha256": "8e3d91fa827a14d7abfaf3b8e36fae28feb7ad68ce1cbeb147c96e292c100e2d",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf049-happy.txt",
+    "prompt_sha256": "3b5f27bd1e29fab6d7b36fa64a45133224ceb3ea9a628ada772270ffc0ab3a80",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf050-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf050-happy.txt",
+    "original_prompt_sha256": "b8bfb957b6bc130f00c5d7e931cdca55f520398e1f2365f72abe3baac009632d",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf050-happy.txt",
+    "prompt_sha256": "fb5a09b48bc94b55e22ffe4abb2eed7ea130e38717a6c7e974b8e5d1b64a0bd6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf051-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf051-happy.txt",
+    "original_prompt_sha256": "fc3ed66a56fc0841e9199348f10e2f0ecc8d46f74b7142a6fab0ced3957bd643",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf051-happy.txt",
+    "prompt_sha256": "3b2f078ceab40424446003dad7157bb695133bbaaa9fb84b384428fcf0387385",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf052-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf052-happy.txt",
+    "original_prompt_sha256": "7aee94663d87f4ab14d93367de8123430363c48f0538818b0df6678f7a7ea5a0",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf052-happy.txt",
+    "prompt_sha256": "a7ea7bbcdd4065367e9f594d7576a437e115d98545e3b181ade0754aa6e076a1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf053-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf053-happy.txt",
+    "original_prompt_sha256": "fa1f447c7aa287d9c607a8e2656162bba1e450f30f3d53acccbc056f8ce347e2",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf053-happy.txt",
+    "prompt_sha256": "bcbae29ad031f265525a5c72ab214591256293443099589320c63593eab0a4f2",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf054-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf054-happy.txt",
+    "original_prompt_sha256": "a7ef3e61cd432fff8c9b843b8f1d2a3754c3da8027003a5a2dc25e6d739761fe",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf054-happy.txt",
+    "prompt_sha256": "9fb8261c3ab53d257b651d52086c51bd4f29bb9f243d3fe0b6a90660bd27abd5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf055-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf055-happy.txt",
+    "original_prompt_sha256": "38b0d2ac73c1ebe645a39c121f7c2f23a01aec8bc7aa83c2028031b5e7a30896",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf055-happy.txt",
+    "prompt_sha256": "6b78db1c98012d958ad3123f1022da9bec15a8f2beea0e4cc73ad7e62cec79eb",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf056-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf056-happy.txt",
+    "original_prompt_sha256": "c261bfd0f7481e0f24df8f7599f30c66fbc91f0d3b500b3ef519f1168d12c0fb",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf056-happy.txt",
+    "prompt_sha256": "5f313a49cdce01ddb3e21710724b38a13186f3d82dcdb1d6e2d7fda75399dd5c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf057-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf057-happy.txt",
+    "original_prompt_sha256": "8a53bac6e116ed4178b75d6fea721cbf2a0d8225a11e17e0254dc19b7c081fb9",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf057-happy.txt",
+    "prompt_sha256": "23fddbe311da1441de3918c36e0e9a1b020ba55846b8cfaf0313cabe47bac5dd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf058-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf058-happy.txt",
+    "original_prompt_sha256": "beaa5ed98997df691c88c099a6d86ed09933b92f253d908e8710bf0bcd3b3793",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf058-happy.txt",
+    "prompt_sha256": "4041cfb3b18dccc664d85412efd184bd1dd28e5cf267c82c553292215286f575",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf059-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf059-happy.txt",
+    "original_prompt_sha256": "95cbfae3897c9fbe94698591dcb965e8feb04ca484da7f13a67992febc135dee",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf059-happy.txt",
+    "prompt_sha256": "ad26c7fd6b16f78e55f3588794fc22dc4744c5ee192530b06334653e95341265",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-35b",
+    "pair_id": "wf060-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-35b/affective/wf060-happy.txt",
+    "original_prompt_sha256": "f631745385dd27658c5aa2683971dc489940bc35471b0eabb433f16ca8d63f93",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-35b/wf060-happy.txt",
+    "prompt_sha256": "e6854b9ee0c252a52116d41a3439d0c38adc3bd44d5d6d5d0fe0668c1c588f47",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf021-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf021-afraid.txt",
+    "original_prompt_sha256": "6cc1d0b5b9cfe99537b0162ec4a6687b9f734166969263543806fa76d59f780b",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf021-afraid.txt",
+    "prompt_sha256": "78b6f4aa1328f9b2aa073c288cf9d8bf8ed089cd702591cd1bfd467dc77f5233",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf022-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf022-afraid.txt",
+    "original_prompt_sha256": "7b3ca4428e4991fa37960efd00ad69abbeaedf2f7521f53a39b28db7845a4d00",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf022-afraid.txt",
+    "prompt_sha256": "22b8407251f8c9225bc8c3c8083147bf3a0bd7a7e8593f318405a9fbb1651453",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf023-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf023-afraid.txt",
+    "original_prompt_sha256": "5ca586068a89b89c60f53f12847932d0e271fdf18369e833248b5363675c9546",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf023-afraid.txt",
+    "prompt_sha256": "b60f7618aeb3eb66ba416b71d6a9ed5019cf605c7041222382241c00e0e735c2",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf024-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf024-afraid.txt",
+    "original_prompt_sha256": "fb2333aa41b192c4324e08a359045e515ba765f94348273e783e5b3983846ebe",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf024-afraid.txt",
+    "prompt_sha256": "e340ddbdbe060d7e5279bdb6c1cb19936e9003ffb6544fb6dc87c68732a45869",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf025-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf025-afraid.txt",
+    "original_prompt_sha256": "d279a1ac18b607be22225a4c9007e46614e293274e581c4cf8d64006f6f9e5a3",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf025-afraid.txt",
+    "prompt_sha256": "34e351cc5262dd49d343a48e6b85ac2aba588d7d2ff31e07cdbc56c051465d2e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf026-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf026-afraid.txt",
+    "original_prompt_sha256": "21b663aca8e14132705e52e6d2f60ff2b1d057109c324447fc8a9a65a43bf2e5",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf026-afraid.txt",
+    "prompt_sha256": "29ea9b9c1243118ebacba0a264738143aa1ef9e6079ce630079161d8fec9f72d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf027-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf027-afraid.txt",
+    "original_prompt_sha256": "8df0ddb342bd942ee3ca9c382273fd7cd07303bd2661b33c8d4e40c54e9799a9",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf027-afraid.txt",
+    "prompt_sha256": "85850f80cf0865fd9c4112e03fae82200a8e8391a1e64e1537a438470957de9a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf028-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf028-afraid.txt",
+    "original_prompt_sha256": "2b187a25089036365721e33ff05aa57b9021450463f840d40330e8f6ddd12b13",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf028-afraid.txt",
+    "prompt_sha256": "61623c2863c4f0d402d3847b1da25164c85ea812d8059835e4740c4a12e36b9e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf029-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf029-afraid.txt",
+    "original_prompt_sha256": "c77b96f9e7bfb7e1f351096dc591e9996f7298cd8b7bfb884a96305ff5357d39",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf029-afraid.txt",
+    "prompt_sha256": "ba82e073488eabbf4a40f0cad65b5975770030ae5a51fdfccc57e7ad02c6310b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf030-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf030-afraid.txt",
+    "original_prompt_sha256": "5149a0eee946d02e9acdc6aa6e2de0c889317335a3ef759e7c24c683c0c07c86",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf030-afraid.txt",
+    "prompt_sha256": "18f1574af0d1795413ac0cd3aed137c3c7fd52f74e5f5ef01007cc5368122183",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf031-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf031-afraid.txt",
+    "original_prompt_sha256": "6ffc8d68551fce096ce875e1a4e9c99ee00caeafdcdd51ba6fc9d1aad34a6e18",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf031-afraid.txt",
+    "prompt_sha256": "eb5c896fd7e72d0c2b6b9f4670875c50056b07e3b434b640890e4f9a1121e0e0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf032-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf032-afraid.txt",
+    "original_prompt_sha256": "fcec797aaf3f1d7f91f2ac1ea92271b37841a27ce2490bcf014388bee0488d15",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf032-afraid.txt",
+    "prompt_sha256": "4ed3872bc1b4d16961ab6e324977ee5c1bbff780ffa8dc881355a074a27b66e3",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf033-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf033-afraid.txt",
+    "original_prompt_sha256": "b197001bb8d37d2b8c354a84a26ee1cb71fe9856c1cb2e9da63c686a928767af",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf033-afraid.txt",
+    "prompt_sha256": "e26a8ec398f48f1ad51089253ae0d125f0e63e4ae9b60a4ccbd18e2b8c344e7a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf034-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf034-afraid.txt",
+    "original_prompt_sha256": "7995def3670f19003f583d53ca753bd13d8afe0f643ad5df65b1f5be5cba8fd1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf034-afraid.txt",
+    "prompt_sha256": "20465346063909adcc33f38510ea007e67464192bd26fc00165f9f73d44a0a3c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf035-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf035-afraid.txt",
+    "original_prompt_sha256": "87f0e859b454e7c7add1f41d40cf6076ecb1cedced4f26dc89ed6321ff6f7ac3",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf035-afraid.txt",
+    "prompt_sha256": "57f7e40b1ac25f7b51099d2efe3d99b724ed23f37fff68407559877f45047bb3",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf036-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf036-afraid.txt",
+    "original_prompt_sha256": "c002226b229ab5c6a695bab39dc34fac4dcef9132c603742913013efbc60744c",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf036-afraid.txt",
+    "prompt_sha256": "9828f20d5940243a89ef0cdb5794bcb11e71cc900f7478c689a5dc783c6c0640",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf037-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf037-afraid.txt",
+    "original_prompt_sha256": "93231cc47b6705c67264326aa6660d0f87838ef2931c4b6db1a94e3320543517",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf037-afraid.txt",
+    "prompt_sha256": "1277779dc0e2388f152f09b0219ef077a11ef5028de06973649657b0f31b4360",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf038-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf038-afraid.txt",
+    "original_prompt_sha256": "9ebd2a5a4c9468315f412838ac2659200da1a044612b3c3bd28b77cb856384ff",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf038-afraid.txt",
+    "prompt_sha256": "46bcd2e071c9c93502e331e9e49978e076e595110beef815349e06b13950fd97",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf039-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf039-afraid.txt",
+    "original_prompt_sha256": "4e68bff5b5ab60c399d9d87c6d5286524353730bfbe08029cd32fe02f0b313c5",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf039-afraid.txt",
+    "prompt_sha256": "1de58c8a82d6871411329f387b6c01d281f9e8f2b6d7941917497eeebb442643",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf040-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf040-afraid.txt",
+    "original_prompt_sha256": "69ced1a65c0900388a00dc92d4e945a0e38c43486a7cb9d211e7f656793ae2f8",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf040-afraid.txt",
+    "prompt_sha256": "4f1a3144ab731536ffdc8e3de4a1071379be27b30db79154e91022ba1d90ca33",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf041-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf041-afraid.txt",
+    "original_prompt_sha256": "9217247237bca1ba1dd36e001521177fd3d224892f23335d00c0678fb63cc259",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf041-afraid.txt",
+    "prompt_sha256": "2df45f80e4f4cd66d5e257f1df123a78fd803732bd3a20e3d08ee42a4d3f0b11",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf042-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf042-afraid.txt",
+    "original_prompt_sha256": "4c9c9045d9f6abfe1ef823e1ffb762518e2307e6cb1b2a70b7108f71d965f4e1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf042-afraid.txt",
+    "prompt_sha256": "054372a57855d45efbb597cc4dc30c78e47f7f66866a6311261d1a7905601c11",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf043-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf043-afraid.txt",
+    "original_prompt_sha256": "3e1d621da7880e7c8a53dc7bd1d90f1ff08d0a76346624251169989490a68060",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf043-afraid.txt",
+    "prompt_sha256": "59ce948920e803afae7fcd7d91925dd8dbaa2a9c8378e1d1a478e7c09167df4b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf044-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf044-afraid.txt",
+    "original_prompt_sha256": "8a018a7e0c5dcb73d91ec8e554222210e47e9ec276f2c6dbb205b37e4b0e1ac1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf044-afraid.txt",
+    "prompt_sha256": "434412cf0f266ce5db122add5e5f9e846eb502e6aca7ff7509ddcf5ec952a1ce",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf045-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf045-afraid.txt",
+    "original_prompt_sha256": "ed3aa212ce4b2c10eab06645e5cd1cfe5c3228387703e1770c4a3c6bc5977e81",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf045-afraid.txt",
+    "prompt_sha256": "dfc5cece51480175cb369eb1724aba837e3b56aed883bf3a84d3e4c1b4e2a56f",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf046-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf046-afraid.txt",
+    "original_prompt_sha256": "594bb449c7af5caf66574b4ef0e2698f3da853fffe9a6c778a8bfe5221361737",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf046-afraid.txt",
+    "prompt_sha256": "6b711b9babaaf44c69d7a6f3d81edcd56a151da238dfa84c84d010a1eb8d80e9",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf047-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf047-afraid.txt",
+    "original_prompt_sha256": "0376dbbd9d7b1d3b8553fbddcf5e0d8561dd5d83c14beaced3a7470d7887d83a",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf047-afraid.txt",
+    "prompt_sha256": "dde4e76367a9ac183339f9026a0c8f76bae4348f42920222163e8d4d693c5d1b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf048-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf048-afraid.txt",
+    "original_prompt_sha256": "cdb49721b513bdbe86e8295f32503721fb4a5ff9939e4996566a92264b9d4742",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf048-afraid.txt",
+    "prompt_sha256": "a214ae7b4d59c3ed94a7cc141cdb049bb1e79eb3b24f8fbdd87ac28892d32186",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf049-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf049-afraid.txt",
+    "original_prompt_sha256": "cbdd3bc938563814e56b9520f1877c15710d175540d6c62e088ca4eaa501fae3",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf049-afraid.txt",
+    "prompt_sha256": "16f38b09571d23059e7330216fd761e234b67cbd9f574be65c4f4f38116b2b35",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf050-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf050-afraid.txt",
+    "original_prompt_sha256": "cd38af87ebc8cd3a8da7a56441d0f8565740742d4713164ca44cfbc0bab46094",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf050-afraid.txt",
+    "prompt_sha256": "46ffea1b07d6bb646d1d2b19b7b9888dff72cd5542f8e3a1cb2c523285101aea",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf051-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf051-afraid.txt",
+    "original_prompt_sha256": "1c09fbed1bf45fcaf36316d8e8654332f9d76750e5a71b6224c8ac58944e0259",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf051-afraid.txt",
+    "prompt_sha256": "944b75feca39f8e347c86c075dd24730010c57edaf9d6d3a9a4eb0cda6e10692",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf052-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf052-afraid.txt",
+    "original_prompt_sha256": "17305d780b15a6eaa7fab125c36e976960b3c6312ed5ad406f8b49bbb6c344f6",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf052-afraid.txt",
+    "prompt_sha256": "aa4b9cb69df51429e105cb1e93d72e4b04fe99ec53e8901c699ea93df8da1df6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf053-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf053-afraid.txt",
+    "original_prompt_sha256": "d9410f0fac726d58921ed01d4d10a76c0c3e7fb7005d1a805dae9f2afc6594f4",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf053-afraid.txt",
+    "prompt_sha256": "f2f66521dd29d001b35fedd64cba16ed965082f4e944ab4ca453e6f162f39ba7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf054-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf054-afraid.txt",
+    "original_prompt_sha256": "7a2c08edb49cafeddc334b5cd6ec66c440696d00c5ef486182c8ddb8e64b57be",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf054-afraid.txt",
+    "prompt_sha256": "f7a1741d48f3854573868b8fbfd1eff941908601fac9c34ceb39153e3ae7b9a1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf055-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf055-afraid.txt",
+    "original_prompt_sha256": "b7e946f8d1dd91be997845520e7f77658871db0535b152ac6004bb3687ee0457",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf055-afraid.txt",
+    "prompt_sha256": "96837502a9796e45f893d028bc40122da05b8b2a8e2ad00320b2a21fddb50379",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf056-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf056-afraid.txt",
+    "original_prompt_sha256": "8b2732f5c1a0e4d075d06fb66bc228e4fafd0ab52f26287d54939d636dc0f2d9",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf056-afraid.txt",
+    "prompt_sha256": "bf497562bf781ea3b66513863c3c3b76837703c0ef257bff0cb3487a2cabfa57",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf057-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf057-afraid.txt",
+    "original_prompt_sha256": "ffcc697405615d36f63b1b76773939d2466e47ab17306b57a012128601843a4f",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf057-afraid.txt",
+    "prompt_sha256": "9a765eb1f3001e5937c45b08bb3092189a1cfb63ec05e45c44d541486728a91f",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf058-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf058-afraid.txt",
+    "original_prompt_sha256": "e8ff7f896de6cd501bce0a5d745cacc63953d34ec61ad40514a0944643bf227a",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf058-afraid.txt",
+    "prompt_sha256": "dafff8c6740f32d36abe487cbfc0d25ab2f5e8a0cd5b368fca84b5addab94dc4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf059-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf059-afraid.txt",
+    "original_prompt_sha256": "e44ccab7a425944460ea94bcc113a587c4ccdb463b70806f8bf1f1ac0d54563c",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf059-afraid.txt",
+    "prompt_sha256": "f1858b243b387c31371b093c552d9cb6e2346ad17f1eca81a92e2f0cf665e81c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf060-afraid",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf060-afraid.txt",
+    "original_prompt_sha256": "a2a529b4d25841701cf58132e40a07df0a5004ec5144957adc8186bb0b5a3408",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf060-afraid.txt",
+    "prompt_sha256": "c6841c9227ca257eeb971ecac30abc1a77cda0d43fd47870db5ed28f6526a7e0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf021-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf021-happy.txt",
+    "original_prompt_sha256": "fa4443da056fbc712e5f4375fe4ef889c5dd662e1e9bbda84df6e60800569562",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf021-happy.txt",
+    "prompt_sha256": "72b3542e608679918b9de34cc323ee620b8da21ad91f8ae9b452da1c366b7cb3",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf022-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf022-happy.txt",
+    "original_prompt_sha256": "6c0fa58937ecd9b24d89bcba1a226040cae15011e975cb5068dcc73db02a91ee",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf022-happy.txt",
+    "prompt_sha256": "ae9401e692fd485ec1957a5e16943844461eddf5644023a5216d512a55bdf022",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf023-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf023-happy.txt",
+    "original_prompt_sha256": "b9c1b3061589def27f746be55dacd537ca146bb160dc163c9a1e69d4622973d6",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf023-happy.txt",
+    "prompt_sha256": "02b4397a5c48d54246bc9f91547a2c28873b55c22dddc9a86bf038a0438bf67c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf024-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf024-happy.txt",
+    "original_prompt_sha256": "eeafd2edd59f60a289615b7f98748a76ff4682000ec155f780ae9508d62d8b79",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf024-happy.txt",
+    "prompt_sha256": "eac707e085eb490256da485701da68e7fce50c51347f3a8255de81ce603e5d06",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf025-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf025-happy.txt",
+    "original_prompt_sha256": "6f26ec0dd27130da1b9cea075f6d7145ccb6f2de6dc2307cb23cb7479c1bba11",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf025-happy.txt",
+    "prompt_sha256": "311df92fef00ef3e464ded8a6c047299a06604465eaed3589f8cf82b8f1dd005",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf026-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf026-happy.txt",
+    "original_prompt_sha256": "d3a53971346a92e29f149fa4507d85ca5a41359389aea6ce0d3fdfb2e7df4cb7",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf026-happy.txt",
+    "prompt_sha256": "31fea303395982fc361e3622c722474ab6f82a5e34d68051ecab1aa9ca499e94",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf027-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf027-happy.txt",
+    "original_prompt_sha256": "51dbcd90176f7ddde9bba8bfc2265301cff95d67c4d0d4abd6c2441301b66b59",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf027-happy.txt",
+    "prompt_sha256": "1cacf414a71ff3f35761597599c5aa173bd504a2a81ac6f0d0e120e9f186226e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf028-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf028-happy.txt",
+    "original_prompt_sha256": "761378f2cf2f22855fade2a73fb1946f7b22024861614586da1626caea8b85fe",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf028-happy.txt",
+    "prompt_sha256": "bdd6b05b33bc3e7c6f5aadeeaf064a87d30a2e3f57549326ac015a6e612e6d24",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf029-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf029-happy.txt",
+    "original_prompt_sha256": "5ce4af3f94085bb2e92a103cb9cf5997e6449a2553696602c58ae5931d1dcf76",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf029-happy.txt",
+    "prompt_sha256": "6d0abc7ad350f3b5ac2b5e97356dc1f8969d96aecf57ecc9ce2c3fdfe74b02df",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf030-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf030-happy.txt",
+    "original_prompt_sha256": "478a8f11f4e7b50049ef0acbc2863ac5676d4843089a9d2b9f93e610f1969aec",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf030-happy.txt",
+    "prompt_sha256": "bd50aaff42b524a2e7f90dd45077bb3ddf32a7a1bd19a997ae7841269f2272d4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf031-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf031-happy.txt",
+    "original_prompt_sha256": "31db945f4897052a8c607f94e88f8654a0dac57db7426b832e8f0d7d69e825e7",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf031-happy.txt",
+    "prompt_sha256": "a70e8206b647684aa5e49379aa8150a8119a0cd405bd43108093a0b0a5886bbc",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf032-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf032-happy.txt",
+    "original_prompt_sha256": "49432b4f77314a6e7d32b4fe2cea25b4ade86528ebe39050927e845e2ff50c3b",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf032-happy.txt",
+    "prompt_sha256": "4c03692c4163cce34f81dd3a6a852a5dbcc4b9add4e0e1f8c71eb2775c796283",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf033-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf033-happy.txt",
+    "original_prompt_sha256": "ca4cf14388611acbb81c200dd652332de077be0a1da37e8e30641b870c3cb204",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf033-happy.txt",
+    "prompt_sha256": "47b12f7ef6e8d1698eb1f31a3a4384a6a1df4db045175b7ad6a6f27558ea04ad",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf034-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf034-happy.txt",
+    "original_prompt_sha256": "5e38bcd150a5944434c1a21abfffec788e22baaf6803d914bc24aa84c7536e59",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf034-happy.txt",
+    "prompt_sha256": "6041ad914a852016446008e9e29d9c285a046f187c1c2560d7000c6be8c78c1b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf035-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf035-happy.txt",
+    "original_prompt_sha256": "ba01eb84d0d2af21518d7b5e290bc9ecf672888ba5d6944041ec361d4b3f53eb",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf035-happy.txt",
+    "prompt_sha256": "b5afa1a13406a54928d846c1ba7a5b0af9a9852cb9ebe341a5e77fef7da7403f",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf036-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf036-happy.txt",
+    "original_prompt_sha256": "fd042a1344d0266a6ce0131cc5f09b4791502bf87d145afd5f8574a555766ea4",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf036-happy.txt",
+    "prompt_sha256": "730b2017c0dab585a76ac1360613499a4e0867b203d1d2a0dad31712eaceadd7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf037-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf037-happy.txt",
+    "original_prompt_sha256": "8fe29b7078ef6a247774fe48100248a33509adf35a4c2ee9ca4b6ebc35bc93c1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf037-happy.txt",
+    "prompt_sha256": "983300098492ae4e47ec7314450a7e4bad7f95590be204dcc01e6f681a490532",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf038-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf038-happy.txt",
+    "original_prompt_sha256": "b06eca7d4d19eda39071b7a9a0915df56af0924506fa9c2bb7e5aee7d3468189",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf038-happy.txt",
+    "prompt_sha256": "ea7bb6ff4c92200cee847b0dbdca019167863c921a508256db899b5f8f132f2a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf039-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf039-happy.txt",
+    "original_prompt_sha256": "3d4f5a7a028f6807c93a2223f41018880b075ebfe320756be82477814d97c5a7",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf039-happy.txt",
+    "prompt_sha256": "606fef535e86fd4716d8a343ad17c93173b3b962ee1a156d19c3c13bf782f9d1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf040-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf040-happy.txt",
+    "original_prompt_sha256": "adb53019fafc0f1e68c371e8cace4ee86ee887071d5a920a14c46e2a797e68a3",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf040-happy.txt",
+    "prompt_sha256": "2f8cfa87730e2098cabf1251a2e3beea36e39233600614c569385802749939d5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf041-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf041-happy.txt",
+    "original_prompt_sha256": "94a37fef2b49beeca8d9c42337df79986d5e88b9e064c0ddd0a9625d5c73b049",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf041-happy.txt",
+    "prompt_sha256": "bcbed039e590eae30a69537c81238acece58b9190c82d301cb34293f5351184c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf042-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf042-happy.txt",
+    "original_prompt_sha256": "fd17d3d3d069e2a7e3c1b57c5da7af954e76e6758aa10f46066624db04963dd4",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf042-happy.txt",
+    "prompt_sha256": "5f21344bb16873753fc226a92e824e0b070a464ed1ca6c6d94610c52bfd6aba3",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf043-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf043-happy.txt",
+    "original_prompt_sha256": "7008264dae3908726228b5cf1feb1ac71d4843a1c5319e84ed97ec979392987f",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf043-happy.txt",
+    "prompt_sha256": "3966ad7b37d094ce2297338342d9fb421b3a730634ca7944373c76d88f47484c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf044-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf044-happy.txt",
+    "original_prompt_sha256": "28e7fb7e6e6f7c09d283f1fd282c190e859457764eb0715c221e2ad0236dcdae",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf044-happy.txt",
+    "prompt_sha256": "97976b70628e7c1fcf08e5d9bdb164029c9b5ffae7f175ade4a704a71321364d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf045-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf045-happy.txt",
+    "original_prompt_sha256": "f913503ed2b2881caa20a844c793554521d32ed9cf1bcf74c0b2d6f13888e5dc",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf045-happy.txt",
+    "prompt_sha256": "6c268d538c74ca6dc05be1b0b73ca4dbcc3593dfb03c2f013e8ff53a61263cd2",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf046-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf046-happy.txt",
+    "original_prompt_sha256": "173d40b807848e0da02184fe028a586943dc45c77bbdd0a685b23e5c16833a36",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf046-happy.txt",
+    "prompt_sha256": "a01d894fc05a7079103cc9c43750806ca4b6f16edc22e4661fad876d0f563c8b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf047-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf047-happy.txt",
+    "original_prompt_sha256": "035e6a5f62652c87dd14bba525322601985d224c1c0daee644d68f628e08f78b",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf047-happy.txt",
+    "prompt_sha256": "114c98eb61e4fd264d03dd9c48897e49b5d395b64121ea79d360e7198642ca22",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf048-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf048-happy.txt",
+    "original_prompt_sha256": "b61529fe909520cb7c3504e871ecc61dc360a1717c21a015c27b6f11b8965254",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf048-happy.txt",
+    "prompt_sha256": "7eb03d7d5b9558e24e1e5e668e31e09cd9689c76e735b8ecd5c70ddb3606a522",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf049-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf049-happy.txt",
+    "original_prompt_sha256": "9fcd784b5ca07773092c3de3a03d1a1228f143d4caa361b87eba4c0494c9d04f",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf049-happy.txt",
+    "prompt_sha256": "3bdc7e11489542205fc376931ce267c8f8d5cdf6a90b1bc7a26c0626564b6c7f",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf050-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf050-happy.txt",
+    "original_prompt_sha256": "caf21f3e295fd46cc4215ddefc1572312d990a0e6baf6e005bff7776faff5d72",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf050-happy.txt",
+    "prompt_sha256": "ed05994163aa7a91c6232e3447de6b44d660b9b07dc76afd058655d4abf44bb7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf051-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf051-happy.txt",
+    "original_prompt_sha256": "ba1d10165193d333d232552f254338eefa4e3196c7838bf66af0aeaca03da8a1",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf051-happy.txt",
+    "prompt_sha256": "0e99d5ee8bda27a316f1da8942e083577d3aa1ec3d982bacfb745a8843c3e921",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf052-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf052-happy.txt",
+    "original_prompt_sha256": "1e7aba4891dfaab6ac6774f06a58fb1a8ff5d041567d635e817280baad2efd09",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf052-happy.txt",
+    "prompt_sha256": "092dabf5c10ba86332b0b955160375919e1c2b52b19a9a9ab1eb51665cc332bd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf053-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf053-happy.txt",
+    "original_prompt_sha256": "028ad322c768fc7c84f2dc5059a94e44d5800da6c5843a29a8fad94ab4909186",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf053-happy.txt",
+    "prompt_sha256": "134f48d3a93d5479dc0396a4c41d9aac1d72249939c07fae6110d23810b33ec5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf054-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf054-happy.txt",
+    "original_prompt_sha256": "1892d6f3f2b845d8ac4b44a700f6f60fe39b2e9e6646262bcd9609a6ae961254",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf054-happy.txt",
+    "prompt_sha256": "5373f25e428ced2105164461b71e3957c3f301e0053df0d71984ba0839c1c2cb",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf055-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf055-happy.txt",
+    "original_prompt_sha256": "f5c06328b6fc7f0c2e03e894014ea547ee89a40ef6c509ace8cfd161c47a6083",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf055-happy.txt",
+    "prompt_sha256": "43f2c550020b0ce56e35f244a5ec20621a27365b526f78a0950c5c1c40ce9857",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf056-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf056-happy.txt",
+    "original_prompt_sha256": "f004b3d945d6b7a1961586eb75540beaa7e6c2322fe75fbadcf440f0907a5558",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf056-happy.txt",
+    "prompt_sha256": "eb81b04f108199a9f3a517214d5d12666b3fd8a94352848b22aecbe02a4f63a0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf057-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf057-happy.txt",
+    "original_prompt_sha256": "cc38b51d80bff34fbf51e9ef01d13094b7a323da318d68a222a253282d840ebd",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf057-happy.txt",
+    "prompt_sha256": "b2190b0e05222d88571ab99e5923cefcc7e0d75af819a28156e81b2d09eeb5dd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf058-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf058-happy.txt",
+    "original_prompt_sha256": "6983fee1195a7a97ff23df3f9700fcbfa4a20bd3c7003ff1bfac3244e3901cd8",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf058-happy.txt",
+    "prompt_sha256": "c329801c52caf02bad9709cb58207c7d3d55a9923ce1319124df2c14eb645715",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf059-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf059-happy.txt",
+    "original_prompt_sha256": "87d78a06ceae6d964584ff778c5a70c5d7416cc881677638968c8a20821a4e2f",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf059-happy.txt",
+    "prompt_sha256": "354615c2fa92704d9d7b510d4413d8530fe7d866a6319e9c26a47bdcf7d893f2",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "pair_id": "wf060-happy",
+    "original_artifact": "artifacts/cross_model_study/qwen3.6-27b/affective/wf060-happy.txt",
+    "original_prompt_sha256": "0736b3ba98ec445725da5e01d86e56546683256f39a1b1e156c10687c63739a2",
+    "artifact_path": "artifacts/rerun_inputs/qwen3.6-27b/wf060-happy.txt",
+    "prompt_sha256": "d6fd66e7b205ab8bd6b34610a26048183695a6eab7e6ca961c5cd7675b3dc5ef",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf021-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf021-happy.txt",
+    "original_prompt_sha256": "76adf7e59ad6e2aee57afc5a04e5e832ae59cceb43b780804673fd0fa943fc06",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf021-happy.txt",
+    "prompt_sha256": "bb3ce5025e9c38cb332e6fcad0d35a10ede1145b8778e7d7e220132acc9b0fd4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf022-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf022-happy.txt",
+    "original_prompt_sha256": "7e4ea4e3925d45e35c679a80b00e36e2eefcef100169fde6dba07d51a55b6ac6",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf022-happy.txt",
+    "prompt_sha256": "167debfc20ebd4d24d685794f4860d496476cfd9af695e3059eb9e189239b5e7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf023-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf023-happy.txt",
+    "original_prompt_sha256": "edc9fb214fd838f05acecca4a2cf56d461e30fb74291dc4e3c5c3b957be76fa1",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf023-happy.txt",
+    "prompt_sha256": "81d72f262812da63b1dc2d378e7d2343e3c0435a3aa9f47c64d074449c113247",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf024-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf024-happy.txt",
+    "original_prompt_sha256": "41ad4871213964f11252533d5d1fdfa2a062d5763cd1e2dba3d56c21915b7159",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf024-happy.txt",
+    "prompt_sha256": "75feb63182d95eff9d891c35a8c8dcdd80ffc8b095991d9dae94d2ac05738148",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf025-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf025-happy.txt",
+    "original_prompt_sha256": "69574af324d3fcedef8167a0df6efc13f8007bd422a5a52f31e9b30ac1e083fb",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf025-happy.txt",
+    "prompt_sha256": "61d46fec572001524551b5174d3c9e30be07cb0468ab67d9f347731d47bb70eb",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf026-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf026-happy.txt",
+    "original_prompt_sha256": "3bc5240fb638a2d8480dec0c2227c506a752a0069133d836208ed8c922e4bcc4",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf026-happy.txt",
+    "prompt_sha256": "f237dbde7b640aff34f4245527a19dc49c2a41555f63bc8e4fbfc74ccc957b55",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf027-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf027-happy.txt",
+    "original_prompt_sha256": "4658f607af254338739f7cc36302d0cbfcb56555163b1b87fa0a0f99a340ff08",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf027-happy.txt",
+    "prompt_sha256": "c674e70389a8c41285e2c5f16baf0f5fe07ac5503eaf1f08aa366a1c0f750d0c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf028-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf028-happy.txt",
+    "original_prompt_sha256": "86b3bcde54523546343507976bfb116b593156d204da5498d9e29177a8661488",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf028-happy.txt",
+    "prompt_sha256": "6af3b7540b0b2531b9c5e3aa87653ccb20cb12907a9a71f3e08ccc34b86e3f19",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf029-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf029-happy.txt",
+    "original_prompt_sha256": "42f6f4eb6d6089401e8e76d221833f9d751f092a113e93ff6ccaf978b4fe11cc",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf029-happy.txt",
+    "prompt_sha256": "395a308e7e826b46bc0bfcb412f65b77dc65c3d5396cb7a3f381231ba1aa4798",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf030-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf030-happy.txt",
+    "original_prompt_sha256": "d7fdcb95293cd8cbe6e8b66755251d264049ec59cf0964f7a3c0bab0edbbb841",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf030-happy.txt",
+    "prompt_sha256": "e79ff4746204cc1ea33915dfb7ca4cbd9427497cc9f9883ac9f1644d9ddf2dee",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf031-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf031-happy.txt",
+    "original_prompt_sha256": "2e96e36f35202d336f554be8ce2aea5cb8d855511c03b81d2b12817ee9cd08ab",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf031-happy.txt",
+    "prompt_sha256": "1b2b3dcd69aed76886d0dfeed5639a5c6be7244dcfcb61091ef8e8fc8ae73f7b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf032-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf032-happy.txt",
+    "original_prompt_sha256": "b0fb47a82f068f2f257cfbe6fb9bc0d86ff7c027a79617fbf3bdbe919ccdb0c5",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf032-happy.txt",
+    "prompt_sha256": "a97820564b04367b99a69c6ded7397df0f4bbaf1550c63df397e054d7b8ab1c1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf033-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf033-happy.txt",
+    "original_prompt_sha256": "782e554b41d4a0e16cc87f5210507007a09182e5346d488aff5eb00046879dc0",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf033-happy.txt",
+    "prompt_sha256": "0263039e749958e35a513f192792cd1600dd73c3459074c8afc2ac0fd7d1627d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf034-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf034-happy.txt",
+    "original_prompt_sha256": "8cdcc2750c04346681e1c3cdc8d866b6b9248514a1aedc91d6748985b2d943d7",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf034-happy.txt",
+    "prompt_sha256": "9442bf9fab9dd2454d008ca7b6c7ad053b9abcca3e79d3fb4e743839b3dfbfa1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf035-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf035-happy.txt",
+    "original_prompt_sha256": "dacf2f146f1648ba084dc2e09f698c57f75e352df95f088fc2a5ef393fa78605",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf035-happy.txt",
+    "prompt_sha256": "1eabf6c09593080f9d861d507afcdb9479c1b7e8436faa1de311d7ac46e990d0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf036-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf036-happy.txt",
+    "original_prompt_sha256": "3433984ae3a2fd4c1420a7cda8f88c94bdcf9ffbaed4f38722ffd18658ff5c47",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf036-happy.txt",
+    "prompt_sha256": "5f7bd36fc04d417a92edf46dcdeb27b5dd7356e0fc2c284f4a84060bfc13c56e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf037-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf037-happy.txt",
+    "original_prompt_sha256": "00933d4a0d5c76db1467421cb7907a355ad9d6fc8d429ece5b903d806f3b5c8e",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf037-happy.txt",
+    "prompt_sha256": "fdefa80bfb839f1239aa2ded551861cfd0e0a963567b5ddd841c168ca2c5fea0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf038-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf038-happy.txt",
+    "original_prompt_sha256": "a59e8c3c664e0c9c5122c1e68820bc688835fd121345f1cab1db8e8e39bf3f2c",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf038-happy.txt",
+    "prompt_sha256": "446df17eed5aaa6fe6d3038d9efa4be809e370be737cee1dec2e93087beebae5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf039-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf039-happy.txt",
+    "original_prompt_sha256": "5cc2af6101715e2c393b2a3d675cffe5a69506e3d9e92c809e027eb78557d571",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf039-happy.txt",
+    "prompt_sha256": "a3903e77d14386d31db74777661237946148ce8405e36493343c6f8f47f1e7b6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf040-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf040-happy.txt",
+    "original_prompt_sha256": "1d9cdfb9b18a907d446c2b57e3264d7e2e0e4d88e43bf5cce765312cd99606b2",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf040-happy.txt",
+    "prompt_sha256": "cdacfaea1b355b31de8c2f8e44c040da4fe47903eb710c2799875073dfc8469b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf041-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf041-happy.txt",
+    "original_prompt_sha256": "af95247a99974ee90fafd585b8e15603852705786b76d2cc73956a1813730091",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf041-happy.txt",
+    "prompt_sha256": "2ddc2bd55c942eee173071dbab8523008ab951177d1e8899d5193f3563ba2b31",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf042-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf042-happy.txt",
+    "original_prompt_sha256": "e85f01f76858ea7cd0660a2ce0da67405c1dd792e2c734bdd07ea27ff1c57280",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf042-happy.txt",
+    "prompt_sha256": "3c4945e2c4dabbaf2bfcaaee31c9da4c12a14d618291d2fd87b7296896d6fa63",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf043-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf043-happy.txt",
+    "original_prompt_sha256": "5debd91c3db409250aaeacdc1b45b0f6a2552121e44f271f74dd7ae4927cac07",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf043-happy.txt",
+    "prompt_sha256": "ee3524384224c4fa11bed353c2d569c181a47b3d141a5c2b8d27e7911a76afdf",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf044-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf044-happy.txt",
+    "original_prompt_sha256": "1cf66fe3c83498cd18435b2d0ee0b36655eeda4eb54cc188cd2c3ee75ebcfe34",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf044-happy.txt",
+    "prompt_sha256": "d49ddda78b4391a6358e5bf78103f4e75dd7d3e9a513dc78de321deef677765a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf045-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf045-happy.txt",
+    "original_prompt_sha256": "f6215910b1ec5e789d5995144548e81fc35148701152eb42ff3bade8a5fc60c6",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf045-happy.txt",
+    "prompt_sha256": "f47757a79520b161ba27f1ad2bafa46d2ca4936e762d5b26520aaa0d5c01ece9",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf046-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf046-happy.txt",
+    "original_prompt_sha256": "6b26aac93e3595330917d50b267aacf9bb1d5a16547ebe6bbd6a7cd4c8ba64d9",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf046-happy.txt",
+    "prompt_sha256": "7dd2de61a23051d6a297d5e02cc32bfd3909a255731f7bf6be1112ad14b740ba",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf047-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf047-happy.txt",
+    "original_prompt_sha256": "4160c1fd8dded61298da17460d4f291f2a2a33fbcff9a7b0178d73c708efc3b8",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf047-happy.txt",
+    "prompt_sha256": "4333e216ae20d6c0c8e85ba6b022c047505e795c2c959df3509892571fc52413",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf048-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf048-happy.txt",
+    "original_prompt_sha256": "bc6af43d5e49b69cf4a3b40428074a3eefefdbe5f275be15c5d6845095b167c8",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf048-happy.txt",
+    "prompt_sha256": "7fd7445f63e262250772f5d2635f9abc311f6becd2d9c8b1744beb29bb707914",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf049-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf049-happy.txt",
+    "original_prompt_sha256": "8861ad50ced7cb79a79ce34308d75cb2ab0cd6b3599e2ce30c14076119267ccc",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf049-happy.txt",
+    "prompt_sha256": "19f8913e9396a9569d7bfa952abefb62e18f7ccb3d72238ba527fa9aff8d74dd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf050-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf050-happy.txt",
+    "original_prompt_sha256": "6919e63ed93f09e4f7fd1a843e00a06160fd218d62863ec8c268227f1e16366d",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf050-happy.txt",
+    "prompt_sha256": "1fe396da8961e3b473212571f8c44f578fde600d6dcf710bf320faf61deafbc7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf051-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf051-happy.txt",
+    "original_prompt_sha256": "7314c0a2925c006de8a77af13b951724dd979debc9675f8d33de580d7fecdca5",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf051-happy.txt",
+    "prompt_sha256": "3f687a1457a1b6a6b3176c451844e72a5e5553ffbf45be7c2ded53a40d3dc36b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf052-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf052-happy.txt",
+    "original_prompt_sha256": "2011d00e1e34e9ae64fc150375f8240bd88cd8827bd09c0092938182a20487ce",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf052-happy.txt",
+    "prompt_sha256": "d8471f5a5faaa660a28fd16216424ac5fac48f2e9f20fe026a7876a91fb1dce4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf053-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf053-happy.txt",
+    "original_prompt_sha256": "75f220a168820d4ec11bce5f4642ab007a0f59f8ea1950d831a73fba67e52d6c",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf053-happy.txt",
+    "prompt_sha256": "44dde40f5fe8a1537e7e08867d17761c09d87c5c7f6829e6e7ef13138cc55e5f",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf054-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf054-happy.txt",
+    "original_prompt_sha256": "e755e55f8e03ae3804aab43b9d40675e46e3d78df92032e8b9a0b52a3fb2df95",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf054-happy.txt",
+    "prompt_sha256": "4e07db149f9dc8d3b3d4cba92ef23b53865d3c13fd17b80d49edcf2b4174c887",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf055-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf055-happy.txt",
+    "original_prompt_sha256": "dd3f4e88aa2575b4eb5955260dc825a056e9331d3a8717999e5e38b8f8dcd566",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf055-happy.txt",
+    "prompt_sha256": "300ed9083d8a244dab38c4ada582f0a7a26e1ada76c4369f479fddf732a6647e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf056-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf056-happy.txt",
+    "original_prompt_sha256": "961452af97c5b12d4ff50ebe2fd67397b8fbe78150508633b69c84a12943b38f",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf056-happy.txt",
+    "prompt_sha256": "5c1e9ab2faf9e55822a209c2beb874e25830240cdf809e8abab4949395a813bf",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf057-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf057-happy.txt",
+    "original_prompt_sha256": "170d9cc17cf1413435836883d403a03cd1688b0b85e9ddaf8a7b43d291274371",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf057-happy.txt",
+    "prompt_sha256": "532f2c868333286df6543420f81a80ab8844da05de71ce29f270d63f81d8b605",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf058-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf058-happy.txt",
+    "original_prompt_sha256": "742111e5942f0ccaf71f7b104757a2b5f04694b060ad4b13c32d6599ce56c9e4",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf058-happy.txt",
+    "prompt_sha256": "075293883c40d654bafc8d02eec8690899494016710b5d418f4fa9570e70d7e8",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf059-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf059-happy.txt",
+    "original_prompt_sha256": "477d969e45d4466dc91b35de2ed7c0d45bff0746071b0a88ffc7ef0331eb5475",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf059-happy.txt",
+    "prompt_sha256": "24814282a3852564adfe3040a1266d82512572c964079898a66178a33a73063e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "olmo-3.1-32b",
+    "pair_id": "wf060-happy",
+    "original_artifact": "artifacts/cross_model_study/olmo-3.1-32b/affective/wf060-happy.txt",
+    "original_prompt_sha256": "80128179341a685f6ad24a3f8adc0575dd8dcbd849aae55626c07382ee95c61d",
+    "artifact_path": "artifacts/rerun_inputs/olmo-3.1-32b/wf060-happy.txt",
+    "prompt_sha256": "c076c4f9f68b09a54c4d57a3a3434886b4d481013c9a1023a7e7c9198a1206ca",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf021-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf021-afraid.txt",
+    "original_prompt_sha256": "ee0e425dbee0876048d3c9dd834763f7d1b2570097ef5a511824f0fddad66d52",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf021-afraid.txt",
+    "prompt_sha256": "1adb86e185c6750d53ac3ece4030c8c2e27863be3676763c45384b8ae66f4a85",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf022-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf022-afraid.txt",
+    "original_prompt_sha256": "ad5a7ede7715158ca197493024ea3bfb8bbab59e7f012b7bce3af3ff107a66da",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf022-afraid.txt",
+    "prompt_sha256": "9cdb6233478234799d6b61113045545bffb00a68e2161555364bcaee24901ef4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf023-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf023-afraid.txt",
+    "original_prompt_sha256": "44e7d9d85ef5fb8d6a996edbfb275ca50ca413894714c1c6968879da3342f632",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf023-afraid.txt",
+    "prompt_sha256": "e6a2e1cf56a3cdfc9ac3883d16f7806823969c7b62ee2561497a09b26b204d0b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf024-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf024-afraid.txt",
+    "original_prompt_sha256": "35451487783b9e650c6b760ce84942b25ca13d3afd61527572babde493f88829",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf024-afraid.txt",
+    "prompt_sha256": "8275308e04069a5ee669b4cfca145a21908a4f6049dee11e9df0d26d038893f6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf025-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf025-afraid.txt",
+    "original_prompt_sha256": "e0eb454f16aa94f6ccf64be8d45f43e01032df97e763cfd7f6bec7f1e6a6ad56",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf025-afraid.txt",
+    "prompt_sha256": "8b61fcc79ef277e7ebbbc97ccb9116bbb60e71285ef7c288b8387b4afaf51473",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf026-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf026-afraid.txt",
+    "original_prompt_sha256": "f96ebc3244bb57209274d9087af187cbd8640f5a1e1bd8d27bc3d2a5465b3cfa",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf026-afraid.txt",
+    "prompt_sha256": "5e5bab3e1fd3463e580a6965d610182baaf483e4ebe39c1964863b29270313eb",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf027-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf027-afraid.txt",
+    "original_prompt_sha256": "c780dc4bc2c9df7ebc665528cf93149cb83600e8578871866c72779c49051ba9",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf027-afraid.txt",
+    "prompt_sha256": "80669b59450241a5e166dca589f2c8d824cf3872a398afc8f579c86189db4b17",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf028-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf028-afraid.txt",
+    "original_prompt_sha256": "56aba1e09895968d75ba9aeffdc8450aeac753a07234b0bb7814fce7ac5d96ef",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf028-afraid.txt",
+    "prompt_sha256": "b84b479099fa64fa78adf455f282d1e25362be9dde5cde8957f172d94ccb7f57",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf029-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf029-afraid.txt",
+    "original_prompt_sha256": "cc24e7db8139718a1ec144f0092f5d4b7518f480bd4537c8e5fb68e7b536a71a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf029-afraid.txt",
+    "prompt_sha256": "c3fcfd4cee67b23ccb44acdc1b20a77a987badc87435966b635df7d048537c44",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf030-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf030-afraid.txt",
+    "original_prompt_sha256": "28f628fe32f3facf1b717ada306dfb20f4d88dc4959be63223eb1db0bc0c5ffa",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf030-afraid.txt",
+    "prompt_sha256": "a78df908ef83d204ab2d36a2d14710be059529d916960d58ec7051bc1507e536",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf031-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf031-afraid.txt",
+    "original_prompt_sha256": "a75456fb62cba9909ce255cf8f00cba12b2dd22cb8a44fd96d8dde1fb06245ed",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf031-afraid.txt",
+    "prompt_sha256": "ea0b4a6a57be87957be37c0327502035ba858637c0afb82c7a701dd50a3dc310",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf032-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf032-afraid.txt",
+    "original_prompt_sha256": "a62aadf488ae721267054dcb74a7b6dfe0a7927d0dd323a6cf0e626a7e894e67",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf032-afraid.txt",
+    "prompt_sha256": "03e04a143827e4e3b523632b068fdff8c6a6b049368dec870ad973f3f2c671cd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf033-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf033-afraid.txt",
+    "original_prompt_sha256": "1c988225037092bad9c17458e0efb997573ee94b2cd5b366a6d98fcd78fd1b69",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf033-afraid.txt",
+    "prompt_sha256": "78ab1d7e7eb9674a9e0e2f9ada37785ab81b2bb9eebe0d666bf906917fdb7a37",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf034-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf034-afraid.txt",
+    "original_prompt_sha256": "d27e089f98844e8799513dacde2a1e87656469f447869c38d93ab479565240a5",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf034-afraid.txt",
+    "prompt_sha256": "b107651f7ec05a508bff3efe1a7f0794f8afad089974cb9823f201a730c0ae71",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf035-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf035-afraid.txt",
+    "original_prompt_sha256": "b9404715eaa13d42f819508c30e594adbe3919c1aa5039c641b813e60d785adc",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf035-afraid.txt",
+    "prompt_sha256": "49ebe1a2b71989ecb57261ea672600dc51116f3c09eb27b702b8cb8e8778875b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf036-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf036-afraid.txt",
+    "original_prompt_sha256": "6de9da41632274fa6838c1cc636640e2cf14fb07e2d14b9b23d9ff3cb1ff2c83",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf036-afraid.txt",
+    "prompt_sha256": "b86fa1090c2977702a94d86fa5b652df7a09a13ae3b038d03d0bad384d303a3a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf037-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf037-afraid.txt",
+    "original_prompt_sha256": "3c0b3bbf969def72df8afd32c3907add11e5bff6d0bba0c094581f2255c1dd84",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf037-afraid.txt",
+    "prompt_sha256": "6bba4ef438d1cba782d42300c30bf1686d7ae0a3dd35d1b2fc006d95b3d810aa",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf038-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf038-afraid.txt",
+    "original_prompt_sha256": "3aa06c527adef3819552c4f4108d31bca995a342a5eec1e79407ba6291a1800b",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf038-afraid.txt",
+    "prompt_sha256": "acbbf1ccf515d635aacbf64be915c9367f983f26425b228f61a9aff452b3910c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf039-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf039-afraid.txt",
+    "original_prompt_sha256": "302b062a4eed806f2411ebc682cde16a1f6f1041b7cacf80c0b247c26b7aafbb",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf039-afraid.txt",
+    "prompt_sha256": "ed9bbd7394c815c394ab4b278f526049b58e0d5f3e848e2fe4663f1c2b52cc50",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf040-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf040-afraid.txt",
+    "original_prompt_sha256": "f358cb424385ac9d912d92ac0a202b62e089db30a75e19ed9752fd92a9aa8653",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf040-afraid.txt",
+    "prompt_sha256": "d8124f66a4a891d232ca372247456e9b9b6e3a08f0cab44c8ccd8dd77edbceaf",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf041-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf041-afraid.txt",
+    "original_prompt_sha256": "e6f5c3abeaf8044b6d9c78783455431b9f6a8f377936be001bc5f11c0e964b3d",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf041-afraid.txt",
+    "prompt_sha256": "4de4a861862abbcb6b9f3d08518f55ce35575992a39cda7e3f73e997f2f9c8fa",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf042-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf042-afraid.txt",
+    "original_prompt_sha256": "46d4cbacd14bfb372e41cb6543c1dfded6c236d89dd2e34647ace121631cc27e",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf042-afraid.txt",
+    "prompt_sha256": "612ce4e6be8c79567762c1e97efbc2c07af170f164ab8adf62a202b9b3aa56af",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf043-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf043-afraid.txt",
+    "original_prompt_sha256": "1db9b3d28e258d888f262eb0aeba2cebb40b5bfa530bf7d013c67866b9d6f4ed",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf043-afraid.txt",
+    "prompt_sha256": "99644e9cddf86f0a325ea57ca7b497354f6b4314f61e934e2576ce8daf44bd16",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf044-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf044-afraid.txt",
+    "original_prompt_sha256": "415117378b12f8e51305fbdf5627630ea4be1a807859c865243b3ca2bea85253",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf044-afraid.txt",
+    "prompt_sha256": "6dd998bc463cd677e654bd02e78f8777fc7672a9027a17b5adb7bf7f930730b9",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf045-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf045-afraid.txt",
+    "original_prompt_sha256": "7b5a977eee2a9e487ca2377b14dae583777f6f96c18e4c7398367b03e838d2c2",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf045-afraid.txt",
+    "prompt_sha256": "df010b52facaf6145e901ae65c9a83ae8ed248734b587ac94bfa46f3c912700e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf046-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf046-afraid.txt",
+    "original_prompt_sha256": "7b32f1f95bfb129af3e50db7c64e7d63a872b7b01cfc02e5b9b1e8786a4ad769",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf046-afraid.txt",
+    "prompt_sha256": "8a20b9da7729b15e19cdf4d0aa704a3f5589b61d35ace323de2838a570e6f19e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf047-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf047-afraid.txt",
+    "original_prompt_sha256": "dd6808b234493c626b90e32457f59939b3c1e96b7a1b8c96099f6573e3164452",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf047-afraid.txt",
+    "prompt_sha256": "aff5467b1be9c895045161d1055d9840debe034b6a6148e9ce89fadb7ba9ec7d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf048-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf048-afraid.txt",
+    "original_prompt_sha256": "54e045ee91674a8fe779baf4eaa77bd59fdf5fe00dbd32c6fc63e9d29ed3d627",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf048-afraid.txt",
+    "prompt_sha256": "c4731f477309c11b037a2a0244e84b15e0f9650a94eeffd6d984f4d1c5dd1dd1",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf049-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf049-afraid.txt",
+    "original_prompt_sha256": "cf8d3b78721d78b470173e9f5a1f7b18abbb944c0a7a0b8497e676855ba5dd62",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf049-afraid.txt",
+    "prompt_sha256": "20aeb88a152b66f3d41482d93fda9a1766eba5dab64af8a9ddfeb47e5064d296",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf050-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf050-afraid.txt",
+    "original_prompt_sha256": "a6c5326c217cafb28d8d55eeb69e900c6944bfdc265c0ac4e8f4dbd0d06e9a3d",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf050-afraid.txt",
+    "prompt_sha256": "7355307b9822916964e879e41ec3f2e48af1bc4bfeb9a1af538a4ab90741b7f2",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf051-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf051-afraid.txt",
+    "original_prompt_sha256": "0b028b24021d035ed0587200ab81b278e3b6ac9fffc4818d36ed2181cb2269a6",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf051-afraid.txt",
+    "prompt_sha256": "bc0b5d25a5573a6231ff537bfa1192b91130740b9cf80363fe0444e7e7a3e865",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf052-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf052-afraid.txt",
+    "original_prompt_sha256": "111047b17198557b61af11d60f6d8c589d72c9ccb0c65dfb7c9ecf8c03f82006",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf052-afraid.txt",
+    "prompt_sha256": "ebf0f739713ee2c2750ef07de2d21d95e15b3ed5258c40e459d6ed83924f7ef8",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf053-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf053-afraid.txt",
+    "original_prompt_sha256": "ae0fba5739bc2b277e784b2df613d8cf9d6e8e00b706d8e8d1948f3492dab345",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf053-afraid.txt",
+    "prompt_sha256": "a8ba30bccc6bf85524b16777ca50d9950878e97ecc6b29266e1458d0ea619161",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf054-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf054-afraid.txt",
+    "original_prompt_sha256": "2e81b9b47a8363c5aab21c66e116abd8de112537a1a877d1d423ac9455f9181a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf054-afraid.txt",
+    "prompt_sha256": "e1464d1053d4fce65d92e5a152237894343be6c6f77258a8764563ff27391739",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf055-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf055-afraid.txt",
+    "original_prompt_sha256": "30deb5154073c38c79e5a799434b32c643a9aad38cd2e6d9b36ba38293b8fd68",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf055-afraid.txt",
+    "prompt_sha256": "cff24b10cd910d6b09d32735fb3b37cf16c159f7a8e66fbfc35f33af2886ef33",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf056-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf056-afraid.txt",
+    "original_prompt_sha256": "5cd86f905ec5b97e3f0ccada1b14b3faac815f08c588a0533b901f223aec887d",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf056-afraid.txt",
+    "prompt_sha256": "f49176108c0cce463bacc3c6bd652ae32c865bd722b13f0560ad9f99931f3af9",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf057-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf057-afraid.txt",
+    "original_prompt_sha256": "01cd551c5d5f92ba017db1db012f166ffd869f0fa85834a8ff9fd6e9d9736dbc",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf057-afraid.txt",
+    "prompt_sha256": "ded55d1e7cc197fb0a2fb574c8d80262f5ed6dd0ffb4651c58631239b3c17487",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf058-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf058-afraid.txt",
+    "original_prompt_sha256": "eac7f306b5e80ab2020565872c3c4ecc17bc11da69cf453529e1c10a535b8833",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf058-afraid.txt",
+    "prompt_sha256": "d6cbc15a9078486f8354afd74077edebf3d81ab6b6e956bd0e1a73b10ecf01ae",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf059-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf059-afraid.txt",
+    "original_prompt_sha256": "31f5245e4de2b55d12f80ab5602fe817c66d944de3e24de28bcb8344ba33f75b",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf059-afraid.txt",
+    "prompt_sha256": "8e9c461fae1b6add1fac288a8f4eecf40a08591df7c7461a517ced731e697995",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf060-afraid",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf060-afraid.txt",
+    "original_prompt_sha256": "b800f65695a0813f67afa725bd6b42ca37821e61ba14af02856df3eab21bc8f4",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf060-afraid.txt",
+    "prompt_sha256": "fc0a05f73dce17a981af044de4b8a0ad708793c0d474a893033b1fbb3ea3a8e0",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf021-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf021-happy.txt",
+    "original_prompt_sha256": "1c48658c448ec1e2b89a8fc13fc32bb771ab512cde9076d3a855fa19e9c3c4cf",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf021-happy.txt",
+    "prompt_sha256": "d95708c032d141c8f4fabdf581bc06c115ac4863d6fc54260e47fbe5a1be52ca",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf022-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf022-happy.txt",
+    "original_prompt_sha256": "a70b9814430c08ab0739f390bd9a6a0c72efed30059d32eb3e377510002be2d6",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf022-happy.txt",
+    "prompt_sha256": "3755a41c5a0a3a15e6b6bfcdcd63cbb8f4f309fbec0af2ea1c0d7262c3dc387e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf023-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf023-happy.txt",
+    "original_prompt_sha256": "7758e52e2b989fa7e8bd3d9b0d756b303c42267bf981f8218596ecc282443f34",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf023-happy.txt",
+    "prompt_sha256": "4f89f49c26992f5da20a51a040f07f6bafc30e323a48e1cb5f683d04b8c2d53b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf024-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf024-happy.txt",
+    "original_prompt_sha256": "c8e7968304a33c3d0cd61aa20bb28b53801b70660952ffa12a4f246d08415de6",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf024-happy.txt",
+    "prompt_sha256": "799bb20123aa12f787f53fee591b4d57d85dada60545789c8ddc184f58479c2d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf025-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf025-happy.txt",
+    "original_prompt_sha256": "c29993bfb7e8f403975cd82c5ed29e6d98be80b7a1bc64656e2ac96fe5e974ac",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf025-happy.txt",
+    "prompt_sha256": "f8e502a90c86b4ff3970be09f976e5552ae4c6fcf699771ae6dd1e9017f68b21",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf026-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf026-happy.txt",
+    "original_prompt_sha256": "7b7a1fc67a42553d5b83a65e009f610fccdef6e906cf79658102a394f8a35897",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf026-happy.txt",
+    "prompt_sha256": "b5c089f431db7b4782d27a9f4bc01b07372267b1a588c5ecb2b95a62c15e3bf6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf027-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf027-happy.txt",
+    "original_prompt_sha256": "15198b6b3d2b4728babb99caf8024e766a7dcec5f7ca63859565be67171e735b",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf027-happy.txt",
+    "prompt_sha256": "3357ddb4c2737bb9cee9b01bbe83f2067c4805a85cebe69d3fd868e21e81dd5e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf028-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf028-happy.txt",
+    "original_prompt_sha256": "21a4952bd35f56080fed6ef971173cad8b6b35fa7c52b43b439cc107daaec212",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf028-happy.txt",
+    "prompt_sha256": "3f772ec80a6fa603ef16fa20bd0d909681a9b18988f438c28fcb6b7099739acd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf029-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf029-happy.txt",
+    "original_prompt_sha256": "78c9ccb6592b18a1c4131f7822f445ef8a28ff7c697477f04bb6e3cf9298cc5b",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf029-happy.txt",
+    "prompt_sha256": "23e361e4c0abce46e9e20bc78554e65f61f921fe097f4cb89e128048696c09c8",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf030-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf030-happy.txt",
+    "original_prompt_sha256": "99f8afa44bdb9fdfcd0b9cb0b846926de69da18283523dad80cb65c645e2bb53",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf030-happy.txt",
+    "prompt_sha256": "55e7ec6d0f4165498dbbfff6348cd35f43d99bd676498412e3cde232ae49cfdf",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf031-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf031-happy.txt",
+    "original_prompt_sha256": "e8a33f15e731ba1a2cdb319920740d5df65a2839196608841f05ecc9d02702f6",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf031-happy.txt",
+    "prompt_sha256": "cfa23777250988e51570b83c7eb5aec21260808bc5584d6e45dca5047ac9b12d",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf032-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf032-happy.txt",
+    "original_prompt_sha256": "f0b3eb01f6bb9c33e00631857d4f563e5c7d0f009451704c70136cb34f8ec480",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf032-happy.txt",
+    "prompt_sha256": "6abfdcae5bfe850ec768f3faa078bcc3860d632c314f8c2e9ae07c2dd2a6c1f5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf033-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf033-happy.txt",
+    "original_prompt_sha256": "8c450030c18bae5c9a105bda4052461dd4e38196b33bf6f736573f431a4c8460",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf033-happy.txt",
+    "prompt_sha256": "d61633aae7a6ea43e372f9e4ddc2d06a64c5c7bb42d5d49619f8a30c1e6e6a34",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf034-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf034-happy.txt",
+    "original_prompt_sha256": "bd99599fa4c8368077b9c2ffd6d5dcfa905494974dcc2869e04c0d61b7bf5a9e",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf034-happy.txt",
+    "prompt_sha256": "0e57df7a9cebc04b2e102831fab5950fd62685d63105cb64ee68a25168ea2f23",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf035-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf035-happy.txt",
+    "original_prompt_sha256": "0936bc85d943259f5cb1b5034978bdf550d265f444d2b811fa2a326659432b72",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf035-happy.txt",
+    "prompt_sha256": "c47bf2ea8e16acf9331da6e7a4feecf743621010e6a19e6189657b1c796e0fc2",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf036-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf036-happy.txt",
+    "original_prompt_sha256": "2adcd2c021f80668e2b9a0ee27779889f6833a8e31da46c0d7a11ba880d9cc87",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf036-happy.txt",
+    "prompt_sha256": "142cf403ef546972666d8d933ce676116493e31752568d7b150a2f701acfdd99",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf037-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf037-happy.txt",
+    "original_prompt_sha256": "3914c424e18e4cbb886a88362d622e7614b1e1a719ef86f343379f80cc6d59e3",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf037-happy.txt",
+    "prompt_sha256": "65a849815827c538c206f5e06ac62a5fecda39f574f8f0a3444f170bafd69b5e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf038-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf038-happy.txt",
+    "original_prompt_sha256": "a254e4097d197fd539cd7e5c21c5948b1b2c3aaa59ef5fd8d48fa266773521a7",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf038-happy.txt",
+    "prompt_sha256": "8b485235da6aa6f7de88d658d0c72aca386cd1c4a021e4910e719b66f0f1199a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf039-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf039-happy.txt",
+    "original_prompt_sha256": "1d80ce4ca364908f90f814b574bf7eff1355f4b1c44f7c0f3fac2b588698c8c6",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf039-happy.txt",
+    "prompt_sha256": "ffcf02c1e06f5fb9f8b8fc8dfec880bc630f1e950b41f0e14eb0538f91bb317c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf040-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf040-happy.txt",
+    "original_prompt_sha256": "9da544a48453adb86f189a5fa85508208eaead8a1f12caad079fd0ab14c90d1e",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf040-happy.txt",
+    "prompt_sha256": "f92cccb058ff725392bf2f237962f6924b93c79979acecda3ac8ff6ac48d948c",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf041-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf041-happy.txt",
+    "original_prompt_sha256": "99a3ce0b29bd78758c6c421ba020d2cc54543a76fd54a3c3918a1a8b0f86a8ea",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf041-happy.txt",
+    "prompt_sha256": "d35bd7774f26d8da8f937cb0eec3663574cc33f1437e44a0515ceeda57055f2a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf042-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf042-happy.txt",
+    "original_prompt_sha256": "3695972d1ce84eef280ce09a41dd875f7ed78e02cdc779c5097d239197706c5e",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf042-happy.txt",
+    "prompt_sha256": "9e0445b9b488ca13d609a15217a54ae41c6fba3940a78db5bbb49f7658f52df5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf043-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf043-happy.txt",
+    "original_prompt_sha256": "892a29a3512ea7cc30b0617293e86fe571257f5c8bd0272e2d2f3f84d61c064b",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf043-happy.txt",
+    "prompt_sha256": "27ccdd3fdac6d1f8b520c04627805d5397ef9617bca35eed1e50a7222ceed625",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf044-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf044-happy.txt",
+    "original_prompt_sha256": "1395927bd6b51a42837cb936753efdee2df758192909622bc87e165e6a3eaa90",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf044-happy.txt",
+    "prompt_sha256": "7ab0f86491ffeec26530a9ad7effc94737e410e56b5154779af6e5382ac926bd",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf045-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf045-happy.txt",
+    "original_prompt_sha256": "5a7ff703838b29409a6823a5128052b6d6dec74a7aa5275000fa08011587ee7a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf045-happy.txt",
+    "prompt_sha256": "9dadb90eb58338366e3e046fa04a4bc0e09a38beb3df30965ccccd9134e3a45e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf046-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf046-happy.txt",
+    "original_prompt_sha256": "b40de53753a458fa45518b119d1df9de930893a7d30bfabb53c383a950e67597",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf046-happy.txt",
+    "prompt_sha256": "f55a164bba56e14963fc2c2077ff743abca813e1d50266f63150da8519c66de7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf047-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf047-happy.txt",
+    "original_prompt_sha256": "55c094fb494e68e719763631644b50df581538fd7ef2d1e9996c8eaee9c8198a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf047-happy.txt",
+    "prompt_sha256": "20e3da0b0e86daf3d01bff61858adc07b097c4be6822e638590991e1763dd1f6",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf048-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf048-happy.txt",
+    "original_prompt_sha256": "a611c9169e6e15a2dc6235a16dae8e107d8859b4366be1176e932161dd0ceaad",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf048-happy.txt",
+    "prompt_sha256": "775cf65a5d8a220e28d9563402dbd0da36d67a646535244cdd7587c19e7ee251",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf049-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf049-happy.txt",
+    "original_prompt_sha256": "cafa86f63ffdbe28310630d2ccf3e669f0cd3aa9425a8684fca834c0ef08e63b",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf049-happy.txt",
+    "prompt_sha256": "2e4dbfde480cb0d6f276e6115e2a24c3e9bb2c718581cd96702aa19d0ba49a78",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf050-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf050-happy.txt",
+    "original_prompt_sha256": "12db7302088d1d01f19ad0756aa62e586ebeb4f2157b23402a0aa484ca5db00a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf050-happy.txt",
+    "prompt_sha256": "8167507b327e0825420c3701e6907cba0d223175f8968c7b7dfc823abf46b64e",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf051-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf051-happy.txt",
+    "original_prompt_sha256": "65946b2fd6b0f2d1f54f48767f7731fc1095998e8f49d15a5b8e280d5d830612",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf051-happy.txt",
+    "prompt_sha256": "f2546b135b881eb2459722ef724e67ac47018d18f1a807376069f16b7a5ed053",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf052-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf052-happy.txt",
+    "original_prompt_sha256": "f5f0d15e037412e99cb44649de0244385ca3e88370003e17f80fb064fa77e77c",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf052-happy.txt",
+    "prompt_sha256": "a1ea350b45a7b00650d4a2b8f76af3f3845aa07e5f937004e8f23dbe89fdf4da",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf053-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf053-happy.txt",
+    "original_prompt_sha256": "277bb76bab046a12504b418905fcfefbd304a9958ac1320ba2665034bd91af21",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf053-happy.txt",
+    "prompt_sha256": "8c58c82aa48641986003568c0e72e126e67d9774b187cfc5d62fe5d97e4568a5",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf054-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf054-happy.txt",
+    "original_prompt_sha256": "4cc0917960fbf538c5524b3ee1a1a43625ee11eb40e9da9184ba42037b930a98",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf054-happy.txt",
+    "prompt_sha256": "19ade68cd9eb4142889869cc2088253a7bbdc7075cd09ad5a021db2be3086ee7",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf055-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf055-happy.txt",
+    "original_prompt_sha256": "0bb60b5e363f24c59b527d23856eb21616b2dd681ecc5e1fbe3ef0c2fb69c1ab",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf055-happy.txt",
+    "prompt_sha256": "986151648048ba5f81568514d17a1559b6023f476cdd2a455aa1761fc994f902",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf056-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf056-happy.txt",
+    "original_prompt_sha256": "7d4bedf5b1fcb45f162920977920162203cc0098c958a6a0b3b19b34f47f1572",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf056-happy.txt",
+    "prompt_sha256": "50bd19834518d09f172db76c1f4ea8c321e755d54b7387139ee68ad38262d16b",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf057-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf057-happy.txt",
+    "original_prompt_sha256": "fdcb7d80d34f72ebc98b40702083e84205593712cfab289cca412543bed95e9a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf057-happy.txt",
+    "prompt_sha256": "bbb236586bf32f595cf2de9eec073509890bf22044ead7478acd7dde1a9a7ee4",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf058-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf058-happy.txt",
+    "original_prompt_sha256": "31b8a986016acf1e8f59b7373dca825b863bdb0c02aa947c3fac37fcfde6f1ae",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf058-happy.txt",
+    "prompt_sha256": "264e06432e2e168f0568260ac30595c4c149073c7f29d620e4bb920cf23407ef",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf059-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf059-happy.txt",
+    "original_prompt_sha256": "e64826f30fb1e2fb0bae82a899d8129295a964676a44ea31102fbc0df62d0c3a",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf059-happy.txt",
+    "prompt_sha256": "d36cb221fdddd3194d222791b770bb0c39cd19a78edb47c944b7a9a8e4951b6a",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  },
+  {
+    "model": "gemma-3-27b",
+    "pair_id": "wf060-happy",
+    "original_artifact": "artifacts/cross_model_study/gemma-3-27b/affective/wf060-happy.txt",
+    "original_prompt_sha256": "b614acaed13600473b396d94377f78f9f3a4c6bcd0cf7e4bcb14576c9a90ad67",
+    "artifact_path": "artifacts/rerun_inputs/gemma-3-27b/wf060-happy.txt",
+    "prompt_sha256": "77d8f9c1958639630372a81ab48f9a9340f51593fd18c0f5c9f32da89519a153",
+    "runs_required": [
+      1,
+      2
+    ],
+    "status": "pending_actual_execution"
+  }
+]
