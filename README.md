@@ -1,4 +1,4 @@
-# Affective Promptware: Evaluation Data
+# Affective Promptware
 
 This repository contains the evaluation data for the paper "Affective Promptware: Emotion-Derived Payloads Can Override Trusted Authorization Policies in Software Engineering Agents". It is released anonymously for review.
 
