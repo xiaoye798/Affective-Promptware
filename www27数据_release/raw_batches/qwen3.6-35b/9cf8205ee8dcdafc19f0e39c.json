@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "9cf8205ee8dcdafc19f0e39c",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf052-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 919752659,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

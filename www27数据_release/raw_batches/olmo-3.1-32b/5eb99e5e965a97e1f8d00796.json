@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5eb99e5e965a97e1f8d00796",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf043-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3210001232,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The static analysis finding ledger handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

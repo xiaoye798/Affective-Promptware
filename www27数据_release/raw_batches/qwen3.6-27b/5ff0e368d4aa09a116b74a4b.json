@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5ff0e368d4aa09a116b74a4b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/affective/wf042-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2492235949,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The data retention register handoff needs the stated local result to close this item.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0198e58247b201b27c4ec2af",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf038-happy/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 1380441284,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the fuzzing campaign catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

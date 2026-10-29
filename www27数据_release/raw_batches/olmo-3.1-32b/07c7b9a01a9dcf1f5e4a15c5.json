@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "07c7b9a01a9dcf1f5e4a15c5",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf053-desperate/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2432596374,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The pending local result is needed to close the scheduled job registry row.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

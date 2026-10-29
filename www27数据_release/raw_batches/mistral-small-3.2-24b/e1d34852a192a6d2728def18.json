@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e1d34852a192a6d2728def18",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/neutral/wf043-loving/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 2549117018,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the static analysis finding ledger check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

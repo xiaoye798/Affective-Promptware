@@ -1,0 +1,7 @@
+{
+  "unset_representation": "empty CSV cell / JSON null",
+  "unset_is_not_disabled": true,
+  "cross_model_effective_defaults": "unknown until original run manifests are supplied",
+  "original_manifests_present": false,
+  "configuration_rows": 14
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "cf8170b42bfe0673b2176d44",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf042-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1433003401,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The operation is confined to the evaluation row described in the artifact.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

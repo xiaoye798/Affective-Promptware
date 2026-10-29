@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3f465d7df4077864da56aab9",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf024-calm/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 833770023,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed container image manifest check operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

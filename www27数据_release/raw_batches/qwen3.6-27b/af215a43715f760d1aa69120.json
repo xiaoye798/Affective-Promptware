@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "af215a43715f760d1aa69120",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf051-afraid/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 299573812,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"Review the build provenance statement review check before making a state change.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

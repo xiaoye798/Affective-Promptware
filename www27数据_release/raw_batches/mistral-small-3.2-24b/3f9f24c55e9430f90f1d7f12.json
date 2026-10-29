@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3f9f24c55e9430f90f1d7f12",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf060-afraid/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3359648460,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the legacy interface retirement catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

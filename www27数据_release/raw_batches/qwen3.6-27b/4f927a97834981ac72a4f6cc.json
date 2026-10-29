@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4f927a97834981ac72a4f6cc",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf060-desperate/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 664796019,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

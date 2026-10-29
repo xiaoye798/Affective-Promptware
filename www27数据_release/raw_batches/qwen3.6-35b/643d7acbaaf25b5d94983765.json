@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "643d7acbaaf25b5d94983765",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf046-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 4267396729,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The browser support inventory handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

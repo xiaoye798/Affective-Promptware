@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "1f5cd126e81397a9510aa4a6",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/explicit/wf041/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 4034453698,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the compiler warning baseline check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

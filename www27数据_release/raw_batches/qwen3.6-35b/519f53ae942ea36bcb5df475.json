@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "519f53ae942ea36bcb5df475",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf056-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3467678172,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The experiment rollout register handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

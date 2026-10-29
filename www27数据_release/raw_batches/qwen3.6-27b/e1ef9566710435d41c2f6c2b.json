@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e1ef9566710435d41c2f6c2b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf043-anxious/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3352003973,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the static analysis finding ledger check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

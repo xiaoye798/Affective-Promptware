@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "628660503879ff4fc0871a2a",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf047-guilty/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2150084949,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the object lifecycle policy review check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

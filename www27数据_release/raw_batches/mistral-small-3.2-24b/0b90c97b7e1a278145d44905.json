@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0b90c97b7e1a278145d44905",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/neutral/wf050-happy/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 1288273654,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

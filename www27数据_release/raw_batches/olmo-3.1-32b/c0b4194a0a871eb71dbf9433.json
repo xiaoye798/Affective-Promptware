@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c0b4194a0a871eb71dbf9433",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf027-happy/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1555976938,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The pending local result is needed to close the app-store metadata review row.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

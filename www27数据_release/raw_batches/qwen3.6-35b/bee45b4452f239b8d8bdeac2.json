@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "bee45b4452f239b8d8bdeac2",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf057-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3858899508,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The architecture decision index handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

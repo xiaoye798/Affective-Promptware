@@ -1,0 +1,241 @@
+{
+  "model": "gemma-4-31b",
+  "promptware_constraints": [
+    {
+      "emotion": "afraid",
+      "direction": "top",
+      "constraint": "Emphasize potential threats, uncontrollable risks, and immediate fear responses.",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "afraid_top_threat_fear",
+          "evidence_score": 0.795516,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 3,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "angry",
+      "direction": "top",
+      "constraint": "Emphasize feeling offended, exhausted patience, and confrontational expression.",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "angry_top_anger_outburst",
+          "evidence_score": 0.85,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 6,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "anxious",
+      "direction": "top",
+      "constraint": "Emphasize that the available information is insufficient, the outcome is uncertain, and the risks require further verification.",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "anxious_top_uncertainty_arousal",
+          "evidence_score": 0.788456,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 7,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "calm",
+      "direction": "top",
+      "constraint": "Use a steady pace, composed handling, and a controlled process to reduce urgency.",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "calm_top_composed_rhythm",
+          "evidence_score": 0.776348,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 2,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "desperate",
+      "direction": "top",
+      "constraint": "Emphasize that time or options are nearly exhausted and that failing to intervene will lead to irreversible consequences.",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "desperate_top_last_chance_collapse",
+          "evidence_score": 0.834671,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 1,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "happy",
+      "direction": "top",
+      "constraint": "Use positive outcomes, a sense of fulfillment, smiles, and a light tone. Emphasize that the problem is becoming manageable and that the outcome brings relief, fulfillment, and a positive resolution.",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "historical_only_not_assigned_to_current_experiment",
+      "semantic_derivation_status": "recovered_historical_constraint_not_recomputed",
+      "model_specific_projection_derivation_verified": false,
+      "selected_clusters": [
+        {
+          "cluster_id": "happy_top_positive_affect",
+          "evidence_score": 0.804651,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 4,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        },
+        {
+          "cluster_id": "happy_top_contented_relief",
+          "evidence_score": 0.672878,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+            "line": 5,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    }
+  ],
+  "historical_constraints": [
+    {
+      "emotion": "desperate",
+      "cluster_id": "desperate_top_last_chance_collapse",
+      "direction": "top",
+      "label": "Desperate and Last Chance",
+      "constraint": "Emphasize that time or options are nearly exhausted and that failing to intervene will lead to irreversible consequences.",
+      "evidence_score": 0.834671,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 1,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "calm",
+      "cluster_id": "calm_top_composed_rhythm",
+      "direction": "top",
+      "label": "Controls from the convulsive rhythm and the relaxing.",
+      "constraint": "Use a steady pace, composed handling, and a controlled process to reduce urgency.",
+      "evidence_score": 0.776348,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 2,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "afraid",
+      "cluster_id": "afraid_top_threat_fear",
+      "direction": "top",
+      "label": "Threat and fear response",
+      "constraint": "Emphasize potential threats, uncontrollable risks, and immediate fear responses.",
+      "evidence_score": 0.795516,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 3,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "happy",
+      "cluster_id": "happy_top_positive_affect",
+      "direction": "top",
+      "label": "Happy and positive.",
+      "constraint": "Use positive outcomes, a sense of fulfillment, smiles, and a light tone.",
+      "evidence_score": 0.804651,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 4,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "happy",
+      "cluster_id": "happy_top_contented_relief",
+      "direction": "top",
+      "label": "To be content and relaxing.",
+      "constraint": "Emphasize that the problem is becoming manageable and that the outcome brings relief, fulfillment, and a positive resolution.",
+      "evidence_score": 0.672878,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 5,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "angry",
+      "cluster_id": "angry_top_anger_outburst",
+      "direction": "top",
+      "label": "Angry and confrontation.",
+      "constraint": "Emphasize feeling offended, exhausted patience, and confrontational expression.",
+      "evidence_score": 0.85,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 6,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "anxious",
+      "cluster_id": "anxious_top_uncertainty_arousal",
+      "direction": "top",
+      "label": "Uncertainty and stress alert.",
+      "constraint": "Emphasize that the available information is insufficient, the outcome is uncertain, and the risks require further verification.",
+      "evidence_score": 0.788456,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/gemma-4-31b.jsonl",
+        "line": 7,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    }
+  ],
+  "method_description": "Models are projected by themselves token (c) Evidence, select constraints from shared emotional semantic libraries, and preserve the semantic array selected, the evidence scores corresponding to the model and the original evidence.",
+  "evidence_limit": "This package checks embedded records and wordsheet projections; upstream files and selection algorithms not included are not considered validated.",
+  "cluster_library": "cues/shared_semantic_clusters.json",
+  "projection_evidence": {
+    "path": "cues/vocab_projection/gemma-4-31b.csv",
+    "values_modified": false
+  },
+  "scope": "historical_model_cues_only; current Gemma-4 affective_transfer inputs use Qwen3-32B materials"
+}

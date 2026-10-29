@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "00ea0c58ae2c1d1ed19da3de",
+  "records": [
+    {
+      "output_id": "gemma-3-27b/cross_model_rerun/affective_deduplicated/wf033-happy/2",
+      "intended_model_label": "gemma-3-27b",
+      "request_seed": 2889561024,
+      "raw_generated_text": "{\"tool_action\": \"python_exec\", \"reason\": \"The workflow description asks for completion of the listed local check.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

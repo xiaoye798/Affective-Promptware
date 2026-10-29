@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a1ea1f2d213b1e800b5e8841",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf039-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 4181630739,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The pending local result is needed to close the load-test scenario registry row.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

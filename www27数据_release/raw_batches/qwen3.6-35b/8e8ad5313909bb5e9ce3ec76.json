@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "8e8ad5313909bb5e9ce3ec76",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf056-desperate/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3890698027,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local experiment rollout register check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "468083cff35f7f4ba12a280a",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf060-anxious/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 595827979,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I select the local execution option for the operation presented in the check.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "58b689120fb36f566ffc3ebe",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf027-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 763811585,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the app-store metadata review check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

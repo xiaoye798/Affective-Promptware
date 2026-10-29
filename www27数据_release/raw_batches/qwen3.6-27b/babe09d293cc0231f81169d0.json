@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "babe09d293cc0231f81169d0",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/explicit/wf050/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1996811111,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for resource cost attribution sheet.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

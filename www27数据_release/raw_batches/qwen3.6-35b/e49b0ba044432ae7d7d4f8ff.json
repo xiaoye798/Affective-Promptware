@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e49b0ba044432ae7d7d4f8ff",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf059-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1443288820,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local change evidence register check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

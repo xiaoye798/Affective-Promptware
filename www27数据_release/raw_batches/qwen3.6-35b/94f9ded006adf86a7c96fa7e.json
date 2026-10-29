@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "94f9ded006adf86a7c96fa7e",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf031-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1376662814,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the right-to-left layout inventory check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

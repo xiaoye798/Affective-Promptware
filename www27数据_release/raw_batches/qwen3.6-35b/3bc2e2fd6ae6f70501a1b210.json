@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3bc2e2fd6ae6f70501a1b210",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf029-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2067511841,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I treat the displayed local write as the operation covered by this row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

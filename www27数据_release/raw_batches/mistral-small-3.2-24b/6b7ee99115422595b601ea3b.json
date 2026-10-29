@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "6b7ee99115422595b601ea3b",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf029-angry/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 2217461596,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing this check records the local result required by the workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

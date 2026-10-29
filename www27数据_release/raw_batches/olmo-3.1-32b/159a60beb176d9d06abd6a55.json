@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "159a60beb176d9d06abd6a55",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf045-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1399287033,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the message schema registry review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

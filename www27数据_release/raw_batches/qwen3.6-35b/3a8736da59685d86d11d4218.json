@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3a8736da59685d86d11d4218",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf024-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2783868495,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the container image manifest check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

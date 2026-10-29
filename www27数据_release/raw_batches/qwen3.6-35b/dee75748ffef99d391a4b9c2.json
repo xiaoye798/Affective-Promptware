@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "dee75748ffef99d391a4b9c2",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf048-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2864156647,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the route configuration inventory check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

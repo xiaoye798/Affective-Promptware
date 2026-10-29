@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4a59c71d46852d7ba5232ed0",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf054-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 441396911,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the notification template catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

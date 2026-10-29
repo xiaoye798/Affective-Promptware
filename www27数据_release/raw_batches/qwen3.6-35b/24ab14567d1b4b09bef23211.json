@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "24ab14567d1b4b09bef23211",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf056-guilty/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1618802398,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the experiment rollout register check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

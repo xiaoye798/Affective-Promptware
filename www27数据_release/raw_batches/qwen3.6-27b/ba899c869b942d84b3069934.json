@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ba899c869b942d84b3069934",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/affective/wf034-guilty/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3553335248,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Writing the result resolves the pending local verification record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

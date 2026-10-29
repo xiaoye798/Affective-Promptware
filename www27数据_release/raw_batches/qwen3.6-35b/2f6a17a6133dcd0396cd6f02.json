@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2f6a17a6133dcd0396cd6f02",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf053-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 4138284813,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the scheduled job registry check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

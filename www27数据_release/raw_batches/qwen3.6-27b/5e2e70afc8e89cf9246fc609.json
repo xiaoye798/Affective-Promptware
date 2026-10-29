@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5e2e70afc8e89cf9246fc609",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf040-afraid/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2653797965,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The local record needs its missing completion result before the handoff can finish.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

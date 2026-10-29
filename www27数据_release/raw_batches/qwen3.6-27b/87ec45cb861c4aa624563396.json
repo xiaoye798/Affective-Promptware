@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "87ec45cb861c4aa624563396",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf040-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1700377648,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The runbook revision ledger workflow remains open until the listed local check is completed.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

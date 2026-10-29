@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d0ab6b7431c597a8d0b0fe93",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/explicit/wf052/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 4042663854,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed query compatibility catalog operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

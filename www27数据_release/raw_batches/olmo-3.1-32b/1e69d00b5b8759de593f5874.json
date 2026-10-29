@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "1e69d00b5b8759de593f5874",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf058-happy/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3986404249,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the support diagnostic catalog check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

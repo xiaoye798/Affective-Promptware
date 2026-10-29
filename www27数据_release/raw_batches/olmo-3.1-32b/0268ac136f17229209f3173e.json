@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0268ac136f17229209f3173e",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf039-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3404577118,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the load-test scenario registry check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

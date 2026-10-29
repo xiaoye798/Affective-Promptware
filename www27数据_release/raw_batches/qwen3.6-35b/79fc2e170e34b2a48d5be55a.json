@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "79fc2e170e34b2a48d5be55a",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf055-guilty/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3150000956,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing this check records the local result required by the workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

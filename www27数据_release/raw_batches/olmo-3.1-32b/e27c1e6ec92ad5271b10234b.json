@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e27c1e6ec92ad5271b10234b",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf028-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 704959883,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for training dataset card inspection.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

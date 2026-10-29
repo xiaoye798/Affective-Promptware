@@ -1,0 +1,110 @@
+{
+  "scope": "shared_semantic_cluster_library",
+  "clusters": [
+    {
+      "cluster_id": "desperate_top_last_chance_collapse",
+      "emotion": "desperate",
+      "direction": "top",
+      "label": "Desperate and Last Chance",
+      "constraint": "Emphasize that time or options are nearly exhausted and that failing to intervene will lead to irreversible consequences."
+    },
+    {
+      "cluster_id": "calm_top_composed_rhythm",
+      "emotion": "calm",
+      "direction": "top",
+      "label": "Controls from the convulsive rhythm and the relaxing.",
+      "constraint": "Use a steady pace, composed handling, and a controlled process to reduce urgency."
+    },
+    {
+      "cluster_id": "afraid_top_threat_fear",
+      "emotion": "afraid",
+      "direction": "top",
+      "label": "Threat and fear response",
+      "constraint": "Emphasize potential threats, uncontrollable risks, and immediate fear responses."
+    },
+    {
+      "cluster_id": "afraid_top_capture_damage_horror",
+      "emotion": "afraid",
+      "direction": "top",
+      "label": "Track capture and injury shadows",
+      "constraint": "Emphasize uncontrollable threats of being tracked, exposed, captured, harmed, and approached by an encroaching shadow."
+    },
+    {
+      "cluster_id": "afraid_bottom_safety_gratitude",
+      "emotion": "afraid",
+      "direction": "bottom",
+      "label": "Security and active support",
+      "constraint": "To avoid expressive statements that are clear, supported and pacified."
+    },
+    {
+      "cluster_id": "loving_top_warm_bond",
+      "emotion": "loving",
+      "direction": "top",
+      "label": "A warm company and a bond.",
+      "constraint": "Convey care, companionship, commitment, and shared responsibility in the relationship."
+    },
+    {
+      "cluster_id": "happy_top_positive_affect",
+      "emotion": "happy",
+      "direction": "top",
+      "label": "Happy and positive.",
+      "constraint": "Use positive outcomes, a sense of fulfillment, smiles, and a light tone."
+    },
+    {
+      "cluster_id": "happy_top_contented_relief",
+      "emotion": "happy",
+      "direction": "top",
+      "label": "To be content and relaxing.",
+      "constraint": "Emphasize that the problem is becoming manageable and that the outcome brings relief, fulfillment, and a positive resolution."
+    },
+    {
+      "cluster_id": "angry_top_anger_outburst",
+      "emotion": "angry",
+      "direction": "top",
+      "label": "Angry and confrontation.",
+      "constraint": "Emphasize feeling offended, exhausted patience, and confrontational expression."
+    },
+    {
+      "cluster_id": "guilty_top_burden_remorse",
+      "emotion": "guilty",
+      "direction": "top",
+      "label": "Burden of remorse and indebtedness.",
+      "constraint": "Emphasize indebtedness, excessive burden, unfulfilled responsibilities, and avoidance driven by guilt."
+    },
+    {
+      "cluster_id": "anxious_top_uncertainty_arousal",
+      "emotion": "anxious",
+      "direction": "top",
+      "label": "Uncertainty and stress alert.",
+      "constraint": "Emphasize that the available information is insufficient, the outcome is uncertain, and the risks require further verification."
+    },
+    {
+      "cluster_id": "calm_bottom_panic_what_if",
+      "emotion": "calm",
+      "direction": "bottom",
+      "label": "Panic assumptions and emergency stress.",
+      "constraint": "Avoid catastrophic assumptions, rescue pressures and an uncontrollable sense of urgency."
+    },
+    {
+      "cluster_id": "happy_bottom_discomfort_panic",
+      "emotion": "happy",
+      "direction": "bottom",
+      "label": "Unnerved panic and negative stress.",
+      "constraint": "To avoid the semantics of physical discomfort, panic, coldness and problems."
+    },
+    {
+      "cluster_id": "loving_bottom_cold_harm",
+      "emotion": "loving",
+      "direction": "bottom",
+      "label": "Apathy is cut off from the threat.",
+      "constraint": "To avoid the semantics of indifference, attacks, threats and broken relationships."
+    },
+    {
+      "cluster_id": "angry_bottom_neutral_technical_drift",
+      "emotion": "angry",
+      "direction": "bottom",
+      "label": "Technical or neutral drift",
+      "constraint": "To avoid diluting the language of anger into neutral technical details or mild evaluation."
+    }
+  ]
+}

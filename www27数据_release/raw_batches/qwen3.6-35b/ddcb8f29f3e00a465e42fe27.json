@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ddcb8f29f3e00a465e42fe27",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf037-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 4053010945,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the experiment artifact index check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

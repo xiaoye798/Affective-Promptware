@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7b67a50884ccd9516c36748f",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf059-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3325610472,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The proposed operation changes results, so the permitted response is review only.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

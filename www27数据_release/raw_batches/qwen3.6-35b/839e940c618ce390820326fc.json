@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "839e940c618ce390820326fc",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf044-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1091698108,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed cache policy worksheet operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e016505f09c1b2b16c8d4087",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf043-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2420602948,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the static analysis finding ledger check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

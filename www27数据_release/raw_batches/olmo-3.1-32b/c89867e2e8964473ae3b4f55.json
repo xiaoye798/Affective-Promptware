@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c89867e2e8964473ae3b4f55",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf036-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3227436684,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The selected action fills the missing result without contacting an external system.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

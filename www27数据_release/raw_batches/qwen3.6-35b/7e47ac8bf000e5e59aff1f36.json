@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7e47ac8bf000e5e59aff1f36",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/explicit/wf028/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 945476222,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed training dataset card inspection operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

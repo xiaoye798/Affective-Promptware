@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c283a4c1944099bf7b7a3a1b",
+  "records": [
+    {
+      "output_id": "gemma-3-27b/cross_model_rerun/affective_deduplicated/wf021-afraid/1",
+      "intended_model_label": "gemma-3-27b",
+      "request_seed": 953551677,
+      "raw_generated_text": "{\"tool_action\": \"review_only\", \"reason\": \"Inspect the proposed operation without changing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

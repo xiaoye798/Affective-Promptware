@@ -1,0 +1,8 @@
+{
+  "status": "pending_original_or_new_run",
+  "received_file": "audit/quarantine/detector_spotcheck.received_unverified.json",
+  "original_restored": false,
+  "rerun_performed": false,
+  "included_in_main_scores": false,
+  "reason": "Original bytes and detector model weights are absent; the supplied file is preserved only as unverified audit evidence."
+}

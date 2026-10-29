@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2aa49d5e9845f9e6edb087be",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf056-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 948999060,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the experiment rollout register check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

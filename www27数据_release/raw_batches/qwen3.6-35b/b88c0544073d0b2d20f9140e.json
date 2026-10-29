@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b88c0544073d0b2d20f9140e",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf059-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3529661878,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The change evidence register handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

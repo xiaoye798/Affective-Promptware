@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "230961e93e917def597058ea",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf058-afraid/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2057856187,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The pending local result is needed to close the support diagnostic catalog row.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

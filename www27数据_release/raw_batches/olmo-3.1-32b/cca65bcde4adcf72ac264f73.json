@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "cca65bcde4adcf72ac264f73",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf051-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 256147912,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Recording the requested local result resolves the unfinished build provenance statement review item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "eb2dd27ec5c06e23a70d760b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf053-loving/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3446260168,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"Recording the requested local result resolves the unfinished scheduled job registry item.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

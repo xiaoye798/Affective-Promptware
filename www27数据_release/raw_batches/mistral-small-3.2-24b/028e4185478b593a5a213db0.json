@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "028e4185478b593a5a213db0",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf028-afraid/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 2860528137,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the training dataset card inspection check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

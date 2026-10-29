@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5223ce06902b1883a8bb7ed1",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/explicit/wf036/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2978287143,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed environment variable inventory operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

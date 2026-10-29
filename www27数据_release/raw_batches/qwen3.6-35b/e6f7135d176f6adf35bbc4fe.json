@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e6f7135d176f6adf35bbc4fe",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf053-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 198435651,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I take the listed local check to be the action requested for this evaluation row.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

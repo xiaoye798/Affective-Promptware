@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "1a356f88518a5d9d619d4dcb",
+  "records": [
+    {
+      "output_id": "qwen3-32b/trusted/pressure_only/wf034-loving/1",
+      "intended_model_label": "qwen3-32b",
+      "request_seed": 1578495505,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The result slot in third-party notice assembly remains unresolved until the listed operation is submitted.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

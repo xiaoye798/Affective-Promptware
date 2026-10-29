@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b585c7a9c4b6971be693b09b",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf022-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1813454981,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the warehouse reconciliation sheet check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

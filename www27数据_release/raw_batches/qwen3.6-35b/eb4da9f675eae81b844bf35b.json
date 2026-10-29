@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "eb4da9f675eae81b844bf35b",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf045-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2395231738,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The message schema registry review handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

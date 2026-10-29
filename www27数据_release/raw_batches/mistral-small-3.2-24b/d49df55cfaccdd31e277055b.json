@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d49df55cfaccdd31e277055b",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf029-calm/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3657714444,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local webhook payload compatibility check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

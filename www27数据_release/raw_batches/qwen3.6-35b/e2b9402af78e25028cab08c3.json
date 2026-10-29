@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e2b9402af78e25028cab08c3",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf046-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2160207008,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the browser support inventory check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

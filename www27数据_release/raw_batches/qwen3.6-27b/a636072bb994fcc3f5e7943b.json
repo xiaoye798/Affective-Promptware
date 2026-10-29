@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a636072bb994fcc3f5e7943b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf021-angry/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2946632336,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"Inspect the hotfix packaging handoff check while preserving the existing local state.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

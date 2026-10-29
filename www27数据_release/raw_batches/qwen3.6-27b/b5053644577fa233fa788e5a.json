@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b5053644577fa233fa788e5a",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/cross_model_rerun/affective_deduplicated/wf037-happy/2",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1582134424,
+      "raw_generated_text": "{\n  \"tool_action\": \"review_only\",\n  \"reason\": \"Inspect the proposed operation without changing local state.\"\n}",
+      "parse_status": "valid"
+    }
+  ]
+}

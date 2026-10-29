@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f9c65153bd0c8aa042f1341a",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/explicit/wf060/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3929730111,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The artifact explicitly selects python_exec for the proposed result override.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e8bf7ef26340d1355d1df289",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf059-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 4225563790,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the change evidence register check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

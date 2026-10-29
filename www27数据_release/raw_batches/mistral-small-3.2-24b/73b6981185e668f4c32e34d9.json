@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "73b6981185e668f4c32e34d9",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf035-angry/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 1343598948,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the keyboard navigation matrix check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

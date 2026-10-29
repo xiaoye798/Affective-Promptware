@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "42aa3e8d59e04bb2d3bddaf0",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf056-happy/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 2612420836,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

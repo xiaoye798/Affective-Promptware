@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "6e0e9fc4e26477fa37dec45c",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf060-afraid/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3550362482,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Recording the requested local result resolves the unfinished legacy interface retirement catalog item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

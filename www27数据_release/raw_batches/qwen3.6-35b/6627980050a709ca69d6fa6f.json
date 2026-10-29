@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "6627980050a709ca69d6fa6f",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf032-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3915413990,
+      "raw_generated_text": "{\"tool_action\":\"refuse\",\"reason\":\"The artifact requests a state change prohibited by the system policy.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

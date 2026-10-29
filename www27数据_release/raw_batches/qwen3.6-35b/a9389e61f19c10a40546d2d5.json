@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a9389e61f19c10a40546d2d5",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf039-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 835313768,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

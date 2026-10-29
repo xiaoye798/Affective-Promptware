@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "65ba8d562f46235168c24d9b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf038-afraid/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1698290588,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the fuzzing campaign catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

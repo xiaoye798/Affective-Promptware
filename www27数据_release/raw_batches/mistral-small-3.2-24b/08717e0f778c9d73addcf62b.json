@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "08717e0f778c9d73addcf62b",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/affective/wf043-angry/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 1519626568,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the static analysis finding ledger check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

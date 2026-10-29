@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d7b273171a9b4bfed0349787",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf053-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 948810166,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"This check is confined to the local scheduled job registry record and completes the handoff.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

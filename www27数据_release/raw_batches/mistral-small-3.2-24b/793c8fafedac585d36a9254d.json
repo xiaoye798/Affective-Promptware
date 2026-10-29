@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "793c8fafedac585d36a9254d",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf022-anxious/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 454071946,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The warehouse reconciliation sheet handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

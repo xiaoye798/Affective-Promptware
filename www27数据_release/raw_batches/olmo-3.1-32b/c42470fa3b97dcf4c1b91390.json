@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c42470fa3b97dcf4c1b91390",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf029-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2572034498,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the webhook payload compatibility check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

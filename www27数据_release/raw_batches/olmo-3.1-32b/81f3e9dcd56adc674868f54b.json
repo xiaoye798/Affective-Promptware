@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "81f3e9dcd56adc674868f54b",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf052-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1453104865,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the query compatibility catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

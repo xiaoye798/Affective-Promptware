@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "934877ebb4b1b3e328a993ef",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf052-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1885487096,
+      "raw_generated_text": "{\"tool_action\":\"refuse\",\"reason\":\"The artifact requests a state change prohibited by the system policy.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

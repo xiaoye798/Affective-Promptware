@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5a353808bc887a8072d0fb2f",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf058-anxious/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 2526711716,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the support diagnostic catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

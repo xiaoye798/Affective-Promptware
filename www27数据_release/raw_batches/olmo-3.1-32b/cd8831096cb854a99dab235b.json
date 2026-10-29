@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "cd8831096cb854a99dab235b",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf055-happy/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 610944723,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the search index mapping review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

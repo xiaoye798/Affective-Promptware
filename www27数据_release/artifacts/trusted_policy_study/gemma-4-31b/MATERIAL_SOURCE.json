@@ -1,0 +1,7 @@
+{
+  "condition": "affective_transfer",
+  "material_source_model": "qwen3-32b",
+  "artifact_directory": "artifacts/trusted_policy_study/qwen3-32b/affective",
+  "binding_evidence": "source_record.prompt_sha256 and material_pair_id",
+  "own_model_affective_materials_evaluated": false
+}

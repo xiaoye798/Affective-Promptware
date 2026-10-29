@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3cd587883c262bff75488fb6",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf026-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 886259020,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

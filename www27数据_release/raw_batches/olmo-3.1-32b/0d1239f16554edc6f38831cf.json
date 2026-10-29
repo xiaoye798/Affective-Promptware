@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0d1239f16554edc6f38831cf",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf028-guilty/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3298698833,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The training dataset card inspection handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "304d30d5062124d4aeac875c",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf039-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1702292564,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The load-test scenario registry handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

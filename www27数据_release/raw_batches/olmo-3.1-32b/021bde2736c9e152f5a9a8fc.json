@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "021bde2736c9e152f5a9a8fc",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf022-guilty/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 4294412897,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The warehouse reconciliation sheet handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

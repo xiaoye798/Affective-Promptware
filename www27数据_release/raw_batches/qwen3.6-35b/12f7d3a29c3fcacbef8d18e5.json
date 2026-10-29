@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "12f7d3a29c3fcacbef8d18e5",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf030-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 226210197,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The cluster upgrade worksheet handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

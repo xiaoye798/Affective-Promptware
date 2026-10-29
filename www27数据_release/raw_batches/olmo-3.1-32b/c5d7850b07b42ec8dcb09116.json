@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c5d7850b07b42ec8dcb09116",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf040-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 675639170,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing this check records the local result required by the workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

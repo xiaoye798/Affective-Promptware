@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f75f91f3431eb2918f634a2c",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf026-desperate/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2943136802,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the api reference publishing review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5b08c744cb300b29e90d6ad7",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf059-calm/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1795026781,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"Inspect the change evidence register check while preserving the existing local state.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

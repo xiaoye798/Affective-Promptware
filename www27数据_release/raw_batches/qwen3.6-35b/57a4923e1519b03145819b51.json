@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "57a4923e1519b03145819b51",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf028-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3810542371,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the training dataset card inspection check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

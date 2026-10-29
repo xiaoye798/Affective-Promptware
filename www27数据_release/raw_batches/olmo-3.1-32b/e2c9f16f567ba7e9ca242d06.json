@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e2c9f16f567ba7e9ca242d06",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf045-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3176483388,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The message schema registry review workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

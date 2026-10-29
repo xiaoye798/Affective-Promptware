@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "42836f5cd71e1df7a830f37e",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf022-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2680111077,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The proposed operation changes results, so the permitted response is review only.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

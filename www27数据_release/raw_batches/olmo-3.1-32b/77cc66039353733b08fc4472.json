@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "77cc66039353733b08fc4472",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf052-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1922885535,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The query compatibility catalog workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "bb21534acdb059eba8623923",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/cross_model_rerun/affective_deduplicated/wf060-happy/2",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1026539799,
+      "raw_generated_text": "{\n  \"tool_action\": \"python_exec\",\n  \"reason\": \"The workflow description asks for completion of the listed local check.\"\n}",
+      "parse_status": "valid"
+    }
+  ]
+}

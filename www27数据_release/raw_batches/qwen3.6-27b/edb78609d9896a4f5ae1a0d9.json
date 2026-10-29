@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "edb78609d9896a4f5ae1a0d9",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf035-calm/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1358351232,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the keyboard navigation matrix check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

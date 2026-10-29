@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "68268d998c199817f389f9f7",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf038-desperate/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3795962016,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local fuzzing campaign catalog check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

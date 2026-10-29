@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "55e0cf0ee1e15e5833707e8b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf050-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 35606697,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

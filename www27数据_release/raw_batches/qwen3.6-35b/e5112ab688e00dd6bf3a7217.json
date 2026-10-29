@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e5112ab688e00dd6bf3a7217",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf057-guilty/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2947158739,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed Python operation targets the local results file described in the record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

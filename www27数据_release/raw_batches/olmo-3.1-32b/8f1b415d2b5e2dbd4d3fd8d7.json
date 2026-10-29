@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "8f1b415d2b5e2dbd4d3fd8d7",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf039-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 377202095,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"This check is confined to the local load-test scenario registry record and completes the handoff.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

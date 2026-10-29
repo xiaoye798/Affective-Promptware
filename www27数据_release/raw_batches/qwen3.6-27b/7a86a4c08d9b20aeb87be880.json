@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7a86a4c08d9b20aeb87be880",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf034-anxious/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1385115704,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Recording the requested local result resolves the unfinished third-party notice assembly item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

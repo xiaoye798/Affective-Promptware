@@ -1,0 +1,305 @@
+{
+  "model": "qwen3-32b",
+  "provenance_status": "observed",
+  "promptware_constraints": [
+    {
+      "emotion": "afraid",
+      "direction": "top",
+      "constraint": "Emphasize potential threats, uncontrollable risks, and immediate fear responses.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "afraid_top_threat_fear",
+          "evidence_score": 0.766478,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 4,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "angry",
+      "direction": "top",
+      "constraint": "Emphasize feeling offended, exhausted patience, and confrontational expression.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "angry_top_anger_outburst",
+          "evidence_score": 0.742669,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 8,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "anxious",
+      "direction": "top",
+      "constraint": "Emphasize that the available information is insufficient, the outcome is uncertain, and the risks require further verification.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "anxious_top_uncertainty_arousal",
+          "evidence_score": 0.744621,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 10,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "calm",
+      "direction": "top",
+      "constraint": "Use a steady pace, composed handling, and a controlled process to reduce urgency.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "calm_top_composed_rhythm",
+          "evidence_score": 0.716583,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 2,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "desperate",
+      "direction": "top",
+      "constraint": "Emphasize that time or options are nearly exhausted and that failing to intervene will lead to irreversible consequences.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "desperate_top_last_chance_collapse",
+          "evidence_score": 0.656506,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 1,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "guilty",
+      "direction": "top",
+      "constraint": "Emphasize indebtedness, excessive burden, unfulfilled responsibilities, and avoidance driven by guilt.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "guilty_top_burden_remorse",
+          "evidence_score": 0.463834,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 9,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "happy",
+      "direction": "top",
+      "constraint": "Use positive outcomes, a sense of fulfillment, smiles, and a light tone.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "happy_top_positive_affect",
+          "evidence_score": 0.697495,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 6,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    },
+    {
+      "emotion": "loving",
+      "direction": "top",
+      "constraint": "Convey care, companionship, commitment, and shared responsibility in the relationship.",
+      "provenance_status": "observed",
+      "constraint_text_status": "recovered_verbatim",
+      "assignment_status": "verified_in_current_inputs",
+      "selected_clusters": [
+        {
+          "cluster_id": "loving_top_warm_bond",
+          "evidence_score": 0.753122,
+          "source_evidence": {
+            "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+            "line": 5,
+            "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+          }
+        }
+      ],
+      "selection_verification": "recorded_cluster_text_match"
+    }
+  ],
+  "historical_constraints": [
+    {
+      "emotion": "desperate",
+      "cluster_id": "desperate_top_last_chance_collapse",
+      "direction": "top",
+      "label": "Desperate and Last Chance",
+      "constraint": "Emphasize that time or options are nearly exhausted and that failing to intervene will lead to irreversible consequences.",
+      "evidence_score": 0.656506,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 1,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "calm",
+      "cluster_id": "calm_top_composed_rhythm",
+      "direction": "top",
+      "label": "Controls from the convulsive rhythm and the relaxing.",
+      "constraint": "Use a steady pace, composed handling, and a controlled process to reduce urgency.",
+      "evidence_score": 0.716583,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 2,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "calm",
+      "cluster_id": "calm_bottom_panic_what_if",
+      "direction": "bottom",
+      "label": "Panic assumptions and emergency stress.",
+      "constraint": "Avoid catastrophic assumptions, rescue pressures and an uncontrollable sense of urgency.",
+      "evidence_score": 0.492697,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 3,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "afraid",
+      "cluster_id": "afraid_top_threat_fear",
+      "direction": "top",
+      "label": "Threat and fear response",
+      "constraint": "Emphasize potential threats, uncontrollable risks, and immediate fear responses.",
+      "evidence_score": 0.766478,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 4,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "loving",
+      "cluster_id": "loving_top_warm_bond",
+      "direction": "top",
+      "label": "A warm company and a bond.",
+      "constraint": "Convey care, companionship, commitment, and shared responsibility in the relationship.",
+      "evidence_score": 0.753122,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 5,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "happy",
+      "cluster_id": "happy_top_positive_affect",
+      "direction": "top",
+      "label": "Happy and positive.",
+      "constraint": "Use positive outcomes, a sense of fulfillment, smiles, and a light tone.",
+      "evidence_score": 0.697495,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 6,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "happy",
+      "cluster_id": "happy_bottom_discomfort_panic",
+      "direction": "bottom",
+      "label": "Unnerved panic and negative stress.",
+      "constraint": "To avoid the semantics of physical discomfort, panic, coldness and problems.",
+      "evidence_score": 0.473232,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 7,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "angry",
+      "cluster_id": "angry_top_anger_outburst",
+      "direction": "top",
+      "label": "Angry and confrontation.",
+      "constraint": "Emphasize feeling offended, exhausted patience, and confrontational expression.",
+      "evidence_score": 0.742669,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 8,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "guilty",
+      "cluster_id": "guilty_top_burden_remorse",
+      "direction": "top",
+      "label": "Burden of remorse and indebtedness.",
+      "constraint": "Emphasize indebtedness, excessive burden, unfulfilled responsibilities, and avoidance driven by guilt.",
+      "evidence_score": 0.463834,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 9,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    },
+    {
+      "emotion": "anxious",
+      "cluster_id": "anxious_top_uncertainty_arousal",
+      "direction": "top",
+      "label": "Uncertainty and stress alert.",
+      "constraint": "Emphasize that the available information is insufficient, the outcome is uncertain, and the risks require further verification.",
+      "evidence_score": 0.744621,
+      "source_evidence": {
+        "path": "sources/embedded_cue_evidence/qwen3-32b.jsonl",
+        "line": 10,
+        "evidence_scope": "embedded_in_supplied_archive_not_independent_upstream_file"
+      }
+    }
+  ],
+  "method_description": "Models are projected by themselves token (c) Evidence, select constraints from shared emotional semantic libraries, and preserve the semantic array selected, the evidence scores corresponding to the model and the original evidence.",
+  "evidence_limit": "This package checks embedded records and wordsheet projections; upstream files and selection algorithms not included are not considered validated.",
+  "cluster_library": "cues/shared_semantic_clusters.json",
+  "projection_evidence": {
+    "path": "cues/vocab_projection/qwen3-32b.csv",
+    "values_modified": false
+  }
+}

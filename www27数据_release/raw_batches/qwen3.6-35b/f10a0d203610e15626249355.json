@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f10a0d203610e15626249355",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf048-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1127213423,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The operation is confined to the evaluation row described in the artifact.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

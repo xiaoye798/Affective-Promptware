@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b292b547b74127816fb8b5bf",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf035-angry/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2463611933,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Recording the requested local result resolves the unfinished keyboard navigation matrix item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

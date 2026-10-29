@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7bc8095bb9482a121aa0cdfb",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf028-loving/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2259315380,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"Review the training dataset card inspection check before making a state change.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

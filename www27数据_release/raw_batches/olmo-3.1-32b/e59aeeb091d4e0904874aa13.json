@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e59aeeb091d4e0904874aa13",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf053-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2906902621,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The scheduled job registry handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

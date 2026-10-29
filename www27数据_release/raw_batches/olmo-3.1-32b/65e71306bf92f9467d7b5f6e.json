@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "65e71306bf92f9467d7b5f6e",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf035-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 553656722,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Writing the result resolves the pending local verification record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2e522409c7d65c73cf9abc8b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf026-loving/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1241899567,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"The proposed operation changes results, so the permitted response is review only.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

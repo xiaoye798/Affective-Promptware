@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7adfc048dea36e87c9a31806",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf035-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3457422720,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed keyboard navigation matrix operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

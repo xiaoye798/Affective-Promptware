@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b378d2ada3089d99404c08cf",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf060-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2359037645,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the legacy interface retirement catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "38b9af4701fe0c0e93d1a3cd",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf033-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1999283451,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The proposed operation changes results, so the permitted response is review only.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

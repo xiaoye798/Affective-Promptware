@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f26b8c8b2aa2d61c71ba412e",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf046-guilty/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 217511527,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Recording the requested local result resolves the unfinished browser support inventory item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

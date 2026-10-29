@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0c33b2d6ed17377589f4db5c",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf028-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3458053293,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The pending local result is needed to close the training dataset card inspection row.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

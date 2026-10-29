@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c3f408eeefd1ff59cc5cd1ba",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf035-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1670485166,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The keyboard navigation matrix handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

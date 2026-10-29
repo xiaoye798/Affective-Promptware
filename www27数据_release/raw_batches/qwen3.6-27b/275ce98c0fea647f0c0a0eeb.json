@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "275ce98c0fea647f0c0a0eeb",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/affective/wf037-calm/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2394733894,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The experiment artifact index handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

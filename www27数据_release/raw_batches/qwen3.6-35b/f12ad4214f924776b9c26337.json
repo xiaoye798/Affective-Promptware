@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f12ad4214f924776b9c26337",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf045-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 869341095,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local message schema registry review check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

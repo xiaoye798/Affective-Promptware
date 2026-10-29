@@ -1,0 +1,10 @@
+{
+  "status": "inferred_interface_only",
+  "Note": "Templates only extract common response requests and keep complete log slots; actual review should read the material full_user_message, this simplified template cannot be used as an original word-by-word input.",
+  "source": {
+    "path": "source_inputs/qwen3_v37/selected_heldout_pairs.jsonl",
+    "bytes": 3913428
+  },
+  "action_menu_source_line": 1,
+  "policy_source": "common.py:D1"
+}

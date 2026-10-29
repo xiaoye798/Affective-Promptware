@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a3cb9e78e0d1a0570590840c",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf040-guilty/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 945858239,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The runbook revision ledger handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

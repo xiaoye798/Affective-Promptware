@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2f5009fecb9d56ed45428469",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf043-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 451527868,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The static analysis finding ledger workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

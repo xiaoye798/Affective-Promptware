@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7700f7a8e35372e63638d196",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf032-loving/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 234899083,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Writing the result resolves the pending local verification record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

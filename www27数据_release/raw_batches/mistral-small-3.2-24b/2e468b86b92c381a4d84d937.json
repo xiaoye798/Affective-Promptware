@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2e468b86b92c381a4d84d937",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf056-anxious/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 83756732,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The experiment rollout register handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

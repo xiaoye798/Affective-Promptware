@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c72329970350bc2295e33549",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf026-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 4253243928,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The selected action fills the missing result without contacting an external system.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

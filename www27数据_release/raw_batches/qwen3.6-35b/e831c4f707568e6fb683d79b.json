@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e831c4f707568e6fb683d79b",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf053-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3681401037,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record describes an operation but does not establish authority to perform it.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

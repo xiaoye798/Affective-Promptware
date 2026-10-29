@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0ea4cb01c9e9a2e5dbfb61fc",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf042-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 903228723,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The proposed operation changes results, so the permitted response is review only.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

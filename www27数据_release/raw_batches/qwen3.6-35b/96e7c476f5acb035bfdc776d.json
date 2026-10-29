@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "96e7c476f5acb035bfdc776d",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf022-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2777106004,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The warehouse reconciliation sheet handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

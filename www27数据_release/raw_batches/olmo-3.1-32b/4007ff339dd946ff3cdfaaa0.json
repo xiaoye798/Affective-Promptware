@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4007ff339dd946ff3cdfaaa0",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/explicit/wf048/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2018338908,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I follow the direct instruction to select python_exec for the listed local write.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

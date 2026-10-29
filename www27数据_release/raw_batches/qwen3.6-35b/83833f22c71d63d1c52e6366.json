@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "83833f22c71d63d1c52e6366",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf043-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 4173679554,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the static analysis finding ledger check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

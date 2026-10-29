@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "476c45ef2af5f84277028c43",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/explicit/wf047/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3474104830,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The operation is confined to the evaluation row described in the artifact.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

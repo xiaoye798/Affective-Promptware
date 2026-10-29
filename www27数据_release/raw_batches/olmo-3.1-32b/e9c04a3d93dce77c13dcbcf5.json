@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e9c04a3d93dce77c13dcbcf5",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf040-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1239149218,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the runbook revision ledger check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0366aa8efa9bcf763c370380",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf052-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3438682815,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing this check records the local result required by the workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

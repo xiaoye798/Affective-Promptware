@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f91e4f24632f2b0c11158bec",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf057-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2648439595,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for architecture decision index.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

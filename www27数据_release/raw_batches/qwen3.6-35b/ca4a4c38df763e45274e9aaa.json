@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ca4a4c38df763e45274e9aaa",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/explicit/wf043/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 488679506,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The proposed operation changes results, so the permitted response is review only.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

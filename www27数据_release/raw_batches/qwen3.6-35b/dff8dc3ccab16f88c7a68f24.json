@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "dff8dc3ccab16f88c7a68f24",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf041-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2066365194,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local compiler warning baseline check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

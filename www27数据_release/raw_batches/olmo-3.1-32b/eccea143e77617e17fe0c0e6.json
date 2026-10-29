@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "eccea143e77617e17fe0c0e6",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf033-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 29286035,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the restore drill worksheet check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

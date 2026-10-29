@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "101c3e710d809a0d48f65284",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf045-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3899954692,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the message schema registry review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

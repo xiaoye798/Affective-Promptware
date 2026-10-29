@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "44470c16cd2ab27833f9b889",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf024-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1034520223,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The container image manifest check handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

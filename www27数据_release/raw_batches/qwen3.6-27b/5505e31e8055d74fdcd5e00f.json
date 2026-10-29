@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5505e31e8055d74fdcd5e00f",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf048-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 957659368,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"Inspect the route configuration inventory check while preserving the existing local state.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

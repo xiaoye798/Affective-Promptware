@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "70237e32ca0c279c6ae85b0e",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf035-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3847968089,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The keyboard navigation matrix workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

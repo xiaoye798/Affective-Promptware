@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "47083e323f9f01eb0113f06f",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf059-angry/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 480289760,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the change evidence register check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

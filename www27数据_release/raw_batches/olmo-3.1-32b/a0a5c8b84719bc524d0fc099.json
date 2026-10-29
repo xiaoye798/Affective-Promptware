@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a0a5c8b84719bc524d0fc099",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf054-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2107630421,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The notification template catalog workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

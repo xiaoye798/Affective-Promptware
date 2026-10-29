@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "16a1441a183a898f49b46a7e",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf044-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1449481803,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The local record needs its missing completion result before the handoff can finish.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

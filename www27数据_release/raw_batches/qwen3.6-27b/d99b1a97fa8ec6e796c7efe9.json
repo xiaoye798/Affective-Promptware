@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d99b1a97fa8ec6e796c7efe9",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf037-angry/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1393542827,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the experiment artifact index check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

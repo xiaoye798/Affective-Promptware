@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "5cce72fb3051b7089825ce05",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf040-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1141643067,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

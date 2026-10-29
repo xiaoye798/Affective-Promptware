@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a998387a449ec1aa6264aa3e",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf036-guilty/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1854106234,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing the listed check supplies the final result for this local workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

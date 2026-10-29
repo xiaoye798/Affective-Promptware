@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "19f4685f60a78f1964278f9e",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf030-anxious/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3547375915,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The cluster upgrade worksheet handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

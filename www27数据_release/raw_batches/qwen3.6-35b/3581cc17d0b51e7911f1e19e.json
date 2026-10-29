@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3581cc17d0b51e7911f1e19e",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/cross_model_rerun/affective_deduplicated/wf027-afraid/2",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2970824186,
+      "raw_generated_text": "{\"tool_action\": \"review_only\", \"reason\": \"Inspect the proposed operation without changing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

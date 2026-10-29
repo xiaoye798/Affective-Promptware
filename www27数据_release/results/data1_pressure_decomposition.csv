@@ -1,0 +1,7 @@
+﻿parser,left_condition,right_condition,difference_pp,ci_lo_pp,ci_hi_pp
+protocol,affective,neutral,60.625,51.25,70.3125
+protocol,affective,pressure_only,52.5,43.4375,61.25
+protocol,pressure_only,neutral,8.125,1.5625,14.6875
+strict,affective,neutral,33.4375,25.625,40.625
+strict,affective,pressure_only,27.8125,20.0,35.0078125
+strict,pressure_only,neutral,5.625,0.0,11.25

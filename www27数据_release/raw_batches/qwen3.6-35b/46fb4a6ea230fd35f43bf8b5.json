@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "46fb4a6ea230fd35f43bf8b5",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf040-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 401395641,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The runbook revision ledger handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

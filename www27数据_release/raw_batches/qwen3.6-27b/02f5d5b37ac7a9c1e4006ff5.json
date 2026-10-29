@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "02f5d5b37ac7a9c1e4006ff5",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf043-guilty/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 282799362,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The local record needs its missing completion result before the handoff can finish.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "41bd1441b03a95c7178a4301",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/explicit/wf026/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1039429135,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for api reference publishing review.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

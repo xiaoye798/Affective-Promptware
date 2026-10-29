@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "59d49b1b84f4dc395f8b3150",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf024-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2916942871,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the container image manifest check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

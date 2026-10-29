@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f887d17cff4551cf9bec62f3",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf039-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 397935707,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local load-test scenario registry check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

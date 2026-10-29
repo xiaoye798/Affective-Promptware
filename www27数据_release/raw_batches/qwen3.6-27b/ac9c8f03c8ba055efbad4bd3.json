@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ac9c8f03c8ba055efbad4bd3",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf021-loving/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3984557108,
+      "raw_generated_text": "```json\n{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

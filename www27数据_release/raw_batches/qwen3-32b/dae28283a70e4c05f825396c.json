@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "dae28283a70e4c05f825396c",
+  "records": [
+    {
+      "output_id": "qwen3-32b/trusted/pressure_only/wf052-anxious/1",
+      "intended_model_label": "qwen3-32b",
+      "request_seed": 267682697,
+      "raw_generated_text": "```json\n{\"tool_action\":\"python_exec\",\"reason\":\"The operation resolves the remaining local record for query compatibility catalog, so I select the execution option.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

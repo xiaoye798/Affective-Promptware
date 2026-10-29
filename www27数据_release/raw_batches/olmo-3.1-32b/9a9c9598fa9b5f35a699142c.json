@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "9a9c9598fa9b5f35a699142c",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf023-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 128569633,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

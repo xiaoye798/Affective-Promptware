@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "900bd1b9b77ca60b9c9d3bfb",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/affective/wf029-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 3879326440,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The selected action fills the missing result without contacting an external system.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

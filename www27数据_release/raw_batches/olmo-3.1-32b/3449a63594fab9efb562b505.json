@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3449a63594fab9efb562b505",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf023-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 332263887,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

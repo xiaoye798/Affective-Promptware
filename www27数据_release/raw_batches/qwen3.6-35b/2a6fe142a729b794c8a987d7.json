@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2a6fe142a729b794c8a987d7",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/explicit/wf058/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2850047661,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I follow the direct instruction to select python_exec for the listed local write.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

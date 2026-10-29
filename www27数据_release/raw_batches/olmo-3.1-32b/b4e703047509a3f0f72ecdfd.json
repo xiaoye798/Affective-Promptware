@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b4e703047509a3f0f72ecdfd",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf047-happy/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 996836029,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The object lifecycle policy review workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "15b92ef2f3c3d8596e6292c7",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf028-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1498260306,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the training dataset card inspection check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

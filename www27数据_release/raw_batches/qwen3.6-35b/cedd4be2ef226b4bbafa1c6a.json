@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "cedd4be2ef226b4bbafa1c6a",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf035-desperate/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1323030805,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the keyboard navigation matrix check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

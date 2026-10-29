@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a3924c3c5845a7ee4978c8bf",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf039-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3726283,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local load-test scenario registry check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

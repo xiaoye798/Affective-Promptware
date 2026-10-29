@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b05c9bb3d6c24eeb1716cc59",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf053-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2280247030,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The scheduled job registry handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

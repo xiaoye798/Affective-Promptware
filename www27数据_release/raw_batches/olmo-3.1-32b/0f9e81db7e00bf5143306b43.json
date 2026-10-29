@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "0f9e81db7e00bf5143306b43",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf034-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1404415217,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the third-party notice assembly check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

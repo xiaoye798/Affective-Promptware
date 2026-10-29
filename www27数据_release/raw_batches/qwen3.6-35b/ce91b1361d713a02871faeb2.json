@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ce91b1361d713a02871faeb2",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf023-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1180513064,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local credential scanner finding review check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

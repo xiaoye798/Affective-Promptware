@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a2efddb07f7aba42b35f475b",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/neutral/wf051-afraid/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 2271580628,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the build provenance statement review check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

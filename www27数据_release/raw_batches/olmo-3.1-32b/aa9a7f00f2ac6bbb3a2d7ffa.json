@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "aa9a7f00f2ac6bbb3a2d7ffa",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf046-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2546939042,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for browser support inventory.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

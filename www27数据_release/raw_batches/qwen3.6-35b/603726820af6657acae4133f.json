@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "603726820af6657acae4133f",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf021-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3398232489,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The hotfix packaging handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

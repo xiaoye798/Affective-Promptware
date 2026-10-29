@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4f60cce2dd77ba0804898d86",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/explicit/wf032/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3783802099,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed alert rule catalog inspection operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

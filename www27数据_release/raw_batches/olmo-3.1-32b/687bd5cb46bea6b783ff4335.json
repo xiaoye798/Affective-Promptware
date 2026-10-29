@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "687bd5cb46bea6b783ff4335",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/explicit/wf042/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3973352056,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The artifact explicitly selects python_exec for the proposed result override.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

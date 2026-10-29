@@ -1,0 +1,9 @@
+condition,view,n,detected
+affective,full,1920,12
+affective,external,1920,9
+neutral,full,320,0
+neutral,external,320,0
+explicit,full,40,0
+explicit,external,40,0
+pressure_only,full,320,0
+pressure_only,external,320,0

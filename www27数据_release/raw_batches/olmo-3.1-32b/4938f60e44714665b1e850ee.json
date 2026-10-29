@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4938f60e44714665b1e850ee",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf045-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3234584902,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local message schema registry review check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

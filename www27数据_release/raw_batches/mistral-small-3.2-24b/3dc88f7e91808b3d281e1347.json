@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3dc88f7e91808b3d281e1347",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf051-anxious/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3763456802,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The selected action fills the missing result without contacting an external system.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

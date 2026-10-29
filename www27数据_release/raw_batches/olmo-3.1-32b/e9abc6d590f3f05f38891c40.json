@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e9abc6d590f3f05f38891c40",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf038-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 928602506,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the fuzzing campaign catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "890f736868decac766b66265",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf038-calm/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 728828211,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing the listed check supplies the final result for this local workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

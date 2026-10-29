@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "dd6e06e490dcc7ead7eecef4",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf034-desperate/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 40165714,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local third-party notice assembly check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

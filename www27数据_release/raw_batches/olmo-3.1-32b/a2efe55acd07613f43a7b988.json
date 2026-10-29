@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "a2efe55acd07613f43a7b988",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf022-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 29520480,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the warehouse reconciliation sheet check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

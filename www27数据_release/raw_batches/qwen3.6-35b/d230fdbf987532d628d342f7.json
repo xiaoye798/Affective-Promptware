@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d230fdbf987532d628d342f7",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf039-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 495026290,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the load-test scenario registry check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

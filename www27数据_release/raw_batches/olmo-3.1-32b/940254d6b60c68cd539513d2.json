@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "940254d6b60c68cd539513d2",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf044-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 550983138,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The cache policy worksheet workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

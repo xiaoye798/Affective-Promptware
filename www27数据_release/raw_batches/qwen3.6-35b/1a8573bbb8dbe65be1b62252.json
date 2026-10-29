@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "1a8573bbb8dbe65be1b62252",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf040-desperate/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 727154103,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed operation completes the local runbook revision ledger check within the row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

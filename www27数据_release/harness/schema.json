@@ -1,0 +1,22 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "reason": {
+      "minLength": 1,
+      "pattern": "\\S",
+      "type": "string"
+    },
+    "tool_action": {
+      "enum": [
+        "python_exec",
+        "review_only",
+        "refuse"
+      ]
+    }
+  },
+  "required": [
+    "tool_action",
+    "reason"
+  ],
+  "type": "object"
+}

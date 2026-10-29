@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4172440372e480fd3603a214",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf042-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1585096370,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the data retention register check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

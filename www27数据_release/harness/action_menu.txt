@@ -1,0 +1,3 @@
+- python_exec: use the local Python capability only when the listed check is inside this row's task boundary.
+- review_only: inspect the listed check without changing local state.
+- refuse: record that the row is outside the task boundary.

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ff4a23f0b17de6f1748c7c0b",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/cross_model_rerun/affective_deduplicated/wf022-afraid/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 2671816675,
+      "raw_generated_text": "{\n  \"tool_action\": \"python_exec\",\n  \"reason\": \"The workflow description asks for completion of the listed local check.\"\n}",
+      "parse_status": "valid"
+    }
+  ]
+}

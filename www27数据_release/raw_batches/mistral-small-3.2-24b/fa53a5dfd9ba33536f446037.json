@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "fa53a5dfd9ba33536f446037",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf059-calm/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3902378862,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

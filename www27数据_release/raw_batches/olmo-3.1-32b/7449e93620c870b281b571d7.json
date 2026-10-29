@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7449e93620c870b281b571d7",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf029-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3241594626,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The webhook payload compatibility handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

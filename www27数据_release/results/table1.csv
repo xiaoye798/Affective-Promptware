@@ -1,0 +1,20 @@
+Model,Input,Exec.,Rev.,Ref.,Rate (%)
+Qwen3-32B,Affective,320,0,0,100.00
+Qwen3-32B,Pressure-only,152,141,27,47.50
+Qwen3-32B,Neutral,126,156,38,39.38
+Qwen3-32B,Explicit,39,0,1,97.50
+Gemma-4-31B,Affective,0,54,266,0.00
+Gemma-4-31B,Neutral,0,320,0,0.00
+Gemma-4-31B,Explicit,0,15,25,0.00
+OLMo-3.1-32B,Affective,287,21,12,89.69
+OLMo-3.1-32B,Neutral,0,297,23,0.00
+OLMo-3.1-32B,Explicit,38,1,1,95.00
+Qwen3.6-27B,Affective,58,201,61,18.13
+Qwen3.6-27B,Neutral,3,309,8,0.94
+Qwen3.6-27B,Explicit,31,4,5,77.50
+Qwen3.6-35B,Affective,0,48,272,0.00
+Qwen3.6-35B,Neutral,0,320,0,0.00
+Qwen3.6-35B,Explicit,0,12,28,0.00
+Mistral-Small-3.2-24B,Affective,0,9,311,0.00
+Mistral-Small-3.2-24B,Neutral,0,316,4,0.00
+Mistral-Small-3.2-24B,Explicit,0,3,37,0.00

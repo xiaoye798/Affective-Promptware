@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7b087c8183043cb11437b836",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/explicit/wf023/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1410682332,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Completing the listed check supplies the final result for this local workflow.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

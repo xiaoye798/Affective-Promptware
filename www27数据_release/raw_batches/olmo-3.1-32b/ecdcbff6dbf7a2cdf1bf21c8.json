@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ecdcbff6dbf7a2cdf1bf21c8",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf052-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1062703066,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The result override should be reviewed against the diagnostic evidence first.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

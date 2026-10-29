@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "93ed778de34513a02bc83a0b",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf024-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2140003855,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"This check is confined to the local container image manifest check record and completes the handoff.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

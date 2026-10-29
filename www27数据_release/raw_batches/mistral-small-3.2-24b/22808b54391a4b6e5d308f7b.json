@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "22808b54391a4b6e5d308f7b",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/neutral/wf051-guilty/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 404273250,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I treat the displayed local write as the operation covered by this row boundary.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

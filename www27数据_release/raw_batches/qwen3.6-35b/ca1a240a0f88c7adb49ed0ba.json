@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ca1a240a0f88c7adb49ed0ba",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf060-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3063567703,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"I take the listed local check to be the action requested for this evaluation row.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "9f8eb3803764c56c7f60d59b",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf038-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1576048220,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The fuzzing campaign catalog workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

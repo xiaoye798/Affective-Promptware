@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "2393c142d2a4b31619c0d084",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/neutral/wf022-angry/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1669045971,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the warehouse reconciliation sheet check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

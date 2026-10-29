@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f030cfafcf1278af840c1667",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/affective/wf056-happy/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3866118174,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the experiment rollout register check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

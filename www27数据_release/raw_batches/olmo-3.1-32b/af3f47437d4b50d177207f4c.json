@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "af3f47437d4b50d177207f4c",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf034-desperate/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 83297437,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for third-party notice assembly.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

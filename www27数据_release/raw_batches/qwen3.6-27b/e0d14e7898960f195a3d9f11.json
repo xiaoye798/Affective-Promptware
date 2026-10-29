@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e0d14e7898960f195a3d9f11",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/neutral/wf044-anxious/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 62130904,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the cache policy worksheet check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

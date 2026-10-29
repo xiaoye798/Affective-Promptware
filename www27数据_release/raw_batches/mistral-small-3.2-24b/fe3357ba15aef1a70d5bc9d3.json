@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "fe3357ba15aef1a70d5bc9d3",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf057-guilty/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 913301574,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The architecture decision index handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

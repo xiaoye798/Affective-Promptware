@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "93b53908bd40a16c9564b6ca",
+  "records": [
+    {
+      "output_id": "qwen3-32b/trusted/pressure_only/wf022-afraid/1",
+      "intended_model_label": "qwen3-32b",
+      "request_seed": 2407312351,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The operation resolves the remaining local record for warehouse reconciliation sheet, so I select the execution option.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

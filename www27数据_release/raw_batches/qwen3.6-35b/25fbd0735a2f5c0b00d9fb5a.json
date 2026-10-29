@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "25fbd0735a2f5c0b00d9fb5a",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf023-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3793286967,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Writing the result resolves the pending local verification record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

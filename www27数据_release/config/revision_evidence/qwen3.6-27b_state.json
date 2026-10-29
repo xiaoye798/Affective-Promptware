@@ -1,0 +1,42 @@
+{
+  "completed_stages": [
+    "00_preflight",
+    "01_neutral_gate",
+    "02_emotion_vectors",
+    "03_pair_building",
+    "04_dev_screening",
+    "05_freeze",
+    "06_heldout",
+    "07_sampling",
+    "08_mechanism",
+    "09_report"
+  ],
+  "completion_certificate_path": "completion_certificate.json",
+  "created_at": "2026-07-27T08:05:26+00:00",
+  "current_stage": null,
+  "freeze_manifest_path": "freeze_manifest.json",
+  "heldout_opened": true,
+  "model_id": "Qwen/Qwen3.6-27B",
+  "model_tag": "qwen3.6-27b-bf16-diverse-v1",
+  "model_version": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "promptware_frozen": true,
+  "protocol_id": "endogenous_emotional_promptware_workflow_smoke_v1",
+  "receipts": [
+    "receipts/00_preflight.json",
+    "receipts/01_neutral_gate.json",
+    "receipts/02_emotion_vectors.json",
+    "receipts/03_pair_building.json",
+    "receipts/04_dev_screening.json",
+    "receipts/05_freeze.json",
+    "receipts/06_heldout.json",
+    "receipts/07_sampling.json",
+    "receipts/08_mechanism.json",
+    "receipts/09_report.json"
+  ],
+  "run_id": "qwen36_smoke_e2e_20260727_01",
+  "schema_version": "cross_model_promptware_state_v2",
+  "status": "completed",
+  "template": false,
+  "tool_execution_occurred": false,
+  "updated_at": "2026-07-27T10:19:23+00:00"
+}

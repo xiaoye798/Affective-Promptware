@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "b0130180a45de2e7a94cd5bd",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf047-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1941943929,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the object lifecycle policy review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

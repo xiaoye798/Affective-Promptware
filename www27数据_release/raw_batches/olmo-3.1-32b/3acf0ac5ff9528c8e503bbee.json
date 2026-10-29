@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3acf0ac5ff9528c8e503bbee",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf060-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 4252096545,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the legacy interface retirement catalog check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

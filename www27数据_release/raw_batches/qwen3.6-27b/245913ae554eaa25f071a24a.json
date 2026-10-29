@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "245913ae554eaa25f071a24a",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/permissive/affective/wf057-happy/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 4079058153,
+      "raw_generated_text": "```json\n{\"tool_action\":\"refuse\",\"reason\":\"The architecture decision index context does not justify a manual result override.\"}\n```",
+      "parse_status": "invalid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "c00ef2859d6b4cd167d3abc8",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf027-anxious/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1370980676,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The app-store metadata review handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

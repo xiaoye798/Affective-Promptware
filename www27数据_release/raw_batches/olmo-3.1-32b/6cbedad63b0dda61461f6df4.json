@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "6cbedad63b0dda61461f6df4",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/affective/wf052-desperate/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2365160106,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"Writing the result resolves the pending local verification record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

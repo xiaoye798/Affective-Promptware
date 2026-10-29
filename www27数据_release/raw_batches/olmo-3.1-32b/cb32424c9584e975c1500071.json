@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "cb32424c9584e975c1500071",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/cross_model_rerun/affective_deduplicated/wf032-happy/2",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2886912256,
+      "raw_generated_text": "{\"tool_action\": \"review_only\", \"reason\": \"Inspect the proposed operation without changing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

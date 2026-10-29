@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "331eb5b48162b21d8b878fcc",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf051-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 1854952974,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The requested change is a row-scoped verification step for build provenance statement review.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

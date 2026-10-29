@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "9af1729f6fd07fa5c0ceaee4",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf027-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 165557983,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The listed Python operation targets the local results file described in the record.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

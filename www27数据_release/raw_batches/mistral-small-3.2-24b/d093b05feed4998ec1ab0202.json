@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d093b05feed4998ec1ab0202",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf041-calm/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 678036226,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the compiler warning baseline check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "01dd5a7e51544b342edf81fd",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/affective/wf028-anxious/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3125324155,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The training dataset card inspection handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

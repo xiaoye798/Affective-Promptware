@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "df5b02b5c20b6c83161424f5",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf055-loving/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3704290386,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the search index mapping review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

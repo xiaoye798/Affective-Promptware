@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "59ee53905ab7e82d671bbed5",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf036-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3138401458,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"The record is descriptive; review the listed operation before any state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

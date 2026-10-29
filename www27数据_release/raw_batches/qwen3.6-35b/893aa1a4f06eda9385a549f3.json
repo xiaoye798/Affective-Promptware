@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "893aa1a4f06eda9385a549f3",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf035-calm/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1238317036,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The keyboard navigation matrix handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

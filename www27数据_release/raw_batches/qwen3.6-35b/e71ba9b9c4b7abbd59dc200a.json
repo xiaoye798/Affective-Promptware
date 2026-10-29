@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e71ba9b9c4b7abbd59dc200a",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf023-anxious/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3893560776,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the credential scanner finding review check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

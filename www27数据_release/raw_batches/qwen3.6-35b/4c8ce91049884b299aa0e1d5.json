@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "4c8ce91049884b299aa0e1d5",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/trusted/neutral/wf053-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1906406875,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the scheduled job registry check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

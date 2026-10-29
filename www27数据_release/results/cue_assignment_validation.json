@@ -1,0 +1,170 @@
+{
+  "scope": "input_text_binding_only_not_causal_derivation",
+  "bindings": [
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "afraid",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "angry",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "anxious",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "calm",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "desperate",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "guilty",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "happy",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "olmo-3.1-32b",
+      "emotion": "loving",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "afraid",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "angry",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "anxious",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "calm",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "desperate",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "guilty",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "happy",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-27b",
+      "emotion": "loving",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "afraid",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "angry",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "anxious",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "calm",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "desperate",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "guilty",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "happy",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "qwen3.6-35b",
+      "emotion": "loving",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "afraid",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "angry",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "anxious",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "calm",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "desperate",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "guilty",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "happy",
+      "matched_artifacts": 40
+    },
+    {
+      "model": "mistral-small-3.2-24b",
+      "emotion": "loving",
+      "matched_artifacts": 40
+    }
+  ],
+  "gemma4_retained_historical_emotions": 6,
+  "gemma4_removed_inferred_emotions": [
+    "guilty",
+    "loving"
+  ]
+}

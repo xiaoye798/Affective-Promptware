@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "3d066c814063b830e2441308",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf024-loving/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3857294664,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the container image manifest check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

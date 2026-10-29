@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "cadcf2d135c70f29ab05e6e4",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/permissive/neutral/wf023-loving/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 3901980302,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the credential scanner finding review check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

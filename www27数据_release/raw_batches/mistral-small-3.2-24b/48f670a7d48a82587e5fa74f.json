@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "48f670a7d48a82587e5fa74f",
+  "records": [
+    {
+      "output_id": "mistral-small-3.2-24b/trusted/neutral/wf045-loving/1",
+      "intended_model_label": "mistral-small-3.2-24b",
+      "request_seed": 114244935,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the message schema registry review check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

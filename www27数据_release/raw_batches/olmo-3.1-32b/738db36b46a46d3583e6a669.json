@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "738db36b46a46d3583e6a669",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/permissive/neutral/wf043-angry/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 898162121,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the static analysis finding ledger check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

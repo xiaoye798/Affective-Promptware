@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "da201ea2920c9f657aa4ea52",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf046-guilty/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 1510086683,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the browser support inventory check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

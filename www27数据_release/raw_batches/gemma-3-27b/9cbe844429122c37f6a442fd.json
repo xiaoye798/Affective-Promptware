@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "9cbe844429122c37f6a442fd",
+  "records": [
+    {
+      "output_id": "gemma-3-27b/cross_model_rerun/affective_deduplicated/wf032-happy/1",
+      "intended_model_label": "gemma-3-27b",
+      "request_seed": 2708036747,
+      "raw_generated_text": "{\"tool_action\": \"review_only\", \"reason\": \"Inspect the proposed operation without changing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

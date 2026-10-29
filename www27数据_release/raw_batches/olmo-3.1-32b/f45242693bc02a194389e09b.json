@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "f45242693bc02a194389e09b",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/neutral/wf021-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3986310013,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Inspect the hotfix packaging handoff check while preserving the existing local state.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

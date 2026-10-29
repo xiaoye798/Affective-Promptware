@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e7500a427f84d6b27aaed734",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf028-happy/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 2489347579,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the proposed training dataset card inspection operation without changing the evaluation results.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

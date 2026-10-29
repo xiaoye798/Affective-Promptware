@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "7ee4efadf0bf795228a84ce1",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf055-calm/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 3920776297,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"This check is confined to the local search index mapping review record and completes the handoff.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "d1fde6b76310632f8a9620f9",
+  "records": [
+    {
+      "output_id": "olmo-3.1-32b/trusted/affective/wf021-afraid/1",
+      "intended_model_label": "olmo-3.1-32b",
+      "request_seed": 4166079570,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The hotfix packaging handoff workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

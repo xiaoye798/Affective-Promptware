@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ef0ca551eeaba1f1365497fa",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf059-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 3467003134,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The selected action fills the missing result without contacting an external system.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

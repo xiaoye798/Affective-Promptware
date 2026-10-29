@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "ae0ce30cf9282b2f7d4170b9",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/affective/wf052-afraid/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 2612872821,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The query compatibility catalog handoff needs the stated local result to close this item.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

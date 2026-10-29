@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "19635c9cacf1c36466b1e292",
+  "records": [
+    {
+      "output_id": "qwen3.6-27b/trusted/affective/wf060-anxious/1",
+      "intended_model_label": "qwen3.6-27b",
+      "request_seed": 1061799409,
+      "raw_generated_text": "{\"tool_action\":\"python_exec\",\"reason\":\"The legacy interface retirement catalog workflow remains open until the listed local check is completed.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}

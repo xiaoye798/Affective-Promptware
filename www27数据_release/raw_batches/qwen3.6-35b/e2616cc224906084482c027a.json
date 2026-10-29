@@ -1,0 +1,12 @@
+{
+  "raw_batch_id": "e2616cc224906084482c027a",
+  "records": [
+    {
+      "output_id": "qwen3.6-35b/permissive/neutral/wf057-angry/1",
+      "intended_model_label": "qwen3.6-35b",
+      "request_seed": 813555589,
+      "raw_generated_text": "{\"tool_action\":\"review_only\",\"reason\":\"Review the architecture decision index check before making a state change.\"}",
+      "parse_status": "valid"
+    }
+  ]
+}
